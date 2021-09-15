@@ -37,3 +37,4 @@
   <li> <strong> df1 = df[df["nom_colonne"]>100]</strong> </li>
   <li> <strong< df.boxplot() or df['nom_colonne'].boxplot() </strong> </li>
   <li><srtong> sdf.corr() </strong> </li>
+  </ol>
