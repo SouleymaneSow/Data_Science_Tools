@@ -2,9 +2,9 @@
 ### Python Packages Made For Data Science Teams
 <h2> Mito </h2>
   <ol>
-    <li> Mito is a spreadsheet interface for python. Many data science teams work with stakeholders who are more used to using Excel.</li>
-    <li> Mito allows users to calla <strong>spreadsheet</strong> into their jupyter environment, each edit they make in the spreadsheet will generate the equivalent python in the code cell below</li>.
-    <lI> Mito is not only powerful for excel users to contribue to data science team, it also great tool for python users</li>.
+    <li> Mito is a spreadsheet interface for python. Many data science teams work with stakeholders who are more used to using Excel</li>
+    <li> Mito allows users to calla <strong>spreadsheet</strong> into their jupyter environment, each edit they make in the spreadsheet will generate the equivalent python in the code cell below</li>
+    <li> Mito is not only powerful for excel users to contribue to data science team, it also great tool for python users</li>
     <li> Mito is faster way to generate code than typing it by hand</li>
  </ol>
  
