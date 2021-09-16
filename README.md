@@ -20,10 +20,10 @@
   ### 5 Tools for Data Sicence
   <ol>
   <li> 1. Pandas </li>
-  <li> 2. Mito : is a spreadsheet that generates python. You get to feel like you are working in Excel or Google Sheets an each edit you make generates the equivalent python)</li>
-  <li> 3. Tensorflow  : Build neural networks, Design recommendation systems, Create adversarial networks)</li>
-  <li> 4. BeautifulSoup : Beautiful soup is a Python package that allows for easy data extraction from html and xml formats — this essentially means web-scraping)</li>
-  <li> 5. Matplotlib : is one of Python’s best graphing packages. You can make simple visual representations as well as more advanced, interactive graphics)</li>
+  <li> 2. Mito : is a spreadsheet that generates python. You get to feel like you are working in Excel or Google Sheets an each edit you make generates the equivalent python</li>
+  <li> 3. Tensorflow  : Build neural networks, Design recommendation systems, Create adversarial networks</li>
+  <li> 4. BeautifulSoup : Beautiful soup is a Python package that allows for easy data extraction from html and xml formats — this essentially means web-scraping</li>
+  <li> 5. Matplotlib : is one of Python’s best graphing packages. You can make simple visual representations as well as more advanced, interactive graphics</li>
  </ol>
  
  ### 9 fonctions that spreed your EDA process:
