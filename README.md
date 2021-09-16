@@ -36,5 +36,5 @@
   <li> <strong> df.replace(np.nan,"0",inplace= True) </strong></li>
   <li> <strong> df1 = df[df["nom_colonne"]>100]</strong> </li>
   <li> <strong> df.boxplot() or df['nom_colonne'].boxplot() </strong> </li>
-  <li><srtong> sdf.corr() </strong> </li>
+  <li><srtong> df.corr() </strong> </li>
   </ol>
