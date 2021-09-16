@@ -1,0 +1,1001 @@
+id_parcours,Date_Reservation,Client_Prenom,Client_Nom,Age_client,Cat_CSP,Transport_ID,Ville_départ,Ville_dépose,Distance_(km),Date_Prise_véhicule,Date_Restitution_véhicule,Conducteur,Catégorie_véhicule,Modèle_véhicule,Immatriculation,Sinistre,Type_sinistre,Assurance
+3455,2009-03-02,William,Kennedy,10,Non Cadre,83,Paris,LeMans,274,2017-06-27,1992-10-25,Mrs. Brianna Crawford,Berline,Honda,XX0YY,0,NON RESPONSABLE,ALLIANZ
+3924,2002-11-18,Craig,Phillips,31,Non Cadre,31,Lyon,Clermont,289,2009-04-17,2001-12-05,Sandra Harding,Berline,Fiat,XX50YY,0,NON RESPONSABLE,GROUPAMA
+2835,1996-08-24,Crystal,Carlson,56,Non Cadre,87,Amiens,LeMans,166,1996-01-02,2007-02-01,Catherine Abbott,Citadine,Fiat,XX35YY,1,RESPONSABLE,ALLIANZ
+3103,2007-08-11,Willie,Frazier,11,Non Cadre,80,Lyon,Nice,993,1992-03-10,2000-05-09,Michael Burke,Citadine,Mazda,XX33YY,1,NON RESPONSABLE,AXA
+2043,2007-03-10,Lisa,Turner,25,Cadre,80,Lyon,LeHavre,219,2005-05-01,2021-07-31,Calvin Lee,Berline,Dacia,XX75YY,0,NON RESPONSABLE,AXA
+1114,2017-09-16,Deanna,Mckenzie,29,Cadre,75,Lyon,Bordeaux,792,2011-09-25,2009-05-24,Blake Garcia,Berline,Fiat,XX91YY,1,NON RESPONSABLE,GENERALI
+1342,2021-06-10,Sandra,Hernandez,4,Non Cadre,66,Strasbourg,LeMans,831,2012-05-25,2009-08-10,Susan Hoffman,Electrique,Kia,XX88YY,0,NON RESPONSABLE,GROUPAMA
+4998,1997-05-04,Kevin,Anderson,55,Cadre,0,Lille,Nice,847,2013-02-20,2006-03-10,Michelle Woods,Citadine,Hyundai,XX60YY,0,NON RESPONSABLE,GROUPAMA
+739,2016-10-03,Jennifer,Duke,18,Cadre,92,Strasbourg,LeMans,745,2017-05-12,2012-09-27,Scott Arellano,Electrique,Audi,XX33YY,0,NON RESPONSABLE,GROUPAMA
+2972,2013-12-24,Brandy,Avery,51,Non Cadre,91,Lille,Clermont,406,1994-09-23,2016-05-09,Barbara Bond,Electrique,Kia,XX53YY,0,NON RESPONSABLE,ALLIANZ
+3667,1997-07-06,Gloria,Hoover,46,Cadre,19,Lyon,Bordeaux,964,2002-09-03,1994-11-18,Robert Brown,Citadine,Fiat,XX39YY,1,NON RESPONSABLE,GENERALI
+3378,2009-06-03,Zachary,Matthews,48,Non Cadre,46,Paris,Marseille,346,2004-01-29,1995-10-15,Patricia Arnold,Electrique,Honda,XX44YY,0,NON RESPONSABLE,GROUPAMA
+2548,2016-03-19,Mark,Thomas,3,Non Cadre,77,Lyon,LeHavre,50,2010-10-21,2013-09-12,Kimberly Davis,Berline,Audi,XX92YY,1,RESPONSABLE,ALLIANZ
+4406,2019-07-03,Heather,Mayer,99,Cadre,5,Lille,Bordeaux,349,1999-03-25,1995-01-21,Michele Bryant,Berline,Fiat,XX68YY,0,NON RESPONSABLE,ALLIANZ
+4530,1996-04-14,Christina,Taylor,51,Cadre,25,Strasbourg,LeMans,45,1996-03-08,2001-08-13,Teresa Mejia,Citadine,Kia,XX56YY,1,NON RESPONSABLE,GENERALI
+91,2017-09-11,Michael,Lewis,59,Cadre,68,Lille,Bordeaux,451,1993-06-17,2001-09-17,Willie Bruce,Citadine,Mazda,XX33YY,1,RESPONSABLE,ALLIANZ
+1132,1994-07-20,Thomas,Collier,89,Non Cadre,77,Amiens,LeMans,253,2010-08-09,2007-08-21,Sherri Lambert,Electrique,Mazda,XX30YY,1,RESPONSABLE,GROUPAMA
+4325,2018-10-21,Warren,Rice,54,Cadre,62,Lille,Nice,238,1994-06-05,2006-07-01,Sarah Oconnor,Citadine,Honda,XX90YY,0,RESPONSABLE,GENERALI
+4844,2007-01-13,Ashley,Jackson,3,Non Cadre,59,Lyon,Bordeaux,345,2009-02-27,2013-01-07,Jennifer Valdez,Electrique,Fiat,XX7YY,1,RESPONSABLE,ALLIANZ
+3078,1998-11-15,Ian,Myers,70,Cadre,42,Lille,Bordeaux,8,2002-10-18,2008-06-24,Laura Smith,Citadine,Fiat,XX27YY,0,NON RESPONSABLE,GENERALI
+3321,2018-02-28,Patrick,Garza Jr.,28,Non Cadre,82,Strasbourg,LeHavre,134,2014-08-28,2005-12-07,Kathy Rogers,Electrique,Hyundai,XX40YY,1,NON RESPONSABLE,ALLIANZ
+459,2003-03-26,Abigail,Burns,70,Non Cadre,75,Lille,LeMans,340,2016-12-29,2000-04-23,Debra Kelley,Electrique,Kia,XX84YY,1,NON RESPONSABLE,AXA
+502,2008-02-23,Mary,Lynn,19,Cadre,57,Lyon,Bordeaux,587,2016-04-07,2021-02-22,Gregory Jennings,Berline,Dacia,XX6YY,0,NON RESPONSABLE,GENERALI
+4846,2014-08-01,Laura,King,5,Cadre,32,Lille,Clermont,663,2006-02-21,1991-10-31,Scott English,Electrique,Hyundai,XX91YY,1,RESPONSABLE,GENERALI
+4872,2002-12-13,Matthew,Smith,56,Cadre,54,Paris,LeMans,218,2010-02-21,1997-10-17,Sarah Smith,Citadine,Fiat,XX72YY,0,NON RESPONSABLE,GROUPAMA
+4898,1998-02-05,Jeffrey,White,0,Non Cadre,40,Lyon,Nice,684,2006-04-04,2002-01-09,Gail Mann,Citadine,Honda,XX75YY,0,RESPONSABLE,GENERALI
+865,1993-04-04,Devin,Casey,46,Cadre,5,Paris,Bordeaux,246,1992-02-06,1999-01-29,Chris Kaiser,Berline,Fiat,XX51YY,1,RESPONSABLE,ALLIANZ
+1977,1991-12-16,Kellie,Rodgers,96,Non Cadre,33,Strasbourg,Marseille,330,1992-11-23,2010-01-29,Kimberly Rodriguez,Berline,Hyundai,XX24YY,1,NON RESPONSABLE,GENERALI
+1655,2010-04-03,Wayne,Ortega,79,Cadre,31,Amiens,LeHavre,416,2017-11-24,2017-06-08,Brian Mueller,Citadine,Honda,XX2YY,0,NON RESPONSABLE,GENERALI
+4832,2007-10-26,Rose,Kemp,87,Cadre,19,Strasbourg,Nice,163,2017-05-04,1993-06-26,Jeffrey Smith,Citadine,Kia,XX7YY,1,NON RESPONSABLE,ALLIANZ
+349,2016-05-18,Andrea,Woodward,74,Non Cadre,30,Amiens,LeHavre,195,2020-11-14,2016-07-26,Carlos Parrish,Electrique,Fiat,XX46YY,0,NON RESPONSABLE,ALLIANZ
+1725,2012-07-26,Dale,Meyer,47,Cadre,74,Amiens,LeMans,527,2019-10-01,2021-02-23,Emily Wells,Berline,Honda,XX5YY,1,NON RESPONSABLE,ALLIANZ
+3788,1995-03-05,Jessica,Garcia,50,Non Cadre,64,Amiens,Marseille,478,2020-04-12,2012-07-12,Anthony Travis,Electrique,Hyundai,XX20YY,0,RESPONSABLE,ALLIANZ
+2715,1991-10-31,Jennifer,Boyd,60,Cadre,17,Amiens,LeMans,403,2009-11-28,2003-07-09,Colleen Bush,Electrique,Kia,XX99YY,1,NON RESPONSABLE,ALLIANZ
+2443,2010-08-06,Reginald,Blake,75,Cadre,58,Paris,LeMans,160,2006-07-08,2014-03-07,William Smith,Electrique,Kia,XX8YY,0,RESPONSABLE,GROUPAMA
+3951,2021-01-18,James,Estrada,5,Non Cadre,55,Strasbourg,Marseille,614,2011-11-18,1996-01-09,Jeffrey Frost,Berline,Dacia,XX10YY,0,RESPONSABLE,GROUPAMA
+696,2013-04-15,Cynthia,Sanders,11,Non Cadre,39,Lyon,Nice,483,2016-12-30,2002-01-13,Glenn Thomas,Berline,Honda,XX81YY,0,NON RESPONSABLE,GENERALI
+1266,2016-01-02,Mark,Smith,99,Non Cadre,13,Lyon,Marseille,892,2014-09-21,1991-09-14,Lucas Smith,Citadine,Fiat,XX44YY,1,RESPONSABLE,AXA
+3673,2002-12-18,Alexandra,Taylor,47,Non Cadre,27,Paris,Marseille,976,2016-11-23,1993-02-15,Michael Hobbs,Citadine,Kia,XX53YY,1,NON RESPONSABLE,ALLIANZ
+3492,2014-01-24,Gabrielle,Jackson,40,Non Cadre,65,Nantes,Bordeaux,514,2018-12-10,2006-07-31,Nicole Cooper,Berline,Kia,XX36YY,1,RESPONSABLE,GENERALI
+3711,2001-09-20,Matthew,King,97,Cadre,39,Amiens,Marseille,698,2009-11-04,1999-02-18,Lauren West,Citadine,Mazda,XX83YY,1,NON RESPONSABLE,GENERALI
+28,2008-03-16,William,Watson,65,Cadre,9,Nantes,Clermont,302,2013-01-09,2003-09-10,Martha Kim,Citadine,Audi,XX50YY,0,RESPONSABLE,AXA
+1193,2008-09-27,Crystal,Burns,97,Cadre,37,Lyon,Nice,528,2009-02-17,2013-02-05,Courtney Luna DDS,Electrique,Honda,XX23YY,0,NON RESPONSABLE,AXA
+379,2020-02-07,Lisa,Livingston,19,Non Cadre,30,Lille,LeHavre,426,2020-11-22,2020-07-29,Thomas Mitchell,Electrique,Audi,XX28YY,0,RESPONSABLE,ALLIANZ
+1512,1995-05-16,Christopher,Mejia,49,Cadre,46,Paris,LeMans,521,2005-01-16,1992-08-08,Kara Anderson,Electrique,Audi,XX87YY,0,RESPONSABLE,AXA
+2444,2021-09-11,William,Patel,24,Cadre,75,Nantes,Bordeaux,572,2016-07-06,2012-01-30,Jenny Mcconnell,Citadine,Kia,XX5YY,0,RESPONSABLE,AXA
+1185,2012-05-08,Dennis,Martinez,89,Cadre,33,Amiens,Marseille,856,2005-11-01,2009-10-09,Jamie Rodriguez,Electrique,Audi,XX79YY,0,NON RESPONSABLE,ALLIANZ
+1050,2018-07-11,Mark,Brown,72,Non Cadre,83,Strasbourg,Bordeaux,185,2010-07-15,1992-09-01,Steven Garrison,Citadine,Hyundai,XX94YY,1,RESPONSABLE,GROUPAMA
+4005,2007-09-06,David,Cervantes,20,Non Cadre,37,Paris,LeMans,624,2007-02-25,2005-05-30,Marvin Snyder,Electrique,Fiat,XX52YY,0,RESPONSABLE,ALLIANZ
+3498,2013-01-26,Katrina,Smith,54,Cadre,37,Nantes,Clermont,749,1998-04-10,1996-03-04,Debbie Simmons,Berline,Honda,XX61YY,0,NON RESPONSABLE,GENERALI
+3474,2010-02-05,Crystal,Willis,78,Cadre,25,Strasbourg,LeMans,175,2003-07-20,1991-11-08,Cassandra Warren,Electrique,Hyundai,XX17YY,0,NON RESPONSABLE,ALLIANZ
+3479,1996-09-14,Jason,Cruz,68,Non Cadre,85,Lille,Marseille,215,2018-02-24,1996-04-18,Misty Floyd,Citadine,Fiat,XX57YY,1,RESPONSABLE,GROUPAMA
+4288,2004-07-20,Julie,Ward,30,Non Cadre,32,Lyon,Bordeaux,961,2010-02-05,2019-07-30,Brittany Fletcher,Citadine,Hyundai,XX79YY,1,RESPONSABLE,AXA
+1332,1992-09-05,Mark,Kelley,62,Non Cadre,1,Amiens,Clermont,263,2017-07-01,2011-02-24,Clarence Mora,Berline,Kia,XX99YY,0,RESPONSABLE,AXA
+3779,2001-08-06,Benjamin,Walsh,37,Non Cadre,98,Lille,Bordeaux,799,1998-03-12,2011-09-30,Mr. Richard Webster,Berline,Hyundai,XX87YY,1,RESPONSABLE,AXA
+4094,2019-08-12,Joshua,Lewis,68,Cadre,87,Nantes,Marseille,272,2019-07-09,1998-04-12,Stephanie Clark,Citadine,Honda,XX57YY,0,NON RESPONSABLE,ALLIANZ
+2671,2004-04-10,John,Martinez,26,Non Cadre,57,Amiens,LeHavre,713,2012-05-08,2007-04-13,Christine Goodwin,Citadine,Dacia,XX45YY,0,RESPONSABLE,ALLIANZ
+976,2014-05-01,Jason,Cox,65,Non Cadre,33,Lyon,Bordeaux,850,2009-07-18,1996-06-12,Shawn Simmons,Electrique,Audi,XX58YY,1,NON RESPONSABLE,AXA
+3130,2018-01-13,Chelsea,Williams,61,Cadre,51,Paris,Nice,964,2016-06-28,2013-11-26,Samantha Ayala,Electrique,Honda,XX57YY,0,RESPONSABLE,AXA
+2788,1997-10-18,Ian,Smith,98,Cadre,97,Lille,Bordeaux,19,2014-04-24,2006-02-06,Jane Butler,Citadine,Fiat,XX82YY,0,NON RESPONSABLE,GENERALI
+2322,2005-09-10,Karen,Jacobs,74,Cadre,82,Amiens,Nice,966,2013-03-30,2018-12-02,Kim Weber,Electrique,Dacia,XX62YY,1,RESPONSABLE,GENERALI
+4051,2021-07-07,Tamara,Gordon,29,Non Cadre,37,Amiens,LeMans,533,2000-08-24,2009-04-27,Robert Mason,Citadine,Dacia,XX84YY,0,NON RESPONSABLE,GROUPAMA
+1803,2012-07-03,Sheryl,Wright,78,Cadre,4,Nantes,Clermont,941,2016-05-11,2003-09-22,Erin Francis,Berline,Hyundai,XX25YY,1,NON RESPONSABLE,GENERALI
+1150,2018-10-31,Dorothy,Yates,51,Cadre,20,Nantes,Clermont,515,2014-10-26,1992-02-20,Nicole Garza,Electrique,Fiat,XX49YY,0,NON RESPONSABLE,GENERALI
+2964,2000-04-03,Steven,Williams,1,Cadre,49,Lyon,Nice,839,1997-12-22,2012-01-25,Amy Manning,Electrique,Audi,XX30YY,0,RESPONSABLE,AXA
+836,2001-09-24,Misty,Cooper,87,Cadre,65,Strasbourg,Marseille,372,2011-09-07,2016-07-13,Susan Robles,Citadine,Honda,XX26YY,1,RESPONSABLE,GENERALI
+3080,2012-04-10,Bridget,Smith,98,Cadre,49,Lille,LeMans,338,1997-04-07,2005-11-14,John Gay,Citadine,Audi,XX18YY,0,RESPONSABLE,AXA
+1203,1994-03-22,Beth,Alexander,9,Cadre,75,Nantes,LeHavre,57,2015-11-24,1993-12-04,Michael Lindsey,Citadine,Audi,XX50YY,1,RESPONSABLE,GROUPAMA
+4191,1999-08-15,Jonathan,Velazquez,34,Non Cadre,21,Amiens,LeMans,840,2006-10-18,2019-10-17,Phyllis Houston,Electrique,Hyundai,XX17YY,1,RESPONSABLE,GROUPAMA
+3475,2021-08-05,David,Carter,92,Non Cadre,63,Lille,LeHavre,852,1994-10-24,2006-01-10,Yolanda Larsen,Berline,Dacia,XX35YY,1,RESPONSABLE,GENERALI
+3374,2006-08-21,Monica,Weiss,11,Non Cadre,57,Lyon,Marseille,224,2016-12-04,2001-11-02,Nancy Ortiz,Electrique,Audi,XX48YY,0,NON RESPONSABLE,AXA
+4350,2012-10-31,Christine,Jones,14,Non Cadre,34,Nantes,LeHavre,729,2011-06-20,2018-04-08,Janet Thompson,Berline,Fiat,XX37YY,1,NON RESPONSABLE,AXA
+4838,2007-06-04,Michelle,Collins,51,Non Cadre,58,Lyon,LeMans,187,2007-05-21,2003-10-20,Kelsey Cohen,Citadine,Mazda,XX30YY,1,RESPONSABLE,ALLIANZ
+2294,2009-04-18,Richard,Crane,46,Non Cadre,33,Amiens,Nice,634,1997-09-13,1995-11-25,Daniel Nelson,Citadine,Dacia,XX56YY,1,RESPONSABLE,GENERALI
+3944,2017-12-13,Casey,Sandoval,20,Non Cadre,40,Nantes,Clermont,589,2012-04-08,2015-06-25,Richard Anderson,Electrique,Fiat,XX36YY,0,NON RESPONSABLE,GROUPAMA
+1646,2009-11-04,Kelly,Whitaker,43,Non Cadre,72,Lille,Marseille,826,1995-05-18,2021-04-01,Meagan Fernandez,Citadine,Dacia,XX30YY,1,RESPONSABLE,GENERALI
+2932,1999-06-10,Anthony,Smith,27,Cadre,87,Amiens,Bordeaux,701,2008-09-04,2015-03-29,Shelia Scott,Berline,Audi,XX53YY,1,NON RESPONSABLE,ALLIANZ
+2191,1991-11-03,Dr.,Colleen Murray,54,Cadre,83,Paris,LeHavre,190,2002-10-04,2009-12-15,Monica Shaw,Berline,Tesla,XX40YY,1,RESPONSABLE,GROUPAMA
+2298,2017-07-08,Jose,Wallace,81,Cadre,9,Paris,Marseille,412,2001-10-20,2017-12-22,Michael Dalton,Citadine,Honda,XX37YY,1,RESPONSABLE,GENERALI
+3495,2010-05-22,Brittany,Jones DDS,93,Cadre,58,Nantes,Nice,723,2019-05-03,2020-04-20,Melissa Brown,Electrique,Honda,XX32YY,0,NON RESPONSABLE,AXA
+2144,1997-01-31,Anthony,Johnson,15,Non Cadre,84,Paris,Nice,223,2012-06-06,2012-09-14,Angela Gibson,Electrique,Audi,XX83YY,0,NON RESPONSABLE,GENERALI
+3325,2013-12-24,Alexis,Matthews,43,Non Cadre,45,Strasbourg,Marseille,571,1996-12-05,2008-01-20,Larry Beard,Electrique,Dacia,XX47YY,1,NON RESPONSABLE,ALLIANZ
+580,2006-08-19,Steven,Lee,58,Cadre,58,Lyon,Bordeaux,253,2009-04-04,1992-12-11,Sandra Young,Electrique,Fiat,XX55YY,1,NON RESPONSABLE,ALLIANZ
+1196,1998-10-29,Angelica,Jackson,54,Non Cadre,2,Lyon,LeHavre,633,2010-08-23,2009-03-31,Janet Williams,Berline,Kia,XX79YY,1,NON RESPONSABLE,GENERALI
+317,2021-08-23,Megan,Willis,48,Non Cadre,3,Lyon,Clermont,278,2009-04-16,2000-12-24,Wendy Stone,Berline,Kia,XX6YY,0,NON RESPONSABLE,GENERALI
+1762,2009-04-02,Sherry,Lowe,24,Non Cadre,99,Amiens,Clermont,42,2008-09-26,2011-03-11,Michael Taylor,Citadine,Hyundai,XX66YY,1,NON RESPONSABLE,AXA
+4485,2020-10-29,Mikayla,Martin,54,Cadre,18,Nantes,Bordeaux,232,1994-12-04,1997-09-13,Gregory Davis,Citadine,Honda,XX77YY,1,NON RESPONSABLE,ALLIANZ
+3564,2000-07-29,Suzanne,Mccann,40,Cadre,49,Amiens,Bordeaux,269,2015-01-07,2019-02-11,Lawrence Morales,Berline,Hyundai,XX11YY,0,NON RESPONSABLE,GENERALI
+1652,2008-04-27,Derek,Rogers,74,Cadre,87,Lyon,Marseille,542,2016-05-19,2016-09-17,Justin Avila,Citadine,Mazda,XX2YY,0,RESPONSABLE,GROUPAMA
+468,2014-06-19,Erica,Anderson,34,Non Cadre,74,Amiens,Marseille,776,1993-09-29,2019-03-07,William Mcdonald,Electrique,Honda,XX32YY,0,RESPONSABLE,AXA
+3046,1998-12-04,Sue,Berry,24,Cadre,57,Paris,Nice,968,2007-11-04,1995-08-20,John Phillips,Electrique,Fiat,XX49YY,0,NON RESPONSABLE,GROUPAMA
+15,1996-02-29,Shane,Jackson,44,Cadre,16,Strasbourg,LeHavre,979,2018-11-13,1994-12-01,Terri Stanton,Citadine,Tesla,XX64YY,1,NON RESPONSABLE,ALLIANZ
+925,2006-01-03,Renee,Phillips,95,Non Cadre,76,Nantes,Bordeaux,256,2010-07-10,2005-04-13,Stephanie Willis,Citadine,Audi,XX15YY,0,RESPONSABLE,AXA
+4683,2017-07-03,David,Fletcher,0,Cadre,16,Lyon,Clermont,889,1992-09-16,1996-11-13,Jody Smith,Berline,Dacia,XX28YY,0,NON RESPONSABLE,GROUPAMA
+3653,1992-08-23,Raymond,Porter,55,Non Cadre,37,Strasbourg,Marseille,628,1995-04-20,1992-05-14,Dawn Kaiser,Electrique,Mazda,XX80YY,0,NON RESPONSABLE,AXA
+2762,2020-12-24,Amber,Rodriguez,57,Non Cadre,39,Paris,LeHavre,318,2021-04-03,2019-12-14,Karina Montoya,Electrique,Audi,XX42YY,1,RESPONSABLE,GENERALI
+1010,2014-05-12,Robyn,Davis,91,Cadre,14,Paris,Bordeaux,595,1998-06-17,2008-01-12,Brian Rose,Electrique,Hyundai,XX97YY,0,NON RESPONSABLE,GENERALI
+3350,1992-11-26,Charles,Greer,20,Non Cadre,11,Paris,LeHavre,603,2000-10-15,1997-04-07,Melissa Joseph,Berline,Audi,XX1YY,0,RESPONSABLE,ALLIANZ
+1969,1997-11-09,Ricky,Haney,76,Cadre,72,Nantes,Bordeaux,57,2006-02-21,1993-05-29,Mary Brown,Citadine,Tesla,XX1YY,0,RESPONSABLE,GROUPAMA
+1269,2006-11-24,Patrick,Meyer,52,Non Cadre,13,Nantes,Marseille,216,2021-06-29,2011-05-06,Wanda Miller,Citadine,Tesla,XX0YY,1,NON RESPONSABLE,AXA
+2758,1996-08-30,Cory,Chavez,91,Cadre,72,Lille,Bordeaux,116,1995-02-24,2020-09-11,Ashley Patrick,Berline,Dacia,XX12YY,1,NON RESPONSABLE,GENERALI
+1218,2017-10-29,Ruben,Preston,25,Non Cadre,56,Strasbourg,Marseille,943,2007-01-05,1994-04-11,Jill Collins,Citadine,Dacia,XX0YY,1,NON RESPONSABLE,GROUPAMA
+3805,2015-11-24,Brian,Lopez,26,Cadre,74,Lyon,LeMans,861,2017-01-06,2004-08-12,Sean Washington,Berline,Tesla,XX23YY,0,NON RESPONSABLE,GROUPAMA
+44,1997-05-14,Reginald,Whitney,34,Cadre,11,Amiens,Clermont,629,2003-07-15,1992-09-27,Paul Clark,Electrique,Fiat,XX17YY,0,RESPONSABLE,GENERALI
+2117,2020-02-07,Megan,Smith,65,Cadre,8,Nantes,LeMans,175,2011-07-13,1998-05-08,Joshua Eaton,Citadine,Dacia,XX22YY,1,NON RESPONSABLE,ALLIANZ
+1146,1994-10-04,Jaime,Kane,36,Cadre,48,Nantes,Clermont,358,2005-03-14,2008-08-15,Linda Martinez,Citadine,Tesla,XX90YY,1,RESPONSABLE,AXA
+4121,2003-12-03,Carl,Cline,89,Non Cadre,38,Lyon,Marseille,607,2020-05-13,1999-01-14,David Elliott,Berline,Hyundai,XX59YY,0,RESPONSABLE,GROUPAMA
+2105,2001-08-01,Bradley,Jones,55,Non Cadre,60,Nantes,LeMans,901,2009-08-31,2015-12-17,Robin Stone,Berline,Fiat,XX22YY,0,RESPONSABLE,GROUPAMA
+1159,1996-05-06,Luis,Jensen,96,Non Cadre,42,Lyon,Marseille,414,2001-11-12,2004-10-18,Kenneth Maldonado,Berline,Tesla,XX7YY,0,NON RESPONSABLE,GROUPAMA
+832,1996-08-18,Shawn,Chase,80,Non Cadre,40,Paris,Marseille,668,2014-06-05,2018-05-07,Heather Scott,Citadine,Tesla,XX32YY,1,NON RESPONSABLE,AXA
+3942,2000-09-06,Marcus,Lane,76,Cadre,41,Paris,Bordeaux,844,2017-08-17,1998-04-30,Jennifer Colon,Berline,Kia,XX42YY,0,NON RESPONSABLE,AXA
+889,1994-06-23,Savannah,Norman,94,Non Cadre,41,Paris,LeMans,965,2005-12-01,2003-06-03,Carl Castillo,Electrique,Audi,XX86YY,0,NON RESPONSABLE,AXA
+1425,2017-10-13,Angel,Jackson,55,Non Cadre,81,Strasbourg,Marseille,208,2007-08-29,1996-06-16,Logan Robles,Citadine,Fiat,XX91YY,1,NON RESPONSABLE,GENERALI
+335,2017-07-30,Julia,Jordan,97,Cadre,53,Lyon,Marseille,648,2002-07-02,1999-03-14,Christina Morris,Electrique,Dacia,XX11YY,1,NON RESPONSABLE,ALLIANZ
+4243,1993-12-14,Matthew,Wood,32,Cadre,63,Nantes,LeHavre,520,2017-03-06,2010-10-07,Paula Hull,Electrique,Honda,XX63YY,1,RESPONSABLE,GROUPAMA
+4535,2000-08-31,Valerie,Brown,70,Cadre,1,Strasbourg,Clermont,802,2009-10-25,2006-04-28,Erica Gordon,Citadine,Fiat,XX8YY,1,NON RESPONSABLE,GROUPAMA
+1034,2003-11-13,Jessica,Kelly,88,Non Cadre,49,Lille,LeHavre,94,2016-04-15,1994-05-13,Kelsey Murray,Electrique,Kia,XX48YY,1,RESPONSABLE,AXA
+2620,2009-07-07,April,Davis,87,Non Cadre,65,Paris,LeMans,123,2001-03-18,2009-02-27,Misty Jackson DDS,Berline,Honda,XX60YY,1,NON RESPONSABLE,AXA
+4221,2004-11-06,Jacob,Martin,72,Cadre,50,Lille,Nice,511,2016-04-13,2002-09-23,Christine Bowers,Electrique,Hyundai,XX92YY,0,RESPONSABLE,GROUPAMA
+3593,1992-02-09,Derrick,Smith,11,Non Cadre,15,Paris,Bordeaux,515,2005-09-04,2000-12-05,Joshua Howell,Electrique,Kia,XX90YY,1,RESPONSABLE,ALLIANZ
+1691,2009-11-28,Samantha,Christensen,22,Non Cadre,33,Nantes,Clermont,2,1994-09-29,2008-07-01,Jessica Alvarado,Citadine,Tesla,XX30YY,1,NON RESPONSABLE,AXA
+4230,1994-07-20,Lisa,Williams,35,Non Cadre,5,Amiens,LeMans,617,2019-02-12,2007-01-30,Erika White,Citadine,Hyundai,XX22YY,0,NON RESPONSABLE,AXA
+1161,2019-06-05,Stacey,Wheeler,15,Non Cadre,32,Amiens,Marseille,443,2013-11-21,2006-04-23,Gary Smith,Electrique,Honda,XX44YY,1,NON RESPONSABLE,GROUPAMA
+4365,2004-08-10,Brian,Brown,34,Non Cadre,55,Nantes,LeMans,117,2000-12-20,2006-10-02,Darrell Lyons,Citadine,Kia,XX80YY,0,NON RESPONSABLE,GENERALI
+2012,2017-07-09,Christy,Jackson,89,Non Cadre,70,Lyon,LeMans,409,2014-07-27,2007-07-25,Deanna Moore,Electrique,Audi,XX0YY,1,RESPONSABLE,AXA
+4311,2017-11-21,Jeffery,Brown,74,Non Cadre,87,Paris,Clermont,598,2003-07-16,1992-12-23,Jonathan Peters,Berline,Dacia,XX59YY,1,RESPONSABLE,ALLIANZ
+1859,2016-12-09,Christine,Harrington,32,Cadre,5,Nantes,LeHavre,253,1998-08-10,2012-04-04,Jessica Bray,Electrique,Audi,XX93YY,1,RESPONSABLE,ALLIANZ
+3880,1995-01-29,Taylor,Ferguson,53,Non Cadre,10,Nantes,Nice,639,1997-08-15,1998-06-18,Michael Sandoval,Electrique,Hyundai,XX89YY,0,RESPONSABLE,AXA
+2736,1995-01-26,Heather,Higgins,24,Non Cadre,94,Nantes,Bordeaux,490,2005-03-17,1992-01-01,Nicholas Parker,Citadine,Mazda,XX7YY,1,RESPONSABLE,GENERALI
+2554,1996-07-27,Tracy,Hall,25,Cadre,56,Strasbourg,Clermont,866,1997-12-03,2006-05-14,Tara Ramos,Electrique,Mazda,XX66YY,0,NON RESPONSABLE,ALLIANZ
+3238,1995-07-17,Candace,Payne,39,Non Cadre,80,Lille,LeMans,270,2015-03-02,2003-11-06,Lisa Morgan,Citadine,Hyundai,XX17YY,0,RESPONSABLE,AXA
+560,2012-02-29,Amy,Farmer,8,Cadre,58,Paris,LeMans,412,2010-10-01,1996-11-27,Susan Curtis,Berline,Kia,XX26YY,0,NON RESPONSABLE,GENERALI
+3215,2001-10-16,Travis,Jones,96,Cadre,96,Amiens,Nice,440,1997-12-15,2018-07-31,John James,Berline,Mazda,XX26YY,1,RESPONSABLE,GROUPAMA
+1779,2005-05-07,Theresa,Hopkins,79,Non Cadre,2,Lyon,LeHavre,837,2004-03-17,2003-12-28,Erin Small,Electrique,Hyundai,XX94YY,0,RESPONSABLE,GROUPAMA
+4073,2002-01-02,Kevin,Burns,68,Cadre,26,Strasbourg,Bordeaux,538,2005-10-18,1993-10-02,Robin Reynolds,Electrique,Tesla,XX63YY,1,RESPONSABLE,GENERALI
+2753,2001-08-20,Jeffrey,Allen,27,Non Cadre,82,Nantes,Bordeaux,335,1997-12-13,1993-05-03,Jacqueline Hayden,Electrique,Hyundai,XX89YY,1,NON RESPONSABLE,ALLIANZ
+2925,2008-02-18,Nathan,Lewis DVM,98,Non Cadre,14,Strasbourg,Clermont,573,1998-11-03,2000-10-25,Matthew Guerra,Electrique,Audi,XX96YY,1,NON RESPONSABLE,GENERALI
+2099,2021-02-04,Robin,Norton,91,Cadre,49,Paris,Nice,838,2018-03-27,2002-11-24,Dorothy Price,Citadine,Fiat,XX71YY,1,RESPONSABLE,GROUPAMA
+2272,2016-11-28,Gina,Fleming,54,Non Cadre,19,Strasbourg,Marseille,487,2008-02-03,1997-08-24,Kevin Mclaughlin,Citadine,Audi,XX90YY,1,RESPONSABLE,ALLIANZ
+2283,2019-02-25,Keith,Henderson,7,Cadre,53,Lille,Nice,805,1998-11-21,1998-09-13,Cindy Thomas,Electrique,Tesla,XX20YY,1,NON RESPONSABLE,AXA
+2914,2011-08-10,Natalie,Clark,33,Cadre,7,Lille,Nice,532,1994-11-15,2007-11-01,Joshua Kennedy,Berline,Audi,XX20YY,0,RESPONSABLE,GROUPAMA
+1140,2007-05-05,Elizabeth,Moon,69,Cadre,70,Paris,Clermont,508,2017-02-03,2010-10-09,Brittney Jones,Citadine,Kia,XX48YY,0,RESPONSABLE,AXA
+978,2013-06-20,Brandon,Cameron,54,Non Cadre,98,Strasbourg,Marseille,880,1999-09-10,2016-02-26,Barbara Duffy,Electrique,Audi,XX89YY,0,RESPONSABLE,AXA
+4582,2004-03-16,Nancy,Wilson,41,Cadre,62,Lille,LeMans,933,2019-01-03,2020-04-01,Alison Hall,Citadine,Fiat,XX90YY,1,RESPONSABLE,ALLIANZ
+1506,1996-03-08,Paige,Prince,51,Cadre,36,Lille,LeHavre,616,2005-08-30,2013-01-15,Mrs. Lori Conner,Citadine,Tesla,XX77YY,0,NON RESPONSABLE,AXA
+3384,2005-03-07,Jason,Castillo,71,Cadre,68,Paris,Marseille,936,2011-11-19,2003-03-24,Devin Morales,Berline,Kia,XX29YY,0,NON RESPONSABLE,AXA
+3278,2001-05-19,Denise,Vargas,50,Non Cadre,9,Lille,LeMans,490,2009-09-09,2001-06-30,Rachael Smith,Berline,Hyundai,XX42YY,1,RESPONSABLE,GENERALI
+1031,1992-10-23,Victor,Wright,35,Non Cadre,84,Lyon,Clermont,396,1997-09-09,2003-03-03,Rebecca Gutierrez,Citadine,Kia,XX35YY,0,RESPONSABLE,ALLIANZ
+582,1995-05-29,Eric,Li,32,Cadre,11,Amiens,LeMans,37,2008-12-24,1992-04-24,Cheryl Curtis,Citadine,Tesla,XX92YY,0,NON RESPONSABLE,GROUPAMA
+2128,2005-08-04,Jenna,Jackson,22,Non Cadre,40,Amiens,Nice,744,2017-10-14,2012-04-23,James Morales,Citadine,Fiat,XX46YY,0,NON RESPONSABLE,GROUPAMA
+1987,2012-03-26,Pamela,Marshall,23,Non Cadre,84,Amiens,Nice,262,2019-01-27,2014-01-08,Kimberly Greene,Electrique,Audi,XX67YY,1,NON RESPONSABLE,AXA
+494,2019-10-06,Shawn,Simpson,13,Cadre,63,Lille,Clermont,765,1996-07-17,2016-02-20,Lee Strong,Citadine,Kia,XX54YY,1,RESPONSABLE,GROUPAMA
+3863,2019-07-10,Kimberly,Warren,12,Cadre,79,Strasbourg,Bordeaux,332,2009-05-24,1995-08-16,Mrs. Julie Lee,Berline,Honda,XX71YY,0,RESPONSABLE,AXA
+4250,1995-03-21,Michael,White,39,Non Cadre,19,Strasbourg,LeMans,69,2013-03-10,2003-10-11,Lauren Odom,Berline,Tesla,XX28YY,1,NON RESPONSABLE,GENERALI
+3646,2004-02-24,Kara,Rollins,35,Non Cadre,16,Amiens,Nice,607,2017-03-26,1993-02-18,Jacqueline Diaz,Berline,Hyundai,XX21YY,0,RESPONSABLE,GENERALI
+4575,2009-11-29,Claudia,Black,43,Cadre,52,Paris,LeMans,22,2004-09-12,2020-04-13,Sarah Garza,Citadine,Kia,XX48YY,0,RESPONSABLE,ALLIANZ
+2286,2005-10-22,Derek,Hawkins,75,Non Cadre,27,Amiens,LeMans,660,2003-07-30,1995-06-15,Francisco Mayo,Berline,Kia,XX65YY,1,RESPONSABLE,GENERALI
+2414,2001-12-12,Samantha,King,49,Cadre,34,Lyon,LeHavre,575,1997-06-13,1993-08-21,Dr. Daniel Cruz Jr.,Citadine,Hyundai,XX5YY,1,RESPONSABLE,GENERALI
+4055,1999-04-30,Sonya,Lewis,21,Non Cadre,16,Strasbourg,Bordeaux,257,2018-12-10,1998-04-30,Sydney Rubio,Electrique,Tesla,XX78YY,0,RESPONSABLE,GROUPAMA
+2423,2015-04-26,Sarah,Hughes,63,Non Cadre,11,Amiens,LeHavre,874,2006-06-01,1997-02-18,Henry Branch,Citadine,Tesla,XX84YY,1,NON RESPONSABLE,ALLIANZ
+3318,2009-06-21,James,Warner,8,Non Cadre,61,Amiens,Bordeaux,151,2005-03-08,2017-04-30,Debra Robinson,Citadine,Tesla,XX15YY,0,NON RESPONSABLE,GENERALI
+1960,2007-07-06,Ashley,Reilly,34,Non Cadre,53,Nantes,Clermont,552,2019-06-19,2011-12-11,Gabriella Benton,Electrique,Kia,XX76YY,0,RESPONSABLE,GROUPAMA
+2828,2017-08-15,Tammy,King,75,Non Cadre,54,Paris,LeMans,166,2009-07-10,2020-09-15,Ashley Lee,Citadine,Mazda,XX61YY,1,RESPONSABLE,GENERALI
+1883,1997-09-28,Michelle,Kelly,98,Non Cadre,78,Amiens,Bordeaux,385,1994-06-26,2008-04-24,Samuel Nelson,Berline,Dacia,XX72YY,1,NON RESPONSABLE,ALLIANZ
+1101,2014-02-14,Jennifer,Reyes,57,Cadre,17,Lille,Clermont,114,2005-10-03,1992-08-28,Michael Nelson,Berline,Honda,XX53YY,0,RESPONSABLE,AXA
+886,2003-07-05,John,Smith,90,Non Cadre,45,Paris,Marseille,418,1996-03-05,2011-06-01,Matthew Hernandez,Electrique,Hyundai,XX81YY,0,RESPONSABLE,GENERALI
+4598,2008-02-09,Lisa,Anderson,94,Non Cadre,45,Strasbourg,LeMans,539,2011-11-01,2000-07-28,Andrew Garcia,Berline,Dacia,XX75YY,1,NON RESPONSABLE,GROUPAMA
+1384,2010-11-12,Cynthia,Ortiz,70,Cadre,37,Nantes,LeMans,466,1994-12-25,2018-12-09,Melissa Johnson,Berline,Dacia,XX18YY,0,RESPONSABLE,ALLIANZ
+104,1995-02-10,Rickey,Brown,77,Non Cadre,47,Paris,LeMans,691,1996-03-10,1997-08-22,Julia Cantu,Electrique,Honda,XX93YY,1,NON RESPONSABLE,GENERALI
+635,2014-09-26,Thomas,Ramirez,12,Non Cadre,66,Paris,Marseille,534,2017-08-27,2020-01-12,Gwendolyn Garner,Electrique,Mazda,XX62YY,1,RESPONSABLE,AXA
+958,2004-08-17,Kathryn,White,35,Cadre,49,Lyon,Nice,857,1992-03-20,2000-08-16,Gregory Flores,Citadine,Dacia,XX51YY,0,NON RESPONSABLE,GENERALI
+4893,2012-07-24,Matthew,Kirby PhD,17,Non Cadre,43,Amiens,Marseille,231,2018-12-11,1999-04-03,Patricia Baker,Berline,Kia,XX44YY,1,RESPONSABLE,GROUPAMA
+4890,2004-10-23,Howard,Harrison,13,Non Cadre,19,Amiens,Marseille,511,2001-11-30,1993-08-13,David Daugherty,Electrique,Mazda,XX69YY,0,NON RESPONSABLE,GROUPAMA
+1309,1996-07-03,John,Carlson,89,Cadre,5,Strasbourg,Bordeaux,960,2011-12-15,1996-06-22,Autumn Riggs,Berline,Hyundai,XX50YY,1,NON RESPONSABLE,AXA
+10,2006-01-03,Lori,Morrow,19,Non Cadre,93,Lille,LeMans,293,2012-09-12,2010-03-16,Gina Martin,Berline,Kia,XX69YY,1,NON RESPONSABLE,ALLIANZ
+396,2015-07-24,John,Sanchez,79,Cadre,24,Amiens,Bordeaux,436,2005-01-16,2000-02-06,Willie Roberts,Citadine,Hyundai,XX45YY,0,NON RESPONSABLE,AXA
+2442,2020-01-05,Patrick,Vasquez,38,Cadre,10,Strasbourg,Marseille,651,2013-11-10,2019-01-19,Steven Baker,Citadine,Mazda,XX11YY,1,NON RESPONSABLE,GENERALI
+130,2014-02-05,Daniel,Hanson,45,Non Cadre,19,Amiens,LeMans,708,1993-05-05,2019-07-22,Michael Ortiz,Berline,Honda,XX51YY,0,RESPONSABLE,GENERALI
+648,1997-06-26,Hannah,Klein,93,Non Cadre,47,Nantes,Clermont,737,1996-09-23,2015-07-21,Katherine Reed,Berline,Audi,XX37YY,0,RESPONSABLE,AXA
+4429,2000-08-07,Jason,Soto,67,Cadre,22,Lyon,Nice,614,2005-02-19,2009-01-27,Vanessa Horton,Berline,Fiat,XX83YY,0,RESPONSABLE,GROUPAMA
+4166,2010-12-14,Ronald,Wade,75,Cadre,92,Lyon,Marseille,787,1994-02-26,2004-02-09,Louis Rios,Electrique,Kia,XX44YY,0,NON RESPONSABLE,ALLIANZ
+2488,2012-09-11,Michael,Hernandez,87,Non Cadre,75,Nantes,Clermont,187,1991-11-27,2020-09-21,Travis Clark,Berline,Tesla,XX99YY,0,NON RESPONSABLE,GENERALI
+2355,2011-07-24,Jennifer,Anderson,41,Cadre,98,Nantes,Clermont,447,2002-02-22,2005-03-25,Jill Estrada,Electrique,Audi,XX61YY,1,RESPONSABLE,AXA
+1662,2009-08-02,Shannon,Lewis,66,Cadre,61,Lyon,LeMans,237,2011-08-02,2004-08-12,Alicia Hale,Electrique,Fiat,XX57YY,1,RESPONSABLE,GROUPAMA
+4416,2005-09-22,Mr.,Randall Watkins,70,Cadre,58,Strasbourg,Nice,974,2005-09-19,2019-01-02,John Goodwin,Citadine,Kia,XX39YY,1,NON RESPONSABLE,AXA
+4482,2003-01-31,Debra,Johnson MD,30,Non Cadre,31,Strasbourg,Clermont,643,2008-06-21,2002-03-08,David Skinner,Electrique,Dacia,XX25YY,0,NON RESPONSABLE,GENERALI
+1890,2000-07-28,Heather,Miller,64,Cadre,67,Amiens,Nice,717,2018-11-17,2011-02-24,Alison Miller,Electrique,Mazda,XX23YY,0,RESPONSABLE,ALLIANZ
+2188,2003-04-24,Frank,Lewis,27,Non Cadre,7,Strasbourg,LeMans,511,2007-07-09,2000-11-27,Erin Dillon,Berline,Tesla,XX85YY,1,NON RESPONSABLE,GENERALI
+4825,2019-06-06,Cody,Wagner,48,Cadre,46,Lyon,LeHavre,94,2001-10-07,2015-06-07,Caitlyn Black,Berline,Audi,XX37YY,1,NON RESPONSABLE,ALLIANZ
+3445,2010-01-31,Dr.,Jamie Hernandez,36,Cadre,90,Nantes,Clermont,856,2001-02-25,1995-11-18,Jorge Patterson,Berline,Fiat,XX7YY,0,RESPONSABLE,GROUPAMA
+2938,1996-12-17,Samantha,Frye,3,Non Cadre,45,Paris,LeMans,594,2008-05-25,1992-08-27,Dorothy Adams,Citadine,Mazda,XX89YY,0,NON RESPONSABLE,AXA
+1770,2017-03-22,Tonya,Davis,84,Cadre,45,Nantes,Nice,586,2008-07-25,2017-02-20,Michael Wade,Electrique,Dacia,XX50YY,1,NON RESPONSABLE,AXA
+759,2003-11-07,Clifford,Clayton,29,Non Cadre,37,Amiens,LeHavre,279,2003-09-01,1996-04-15,Patricia Burke,Citadine,Tesla,XX86YY,1,NON RESPONSABLE,GROUPAMA
+4428,2017-12-15,Dr.,Jared Simpson,84,Non Cadre,71,Lyon,Bordeaux,855,2009-02-02,2013-01-27,Daniel Joseph,Citadine,Fiat,XX31YY,0,NON RESPONSABLE,GENERALI
+4112,1994-03-09,Mathew,Archer,50,Non Cadre,83,Strasbourg,Bordeaux,450,2020-12-14,1999-01-20,Diana Gray,Electrique,Audi,XX91YY,1,RESPONSABLE,ALLIANZ
+3522,1995-12-15,Ashley,Fletcher,40,Non Cadre,21,Amiens,Marseille,44,2005-08-14,2010-02-18,Shawn Adams,Electrique,Mazda,XX42YY,1,RESPONSABLE,AXA
+943,2006-03-25,Christine,Walker,24,Cadre,55,Lille,Clermont,816,2001-07-11,1996-02-07,Joshua York,Citadine,Dacia,XX58YY,1,NON RESPONSABLE,GENERALI
+2055,1999-08-29,Kenneth,Potts Jr.,4,Non Cadre,60,Nantes,Nice,212,2003-06-13,2001-05-06,Barry Johnson,Electrique,Honda,XX99YY,1,RESPONSABLE,ALLIANZ
+351,1992-04-12,Nathan,Valdez,89,Non Cadre,88,Amiens,Clermont,238,1996-09-09,1999-03-19,Raymond Patel,Electrique,Honda,XX58YY,1,RESPONSABLE,AXA
+920,1996-10-09,Carl,Gross,4,Cadre,85,Nantes,LeHavre,516,2011-01-12,1995-08-13,Andrew Savage,Electrique,Dacia,XX81YY,0,NON RESPONSABLE,GENERALI
+3457,2021-04-29,Charlene,Higgins,96,Non Cadre,30,Paris,Bordeaux,624,1995-09-22,2016-03-24,Jennifer Meyer,Electrique,Kia,XX94YY,1,NON RESPONSABLE,GROUPAMA
+2386,1993-04-01,Jason,Miller,19,Non Cadre,76,Strasbourg,LeHavre,601,1993-04-09,2018-08-07,Valerie Gardner,Berline,Kia,XX41YY,0,RESPONSABLE,AXA
+2293,2020-04-14,Katherine,Vincent,98,Non Cadre,33,Amiens,Bordeaux,17,1997-11-17,2014-01-03,Austin Bryant,Berline,Honda,XX63YY,0,RESPONSABLE,GROUPAMA
+4474,2007-07-19,Eric,Davis,93,Cadre,98,Paris,LeHavre,158,1995-12-19,2018-01-01,Christopher Rojas,Citadine,Hyundai,XX16YY,0,RESPONSABLE,GROUPAMA
+2064,2002-05-07,Amy,White,89,Non Cadre,80,Nantes,Nice,829,2013-07-13,2006-04-22,Nathan Carter,Electrique,Hyundai,XX31YY,0,NON RESPONSABLE,AXA
+1780,2001-03-07,Mario,Hartman,6,Cadre,71,Paris,Nice,637,2019-09-25,2000-04-28,Robert Campbell,Berline,Honda,XX65YY,1,NON RESPONSABLE,GROUPAMA
+1842,1997-02-19,Matthew,Leonard,31,Cadre,20,Amiens,Bordeaux,217,2013-07-14,2007-07-29,Thomas Smith,Citadine,Hyundai,XX71YY,1,RESPONSABLE,ALLIANZ
+3817,2021-07-18,Selena,Hurley,5,Non Cadre,85,Lyon,Nice,523,1996-03-07,2020-08-25,William Williams,Electrique,Mazda,XX87YY,1,NON RESPONSABLE,GENERALI
+4556,1991-10-04,Christine,Yu,61,Non Cadre,72,Paris,Marseille,865,1998-11-04,2019-07-29,Nathan Thomas,Citadine,Fiat,XX8YY,1,NON RESPONSABLE,GROUPAMA
+623,1998-06-10,Morgan,Oconnor,60,Cadre,66,Lyon,Clermont,885,1993-11-30,2001-06-16,Joseph Griffith,Citadine,Hyundai,XX67YY,1,NON RESPONSABLE,GROUPAMA
+2382,2019-04-18,Stephanie,Bryant,91,Cadre,73,Lyon,Marseille,21,1995-03-14,2002-04-23,Brandon Reyes,Citadine,Fiat,XX28YY,0,RESPONSABLE,AXA
+2112,2000-08-11,Danielle,Schneider,46,Cadre,21,Paris,Bordeaux,410,1992-08-29,2015-01-07,Susan Jones,Electrique,Mazda,XX60YY,0,RESPONSABLE,GROUPAMA
+4483,1999-04-12,Ralph,Bell,67,Cadre,52,Lille,Marseille,227,1992-01-24,2004-11-12,Andrew Cooper,Berline,Fiat,XX12YY,1,NON RESPONSABLE,GROUPAMA
+1593,2010-07-24,Cathy,Jacobs,5,Cadre,55,Strasbourg,Nice,529,1998-09-21,2011-08-18,Thomas Martin,Citadine,Dacia,XX70YY,0,NON RESPONSABLE,GENERALI
+988,2018-06-15,Javier,Carey,13,Cadre,68,Lyon,Clermont,101,2008-06-18,2004-05-30,Kelly Martin,Electrique,Hyundai,XX98YY,0,RESPONSABLE,GROUPAMA
+2192,1995-01-11,Angie,Carrillo,47,Non Cadre,29,Lille,LeMans,115,2016-04-11,2010-03-30,Michelle Walker,Electrique,Tesla,XX22YY,1,RESPONSABLE,GROUPAMA
+2407,2012-01-28,Michael,Parks,22,Cadre,34,Lyon,Clermont,970,1997-07-17,2010-05-01,Michael Frank,Electrique,Kia,XX42YY,1,NON RESPONSABLE,GENERALI
+320,2003-12-02,Andrea,Ferrell,88,Cadre,92,Amiens,Bordeaux,978,2014-07-01,2021-07-20,Jodi Lyons,Electrique,Mazda,XX30YY,1,NON RESPONSABLE,ALLIANZ
+873,1996-05-24,Jenna,Evans,64,Cadre,27,Lyon,Clermont,50,2008-12-30,2021-03-04,Michael Miller,Berline,Fiat,XX28YY,1,NON RESPONSABLE,AXA
+4211,2021-07-21,Tiffany,Bridges,50,Cadre,8,Lille,Marseille,996,2009-06-18,2011-02-24,Michele Nelson,Electrique,Dacia,XX9YY,1,RESPONSABLE,GROUPAMA
+3038,1991-10-27,Laura,Salazar,31,Cadre,22,Lyon,Nice,661,2020-01-11,2002-08-23,Kim Jones,Citadine,Dacia,XX78YY,1,NON RESPONSABLE,GENERALI
+360,1992-12-03,Mark,Landry,92,Non Cadre,66,Amiens,LeMans,975,2020-04-24,1997-07-02,Justin Weiss,Citadine,Fiat,XX9YY,1,NON RESPONSABLE,GENERALI
+2592,2002-04-01,Joe,Henry,99,Non Cadre,10,Nantes,Marseille,442,2021-01-05,2011-12-12,Ryan Jacobs,Electrique,Kia,XX89YY,0,NON RESPONSABLE,AXA
+2971,2018-12-01,Caleb,Martinez,79,Cadre,53,Nantes,LeHavre,524,2020-04-13,1998-10-01,James Mckinney,Berline,Honda,XX93YY,1,RESPONSABLE,GROUPAMA
+89,2001-07-08,Dr.,Anne Chan,51,Non Cadre,4,Lille,Marseille,635,2004-07-27,2005-04-01,Scott Thomas,Berline,Hyundai,XX59YY,1,NON RESPONSABLE,GENERALI
+1024,2017-10-15,Matthew,Swanson,51,Non Cadre,89,Nantes,Marseille,397,2007-10-08,2013-03-03,Matthew Roach,Electrique,Hyundai,XX41YY,0,RESPONSABLE,GROUPAMA
+2210,2001-01-04,Kendra,Garcia,85,Non Cadre,61,Lyon,LeHavre,262,2012-01-23,2008-05-12,Danielle Henson,Berline,Dacia,XX1YY,1,RESPONSABLE,GROUPAMA
+3394,2006-07-11,Joanna,Baker,97,Cadre,48,Strasbourg,Marseille,941,1997-01-23,2021-08-16,Shannon Phillips,Electrique,Fiat,XX96YY,1,NON RESPONSABLE,GENERALI
+1573,1998-03-06,Elizabeth,Jones,36,Non Cadre,37,Lille,Marseille,316,1998-01-18,2007-06-03,Cassandra Hall,Citadine,Tesla,XX39YY,1,RESPONSABLE,ALLIANZ
+1847,2010-07-06,Drew,Fernandez,9,Cadre,77,Lille,LeHavre,696,2016-02-11,1994-01-10,Melissa Sullivan,Berline,Honda,XX36YY,0,NON RESPONSABLE,AXA
+2885,2010-06-14,Adam,Harrison,36,Cadre,31,Nantes,Marseille,654,1994-11-25,2011-12-05,David Cooper,Citadine,Mazda,XX67YY,1,NON RESPONSABLE,ALLIANZ
+2497,2007-04-06,Ian,Gordon,6,Non Cadre,65,Amiens,Marseille,57,2002-11-11,2021-01-26,Tyler Finley,Electrique,Mazda,XX99YY,1,RESPONSABLE,ALLIANZ
+1783,2017-08-07,Erica,Long,24,Non Cadre,23,Paris,Bordeaux,480,2004-02-29,1997-12-31,Kylie Osborne,Electrique,Kia,XX72YY,0,NON RESPONSABLE,GENERALI
+4187,2016-07-08,Rachel,Duffy,3,Cadre,41,Lyon,Bordeaux,535,2013-04-09,2013-02-22,Rebecca Chang,Berline,Dacia,XX74YY,0,RESPONSABLE,AXA
+2754,2008-04-25,Michael,Martin,2,Non Cadre,50,Paris,Bordeaux,238,2007-01-15,2021-08-29,Michelle Abbott,Electrique,Dacia,XX74YY,0,NON RESPONSABLE,ALLIANZ
+2087,2002-09-17,Matthew,Simpson,97,Cadre,27,Lille,Bordeaux,600,2019-02-14,2008-09-05,Dawn Morgan,Electrique,Audi,XX42YY,1,NON RESPONSABLE,GROUPAMA
+1061,2008-08-25,Whitney,James,46,Non Cadre,22,Nantes,Marseille,680,2001-08-20,1994-10-01,Megan Rivera,Electrique,Audi,XX74YY,1,RESPONSABLE,GENERALI
+53,2014-06-08,Jason,Cole,63,Non Cadre,42,Lyon,Nice,196,2011-08-30,2005-10-03,William Tran,Electrique,Hyundai,XX70YY,0,RESPONSABLE,AXA
+4213,2003-08-07,Michael,Hodges,13,Non Cadre,50,Lille,LeHavre,684,2020-05-21,1992-04-20,Jonathan Morris,Berline,Dacia,XX32YY,1,NON RESPONSABLE,GROUPAMA
+4574,2007-05-07,Amber,Hatfield,31,Non Cadre,16,Paris,Bordeaux,782,2007-01-18,1996-06-08,Harold Young,Berline,Kia,XX72YY,1,RESPONSABLE,ALLIANZ
+896,1995-07-21,Nicole,Barajas,31,Non Cadre,45,Lille,LeHavre,744,2010-09-11,2015-09-15,Paige Jacobs,Citadine,Dacia,XX0YY,0,RESPONSABLE,AXA
+3222,1995-03-07,Shelby,Cooper,45,Non Cadre,21,Nantes,Clermont,729,2017-09-18,2006-12-31,Teresa Carr,Electrique,Hyundai,XX73YY,1,RESPONSABLE,GROUPAMA
+1075,1995-08-08,Daniel,Howell,1,Non Cadre,57,Strasbourg,LeMans,877,2010-01-01,2007-06-06,Dennis Mitchell,Electrique,Dacia,XX57YY,1,RESPONSABLE,GROUPAMA
+3042,2013-10-17,Matthew,Mitchell,17,Cadre,5,Lyon,LeHavre,680,2004-07-10,2006-12-28,Jacqueline Cantrell,Berline,Hyundai,XX2YY,1,NON RESPONSABLE,GROUPAMA
+4447,2000-07-02,Matthew,Garrett,13,Cadre,53,Strasbourg,Clermont,448,2002-04-05,2021-08-30,Brittany Chapman,Citadine,Kia,XX65YY,0,NON RESPONSABLE,GROUPAMA
+4479,2012-09-20,Michael,Roberson,61,Non Cadre,8,Paris,Bordeaux,220,1995-08-17,1999-09-01,Megan Mccoy,Electrique,Honda,XX79YY,0,RESPONSABLE,ALLIANZ
+2418,1992-11-29,Brittany,Ross,2,Non Cadre,13,Amiens,Bordeaux,583,2003-10-08,1997-08-07,Stephen Kaufman,Electrique,Tesla,XX46YY,0,NON RESPONSABLE,GENERALI
+3105,2009-02-05,Aaron,Harvey,15,Non Cadre,18,Lille,Nice,971,1997-01-17,2006-06-13,Bianca Hughes,Citadine,Dacia,XX91YY,0,NON RESPONSABLE,GENERALI
+1896,2014-07-16,Amanda,Huynh,85,Non Cadre,61,Amiens,LeMans,165,2016-02-03,2021-04-21,Thomas Payne,Electrique,Kia,XX1YY,1,RESPONSABLE,AXA
+4060,2000-09-16,Joseph,Ayala,9,Cadre,73,Lyon,LeMans,808,2008-11-11,1993-05-16,Cheryl Duncan,Berline,Fiat,XX76YY,0,NON RESPONSABLE,GROUPAMA
+2106,2006-07-22,Chelsea,Newman,25,Cadre,27,Lille,Clermont,648,1992-02-07,2014-05-04,Steven Rogers,Electrique,Fiat,XX84YY,0,RESPONSABLE,GROUPAMA
+3698,2009-06-19,Sarah,Rodriguez,40,Non Cadre,53,Paris,Bordeaux,639,2004-03-16,2009-06-04,Travis Howell,Electrique,Mazda,XX17YY,1,RESPONSABLE,ALLIANZ
+1007,2000-10-13,Anthony,Kim,33,Cadre,3,Amiens,LeHavre,60,2011-01-30,1994-04-03,Kevin Schultz,Electrique,Hyundai,XX39YY,0,NON RESPONSABLE,GROUPAMA
+1786,2000-05-16,Dana,Wilkinson,3,Non Cadre,37,Nantes,Nice,679,1996-11-27,2009-07-10,Emily Howell,Electrique,Kia,XX68YY,0,NON RESPONSABLE,GENERALI
+1937,2007-10-05,Sean,Nelson,52,Cadre,20,Lyon,Clermont,56,2000-08-30,2021-05-07,Kimberly Haynes,Citadine,Hyundai,XX66YY,1,RESPONSABLE,AXA
+3470,1995-06-04,Christopher,Carr,53,Non Cadre,47,Paris,Marseille,360,2016-08-15,2010-05-24,Tara Rice,Citadine,Hyundai,XX89YY,0,RESPONSABLE,ALLIANZ
+3867,2007-08-25,Ashley,Thomas,11,Cadre,79,Amiens,Marseille,117,2014-07-15,2020-06-28,Breanna Conner,Berline,Dacia,XX64YY,0,NON RESPONSABLE,AXA
+4420,2003-11-27,Peter,Stevenson,99,Cadre,72,Nantes,Marseille,726,1995-12-23,1995-05-19,Veronica Wilson,Citadine,Mazda,XX19YY,1,NON RESPONSABLE,GENERALI
+2978,2016-08-10,Jay,Barron,56,Cadre,95,Lille,Clermont,82,1995-07-19,2018-03-05,Frederick Reyes,Citadine,Audi,XX73YY,0,NON RESPONSABLE,GENERALI
+4248,2006-11-15,Anita,Medina,46,Non Cadre,38,Strasbourg,Clermont,968,1994-12-11,2008-12-23,John Paul,Electrique,Hyundai,XX2YY,1,RESPONSABLE,GENERALI
+260,2003-11-13,Terry,Beltran,57,Cadre,70,Lille,Nice,322,2004-12-07,2007-08-12,Blake Miller,Citadine,Audi,XX48YY,0,NON RESPONSABLE,ALLIANZ
+4242,1996-04-14,Danielle,Elliott,87,Cadre,75,Paris,Bordeaux,426,2016-12-11,2016-12-06,Kevin Valenzuela,Citadine,Kia,XX41YY,0,RESPONSABLE,GENERALI
+1458,1993-07-06,Mary,Walters,22,Non Cadre,71,Nantes,LeHavre,790,1999-11-30,2013-02-13,Mrs. Cindy Riley DVM,Citadine,Hyundai,XX53YY,0,NON RESPONSABLE,GENERALI
+2782,2015-02-02,Cindy,Mcdonald DVM,91,Non Cadre,83,Amiens,Nice,838,2021-03-09,1992-08-08,Robert Steele,Citadine,Kia,XX51YY,0,NON RESPONSABLE,GROUPAMA
+650,2010-03-27,Jodi,Friedman,43,Cadre,98,Amiens,Marseille,93,2017-09-20,2008-03-31,Lisa King,Citadine,Dacia,XX80YY,0,RESPONSABLE,ALLIANZ
+3412,2016-07-19,Aaron,Buchanan,34,Non Cadre,83,Paris,LeMans,573,1998-02-20,1994-09-22,Tracy Wilson,Berline,Fiat,XX90YY,1,NON RESPONSABLE,GROUPAMA
+1677,2018-04-20,Katherine,Thomas,52,Cadre,40,Lille,Marseille,502,1996-12-16,1992-07-24,Amanda Colon,Electrique,Dacia,XX70YY,1,RESPONSABLE,AXA
+3506,2020-07-01,Timothy,Benjamin,84,Non Cadre,63,Strasbourg,LeHavre,865,2005-01-14,2017-11-01,Megan Brown,Electrique,Tesla,XX3YY,1,RESPONSABLE,AXA
+3117,2002-03-07,Mary,Snow,90,Cadre,80,Paris,Bordeaux,925,2020-12-31,2016-02-17,Nicole Watson,Electrique,Audi,XX70YY,0,NON RESPONSABLE,GENERALI
+1807,2014-11-21,Scott,Wilson,52,Cadre,30,Lille,LeHavre,591,1998-11-21,2000-02-17,Karen Moore,Berline,Honda,XX14YY,0,RESPONSABLE,GENERALI
+1013,2017-06-18,Ashley,Ford,90,Non Cadre,32,Paris,Clermont,268,2004-09-23,2002-05-13,Terri Watts,Electrique,Fiat,XX87YY,0,RESPONSABLE,AXA
+2316,2007-01-09,Kathryn,Townsend,0,Cadre,17,Paris,Marseille,59,1994-08-27,1997-11-05,Michael Nash,Berline,Dacia,XX62YY,0,NON RESPONSABLE,ALLIANZ
+652,1999-10-10,Mitchell,Alexander,39,Cadre,85,Nantes,Clermont,396,2020-12-14,2015-01-05,Manuel Fletcher,Citadine,Mazda,XX91YY,0,RESPONSABLE,ALLIANZ
+3552,2017-05-23,Lisa,Perkins,66,Cadre,43,Amiens,Nice,271,2006-08-02,2014-06-05,Shawn Bernard,Berline,Honda,XX62YY,1,RESPONSABLE,AXA
+1995,2010-12-30,Lauren,Walls,71,Non Cadre,63,Strasbourg,LeHavre,662,1999-04-26,2010-06-16,Anthony Williams,Citadine,Fiat,XX13YY,1,NON RESPONSABLE,ALLIANZ
+2790,1995-11-09,Renee,Cruz,43,Non Cadre,29,Strasbourg,Nice,984,2000-11-05,1997-11-24,Carrie Shaw,Citadine,Fiat,XX32YY,1,RESPONSABLE,GENERALI
+3039,1996-01-16,Margaret,Thomas,16,Cadre,54,Amiens,LeHavre,260,1992-03-18,2012-11-11,John Villegas,Electrique,Fiat,XX94YY,0,RESPONSABLE,AXA
+3722,2011-02-20,Danny,Davis,43,Cadre,17,Lyon,LeMans,576,2016-11-19,2003-06-06,Sean Coleman,Electrique,Dacia,XX82YY,0,NON RESPONSABLE,ALLIANZ
+4686,1994-10-09,Kelly,Long,27,Cadre,2,Paris,LeHavre,554,2011-01-04,2016-01-02,Erin Howell,Berline,Kia,XX73YY,0,RESPONSABLE,GENERALI
+4362,2010-09-13,Samuel,Martinez,60,Non Cadre,30,Strasbourg,LeHavre,718,1998-01-27,1999-08-19,Melanie Mejia,Citadine,Mazda,XX8YY,0,NON RESPONSABLE,GROUPAMA
+881,2017-06-08,Bryan,Baker,64,Non Cadre,71,Lyon,LeMans,498,1993-04-28,1997-09-18,Paul Pollard,Citadine,Tesla,XX36YY,0,NON RESPONSABLE,AXA
+1157,2017-04-22,Daniel,Pham,96,Cadre,20,Lyon,Clermont,127,2015-11-04,1993-08-02,Jamie Zhang,Citadine,Hyundai,XX10YY,0,RESPONSABLE,GROUPAMA
+4578,2006-06-07,Benjamin,Castro,38,Non Cadre,75,Lyon,Nice,33,2015-04-07,2009-07-17,Marcus Garcia,Electrique,Kia,XX46YY,0,RESPONSABLE,GROUPAMA
+87,2007-11-08,Stephanie,Lyons,5,Non Cadre,78,Paris,Nice,427,2013-10-23,2018-04-28,Megan Robinson,Electrique,Audi,XX47YY,1,RESPONSABLE,GENERALI
+2688,1996-12-01,Jason,Johnson,16,Non Cadre,73,Paris,LeMans,542,1998-10-25,1996-02-18,Bethany Burke,Berline,Hyundai,XX70YY,1,NON RESPONSABLE,GROUPAMA
+2923,2012-01-17,Calvin,Obrien,72,Cadre,2,Strasbourg,Bordeaux,43,2016-04-08,1998-06-19,Holly Hill,Citadine,Dacia,XX94YY,0,RESPONSABLE,AXA
+3050,2015-04-13,Brittany,Fleming,72,Non Cadre,23,Lille,LeMans,40,2014-01-26,2014-11-22,Bethany Martinez,Citadine,Hyundai,XX2YY,1,RESPONSABLE,GROUPAMA
+4587,2007-03-01,Barbara,Jackson,49,Non Cadre,63,Lyon,LeHavre,829,2000-08-16,1999-08-27,Kimberly Ruiz,Electrique,Audi,XX73YY,0,RESPONSABLE,GROUPAMA
+1716,1993-06-27,Christopher,Harding,98,Cadre,87,Lille,Bordeaux,94,2019-05-27,2021-04-03,Sandra Simpson,Citadine,Hyundai,XX91YY,0,NON RESPONSABLE,GROUPAMA
+2017,1999-05-06,Sarah,Thomas,4,Non Cadre,23,Amiens,LeMans,88,2000-06-26,2000-02-08,Robert Patterson,Citadine,Dacia,XX51YY,0,RESPONSABLE,ALLIANZ
+3978,1999-07-18,Shawn,Valdez,67,Cadre,96,Nantes,LeHavre,390,2013-02-02,2019-10-08,Jeremy Reed,Berline,Kia,XX9YY,1,RESPONSABLE,ALLIANZ
+304,2018-05-02,Alexander,Carter,64,Non Cadre,80,Strasbourg,LeMans,985,2019-04-08,2001-03-05,Nicholas Flores,Citadine,Fiat,XX39YY,1,RESPONSABLE,ALLIANZ
+1398,2000-09-30,Angela,Garrett,44,Non Cadre,78,Nantes,Clermont,328,2011-02-21,2021-02-04,Valerie Thomas,Electrique,Honda,XX28YY,1,RESPONSABLE,ALLIANZ
+4708,2014-05-25,Edward,Fitzgerald,78,Cadre,18,Lyon,Bordeaux,624,2006-05-12,2010-03-15,Jeffrey Hoffman,Citadine,Fiat,XX86YY,1,NON RESPONSABLE,ALLIANZ
+4176,1997-02-20,Mary,Bowman,43,Non Cadre,64,Strasbourg,Marseille,298,2002-03-11,1994-09-09,Derek Elliott,Citadine,Fiat,XX17YY,1,NON RESPONSABLE,GENERALI
+55,2008-01-20,Lindsey,Cummings,2,Non Cadre,80,Nantes,Nice,733,2015-04-09,2009-11-13,Heather Conrad,Berline,Audi,XX53YY,1,RESPONSABLE,ALLIANZ
+314,2016-07-03,Tracey,Jones,26,Cadre,47,Lyon,Marseille,892,2015-03-30,2006-06-09,Richard Gonzalez,Citadine,Dacia,XX18YY,1,NON RESPONSABLE,GROUPAMA
+2512,1998-09-27,Karen,Wong,27,Cadre,89,Lyon,Clermont,579,2018-08-21,2002-01-18,Janet Cortez,Berline,Hyundai,XX39YY,1,RESPONSABLE,AXA
+3661,2016-10-24,Randy,Swanson MD,89,Cadre,13,Lille,LeHavre,334,1993-03-05,1992-09-06,Angela Campbell,Electrique,Tesla,XX76YY,0,NON RESPONSABLE,ALLIANZ
+1305,2004-07-24,Gabriela,Torres,85,Cadre,44,Paris,Bordeaux,73,2013-08-24,2018-08-22,Gabrielle Proctor,Electrique,Tesla,XX58YY,0,RESPONSABLE,ALLIANZ
+319,2014-03-13,Rhonda,Winters,44,Cadre,14,Lyon,Nice,837,2019-12-06,1999-10-10,Eric Davidson,Electrique,Dacia,XX3YY,1,RESPONSABLE,AXA
+1764,2019-05-02,Brendan,Schroeder,29,Cadre,35,Paris,Marseille,307,2019-12-14,2015-12-15,Raymond Brown,Citadine,Dacia,XX4YY,0,RESPONSABLE,GROUPAMA
+2684,2018-09-21,Benjamin,Lutz,17,Non Cadre,14,Amiens,Clermont,954,2000-06-25,2021-04-19,Melissa Olson,Berline,Audi,XX54YY,1,NON RESPONSABLE,GENERALI
+4920,2010-01-31,Jill,Erickson,58,Cadre,76,Lille,Bordeaux,147,1992-03-01,2009-12-18,Jesus Carroll,Berline,Fiat,XX7YY,1,NON RESPONSABLE,ALLIANZ
+3983,2014-07-29,Terry,Robinson,55,Non Cadre,14,Lyon,LeMans,594,1996-02-25,2019-11-02,Darius Moody,Berline,Honda,XX1YY,0,NON RESPONSABLE,ALLIANZ
+587,2002-03-13,Patrick,Medina,50,Non Cadre,34,Paris,Clermont,983,2019-06-09,2005-08-12,Karen Adkins,Electrique,Honda,XX6YY,0,NON RESPONSABLE,AXA
+4992,1996-04-22,Brandi,Mcdonald,59,Cadre,32,Nantes,LeHavre,181,2001-03-30,2021-07-11,Robert Lewis,Citadine,Honda,XX86YY,1,RESPONSABLE,AXA
+855,2014-05-18,Alice,Chen,22,Cadre,8,Strasbourg,Nice,669,2017-10-29,2017-10-03,Joseph Peterson,Berline,Tesla,XX85YY,0,RESPONSABLE,AXA
+4473,1999-12-12,Victoria,Parks,98,Cadre,40,Strasbourg,Bordeaux,906,2005-09-06,2008-02-25,Daniel Walker,Electrique,Kia,XX23YY,1,NON RESPONSABLE,ALLIANZ
+3182,2009-07-30,Donna,Williams,37,Non Cadre,34,Nantes,Bordeaux,345,2006-01-28,2012-10-01,David Casey,Electrique,Fiat,XX40YY,1,NON RESPONSABLE,GENERALI
+3686,2016-11-13,Bryan,Porter,28,Cadre,62,Lille,Clermont,943,2011-03-23,2013-02-05,Matthew Chung,Electrique,Kia,XX66YY,1,NON RESPONSABLE,GENERALI
+2401,1997-07-30,Theresa,Ramirez,54,Non Cadre,54,Lille,LeMans,547,2018-06-26,2004-09-17,Zachary Wilson,Berline,Audi,XX30YY,0,RESPONSABLE,GROUPAMA
+4652,2016-03-11,Jerry,Chavez,48,Cadre,59,Nantes,Bordeaux,369,1998-03-14,2000-01-08,Robert Griffith,Citadine,Dacia,XX95YY,1,NON RESPONSABLE,GENERALI
+2165,2012-11-13,Amber,Jacobs,79,Non Cadre,68,Strasbourg,Nice,559,2006-05-13,2017-02-02,Laura Hernandez,Electrique,Dacia,XX12YY,0,NON RESPONSABLE,ALLIANZ
+2100,2000-07-16,Johnathan,Lindsey,23,Cadre,36,Nantes,LeHavre,759,2009-02-21,1998-10-05,Patricia Berg,Berline,Honda,XX99YY,1,NON RESPONSABLE,GROUPAMA
+1704,2012-07-18,Patrick,Moreno,39,Non Cadre,61,Nantes,LeMans,164,1995-02-10,1995-03-30,Kyle Bennett,Citadine,Audi,XX19YY,0,RESPONSABLE,GENERALI
+2904,2020-10-04,Tanya,Green,14,Non Cadre,55,Paris,Marseille,725,2016-08-24,2001-09-03,Lisa Ward,Electrique,Hyundai,XX58YY,0,NON RESPONSABLE,GROUPAMA
+1262,2006-10-12,Eric,Warner,38,Cadre,18,Paris,Bordeaux,406,2003-03-25,1992-02-26,Amy Houston,Citadine,Audi,XX58YY,1,NON RESPONSABLE,ALLIANZ
+3373,2021-07-25,Kevin,Marquez,5,Non Cadre,25,Amiens,Marseille,404,2001-06-16,2001-02-26,Brendan Long,Berline,Hyundai,XX12YY,0,NON RESPONSABLE,GROUPAMA
+3981,2013-03-23,Laura,Smith,5,Cadre,70,Nantes,Bordeaux,491,1999-08-26,2014-02-24,Joy Dunn,Citadine,Tesla,XX21YY,1,RESPONSABLE,ALLIANZ
+143,1993-07-18,Jonathan,Ball,17,Non Cadre,90,Lyon,Bordeaux,138,1992-06-28,1992-03-07,Robert Byrd,Electrique,Hyundai,XX96YY,1,RESPONSABLE,ALLIANZ
+1043,1998-03-18,Douglas,Pearson MD,15,Cadre,17,Strasbourg,Marseille,715,1998-01-16,2006-02-01,William Gonzalez,Berline,Audi,XX94YY,0,RESPONSABLE,AXA
+2994,2013-04-11,Angela,Hernandez,25,Non Cadre,61,Amiens,LeHavre,454,2005-03-08,2007-07-24,Patricia Johnson,Electrique,Kia,XX83YY,1,RESPONSABLE,GROUPAMA
+3206,2010-10-28,Zachary,Lane,5,Cadre,15,Lille,Bordeaux,683,1996-08-09,2018-11-21,Rachel Porter,Electrique,Fiat,XX38YY,0,RESPONSABLE,GROUPAMA
+2343,1999-12-08,Edgar,Barr,79,Cadre,11,Strasbourg,Nice,555,1995-03-01,1999-04-02,John Haynes,Electrique,Fiat,XX92YY,0,RESPONSABLE,ALLIANZ
+732,2008-05-23,Michael,Cortez,3,Non Cadre,40,Lille,Clermont,912,2021-03-02,1993-07-21,James Brown,Electrique,Honda,XX56YY,1,NON RESPONSABLE,ALLIANZ
+3959,2020-01-06,Rachel,Williams,59,Non Cadre,89,Amiens,LeMans,441,2021-06-22,1991-10-06,Susan Baker,Electrique,Mazda,XX15YY,0,RESPONSABLE,GENERALI
+655,1998-09-08,Veronica,Miller,6,Non Cadre,46,Lille,Bordeaux,913,2005-05-19,2013-08-03,Daniel Benjamin,Electrique,Fiat,XX27YY,0,NON RESPONSABLE,AXA
+18,1994-11-24,Mr.,Richard Garrison MD,74,Non Cadre,23,Amiens,Marseille,505,2003-11-06,1993-10-31,Sarah Jones,Citadine,Honda,XX39YY,0,NON RESPONSABLE,ALLIANZ
+2350,1996-11-19,Cody,Mitchell,63,Non Cadre,57,Paris,LeHavre,348,1994-08-03,1991-11-23,Joseph Anderson,Berline,Hyundai,XX30YY,0,RESPONSABLE,ALLIANZ
+477,2008-03-15,Krista,Shaw,55,Cadre,64,Lyon,Clermont,501,2012-02-13,2001-09-30,Melanie Gregory,Berline,Fiat,XX52YY,1,RESPONSABLE,GROUPAMA
+267,2015-08-08,Michael,Hudson,79,Cadre,52,Amiens,LeHavre,676,2018-10-12,2012-08-02,Derek Bass,Electrique,Kia,XX61YY,0,NON RESPONSABLE,AXA
+981,1993-10-25,James,Perkins,49,Cadre,7,Nantes,LeHavre,248,2019-01-04,1993-06-30,Jeanne Kim,Berline,Mazda,XX29YY,1,NON RESPONSABLE,GROUPAMA
+523,1994-08-09,Casey,Keller,26,Non Cadre,75,Nantes,Nice,23,1997-09-15,2000-01-26,Heather Rowe,Electrique,Mazda,XX14YY,1,RESPONSABLE,GROUPAMA
+4771,2006-08-22,Jose,Williams,26,Non Cadre,77,Paris,Nice,65,2002-08-07,2009-09-13,Emma Oliver,Berline,Mazda,XX20YY,1,NON RESPONSABLE,AXA
+3219,1995-10-13,Brian,Parker,18,Non Cadre,66,Lille,Marseille,90,2007-12-15,2012-01-07,David Wells,Berline,Audi,XX78YY,0,RESPONSABLE,ALLIANZ
+1734,1993-03-12,Aaron,Reyes,29,Cadre,22,Lille,Clermont,583,1992-01-11,2013-06-23,John Torres,Citadine,Honda,XX46YY,0,NON RESPONSABLE,GROUPAMA
+148,2019-09-01,Lauren,Smith,65,Cadre,15,Amiens,Clermont,926,2016-09-17,2005-08-29,Kristen Walter,Citadine,Mazda,XX98YY,0,RESPONSABLE,GROUPAMA
+1491,2019-04-28,Caroline,Smith,31,Non Cadre,28,Strasbourg,Bordeaux,666,1996-01-20,1993-11-28,Dana Mcconnell,Berline,Tesla,XX98YY,1,NON RESPONSABLE,AXA
+2504,1999-10-10,Brian,Stephenson,62,Cadre,26,Strasbourg,Nice,546,2016-04-19,2013-01-30,Keith Aguilar,Citadine,Audi,XX29YY,1,NON RESPONSABLE,GROUPAMA
+2292,1997-01-17,Samantha,Mcfarland,37,Cadre,4,Strasbourg,Clermont,210,2002-06-30,2015-10-26,Kimberly Perez,Citadine,Kia,XX99YY,1,NON RESPONSABLE,AXA
+4671,2009-09-29,Paul,Lee,65,Non Cadre,24,Lyon,LeHavre,113,2008-01-06,2002-11-30,Mikayla Morrow,Electrique,Kia,XX34YY,0,RESPONSABLE,AXA
+2197,2000-04-15,Julie,Young,69,Cadre,26,Nantes,LeHavre,28,2000-03-31,2003-03-15,Spencer Freeman,Electrique,Audi,XX59YY,1,RESPONSABLE,ALLIANZ
+2535,1999-08-02,John,Jones,71,Non Cadre,70,Lille,Clermont,972,1994-10-12,2015-12-19,Kimberly Wood,Berline,Tesla,XX96YY,1,RESPONSABLE,AXA
+3896,2003-03-20,Crystal,Carter,54,Non Cadre,72,Strasbourg,LeHavre,496,2014-11-08,1993-06-16,Emily Yang,Citadine,Hyundai,XX48YY,0,RESPONSABLE,GROUPAMA
+918,1999-07-16,Donna,Coleman,29,Cadre,92,Paris,Nice,358,2008-11-14,2008-05-07,Michelle Lewis,Electrique,Mazda,XX58YY,1,RESPONSABLE,AXA
+390,2014-05-16,Brandi,Mccoy,15,Cadre,39,Lille,Nice,823,2016-11-10,2000-10-07,Roger Carter,Electrique,Audi,XX43YY,1,RESPONSABLE,GENERALI
+1643,1997-08-16,Mindy,Trujillo,84,Cadre,45,Paris,LeHavre,412,2015-04-08,2003-09-16,David Mueller,Citadine,Tesla,XX99YY,0,RESPONSABLE,AXA
+1176,2004-04-11,William,Garrett,31,Non Cadre,33,Nantes,Clermont,598,2017-05-17,2005-04-08,Derek Harvey,Citadine,Honda,XX34YY,1,NON RESPONSABLE,GROUPAMA
+1446,2005-01-05,Tammy,Savage,61,Non Cadre,95,Strasbourg,LeHavre,125,2010-04-03,2017-01-06,Steve Mercado,Berline,Honda,XX69YY,1,NON RESPONSABLE,GROUPAMA
+3034,1992-08-24,Sean,Warren,32,Non Cadre,74,Lille,LeMans,464,2010-04-24,2016-05-04,Amy Figueroa,Berline,Mazda,XX30YY,0,RESPONSABLE,AXA
+266,2019-08-29,Lindsay,Lyons,33,Cadre,39,Amiens,Clermont,488,2008-06-29,2009-09-12,Deborah Shah,Citadine,Hyundai,XX35YY,0,RESPONSABLE,AXA
+2427,2010-07-08,Dr.,Kelsey Hays,13,Cadre,74,Paris,Bordeaux,394,1994-11-04,1995-04-02,Taylor Martin,Electrique,Fiat,XX62YY,1,RESPONSABLE,GROUPAMA
+1186,2007-06-27,Crystal,Mcclain,96,Non Cadre,20,Nantes,Bordeaux,647,2007-05-13,1997-05-16,Bryan Fuller,Citadine,Mazda,XX5YY,0,NON RESPONSABLE,GROUPAMA
+182,2009-09-21,Andrea,White,71,Cadre,16,Strasbourg,Clermont,63,2020-01-06,2012-04-20,Dennis Leonard,Berline,Audi,XX11YY,0,RESPONSABLE,GENERALI
+2699,2017-03-27,Natasha,Spencer,50,Cadre,45,Lyon,Marseille,550,2014-10-01,2008-10-23,Andrew Mcguire,Citadine,Audi,XX18YY,0,RESPONSABLE,GENERALI
+1072,2009-08-12,Michael,Simpson,37,Non Cadre,27,Paris,Bordeaux,277,1993-03-01,2005-11-18,Andrew Melendez,Berline,Kia,XX69YY,1,RESPONSABLE,AXA
+4991,2011-05-27,Kim,White,8,Cadre,28,Lille,Nice,807,2019-06-02,1999-09-15,Kelsey Davis,Electrique,Tesla,XX53YY,0,NON RESPONSABLE,GENERALI
+2984,2014-07-23,William,Lopez,86,Non Cadre,8,Strasbourg,Bordeaux,900,1992-07-26,2006-05-23,Linda Miller,Citadine,Mazda,XX32YY,1,NON RESPONSABLE,GROUPAMA
+435,1998-01-11,Tiffany,Skinner,48,Cadre,38,Paris,LeMans,961,2014-03-16,2008-09-09,Rhonda Cruz,Electrique,Mazda,XX69YY,0,RESPONSABLE,AXA
+3264,2008-09-20,Briana,Mullen,87,Cadre,73,Strasbourg,Bordeaux,697,2011-10-08,2012-06-23,Patricia Allen,Berline,Fiat,XX14YY,1,NON RESPONSABLE,GENERALI
+2924,2009-02-07,Donna,Klein,28,Cadre,10,Lille,Marseille,46,2004-09-25,1997-12-16,Jon Proctor,Berline,Fiat,XX13YY,0,NON RESPONSABLE,GENERALI
+2399,2014-12-04,Dawn,Bryant,91,Non Cadre,45,Lyon,Clermont,905,2021-05-30,2004-01-16,Lori Ibarra,Berline,Fiat,XX2YY,0,NON RESPONSABLE,AXA
+3644,2017-06-16,Kelly,Smith,45,Non Cadre,98,Paris,Nice,600,2005-06-01,1995-07-16,Krista Bryant,Berline,Honda,XX67YY,0,NON RESPONSABLE,AXA
+38,2014-06-07,Bridget,Mccoy,62,Cadre,39,Strasbourg,Nice,264,1996-03-14,2010-09-05,Tyler Davis,Berline,Fiat,XX30YY,0,NON RESPONSABLE,GROUPAMA
+3849,2012-10-18,Luis,Odom,33,Non Cadre,75,Amiens,Nice,398,2008-03-18,2011-01-22,Jennifer Meadows,Electrique,Dacia,XX91YY,1,RESPONSABLE,GROUPAMA
+4562,1995-02-07,Barry,Douglas,51,Cadre,12,Lyon,Marseille,174,2008-03-11,2019-02-10,Joel Hernandez,Berline,Mazda,XX45YY,1,NON RESPONSABLE,GROUPAMA
+305,1993-02-05,Brian,Hopkins,34,Non Cadre,92,Paris,Clermont,706,2004-09-04,1997-12-17,Brenda Gonzales,Electrique,Honda,XX14YY,1,RESPONSABLE,GENERALI
+2621,2017-12-05,Yvonne,Lawson,77,Cadre,95,Paris,LeMans,139,2018-05-22,1998-04-02,Angela Winters,Citadine,Dacia,XX33YY,0,NON RESPONSABLE,GENERALI
+4887,2004-08-08,Matthew,Rivera,67,Non Cadre,55,Paris,Clermont,276,2016-12-23,1993-01-02,Raymond Riley,Citadine,Fiat,XX49YY,0,RESPONSABLE,GROUPAMA
+4788,1993-07-09,Hannah,Stokes,31,Cadre,2,Nantes,LeMans,297,2015-09-04,2011-05-08,Michael Wright,Citadine,Audi,XX85YY,1,NON RESPONSABLE,AXA
+2090,1997-04-14,Sally,Taylor,74,Cadre,87,Strasbourg,Nice,675,1998-02-03,2013-01-18,Laura George,Berline,Fiat,XX49YY,1,RESPONSABLE,ALLIANZ
+3780,2011-03-21,Jean,Russell,60,Non Cadre,12,Nantes,Marseille,948,2009-04-02,2008-01-11,Kelly Espinoza,Electrique,Kia,XX45YY,0,NON RESPONSABLE,GENERALI
+2273,2010-01-22,Javier,Best,34,Non Cadre,45,Amiens,Nice,330,2002-08-19,2015-06-09,Julia Key,Berline,Audi,XX7YY,1,RESPONSABLE,GROUPAMA
+923,2017-08-25,Larry,Santiago,50,Cadre,3,Lille,Clermont,411,2010-02-12,2011-09-12,Nicholas Hill,Electrique,Audi,XX70YY,1,RESPONSABLE,GENERALI
+872,2015-04-11,James,Smith,3,Non Cadre,73,Amiens,LeMans,941,2002-09-01,1995-09-17,Jeffrey Rodriguez,Citadine,Dacia,XX43YY,1,RESPONSABLE,AXA
+3375,1999-10-09,Becky,Reeves,84,Cadre,11,Strasbourg,LeMans,618,2000-09-13,2015-10-10,Willie Martin,Berline,Hyundai,XX87YY,1,RESPONSABLE,ALLIANZ
+1983,2015-10-14,James,Hart,94,Cadre,17,Lyon,Bordeaux,473,1998-01-27,1998-11-16,Daniel Gilbert,Citadine,Hyundai,XX71YY,1,NON RESPONSABLE,ALLIANZ
+2010,2013-06-01,Richard,Lang,4,Non Cadre,14,Nantes,LeMans,578,2014-02-27,2002-09-22,Cameron Curtis,Electrique,Kia,XX53YY,1,NON RESPONSABLE,GENERALI
+3832,1996-09-13,Luke,Lewis,91,Non Cadre,88,Lyon,Marseille,863,2003-04-10,2012-02-04,Christopher Lee,Berline,Fiat,XX44YY,0,NON RESPONSABLE,ALLIANZ
+2901,2018-03-17,Sara,Anderson,76,Non Cadre,46,Lille,Bordeaux,135,2017-04-08,2017-03-27,Marc Hicks,Berline,Tesla,XX26YY,1,RESPONSABLE,GROUPAMA
+1366,2000-12-17,Tony,Adkins,66,Cadre,24,Lyon,Clermont,126,1996-09-04,2003-05-14,Victor Lyons,Citadine,Dacia,XX52YY,1,RESPONSABLE,ALLIANZ
+3903,2000-06-30,Michael,Smith,80,Cadre,15,Lyon,Nice,888,2005-09-03,1997-08-31,Thomas Hernandez,Citadine,Hyundai,XX69YY,0,RESPONSABLE,GENERALI
+2049,2014-02-26,Dwayne,Crawford,23,Cadre,66,Lille,LeMans,989,2002-11-17,2016-07-13,Kurt Gregory,Citadine,Audi,XX17YY,1,RESPONSABLE,AXA
+4896,2010-01-16,Nathan,Hodge,61,Cadre,5,Lyon,Bordeaux,105,2021-07-18,2001-09-26,Brian Curry,Electrique,Kia,XX25YY,1,RESPONSABLE,AXA
+653,2014-07-31,Daniel,Patel,58,Cadre,87,Nantes,Bordeaux,165,2015-07-03,2003-08-16,Monica Smith,Electrique,Hyundai,XX72YY,1,NON RESPONSABLE,AXA
+2402,2010-08-13,Timothy,Mahoney,4,Cadre,39,Lille,Nice,648,2012-01-21,2013-01-20,Beverly Khan,Citadine,Dacia,XX93YY,1,NON RESPONSABLE,ALLIANZ
+3210,2003-08-08,Christine,Ayala,84,Non Cadre,39,Lyon,LeMans,216,2004-09-04,1994-12-08,Sandra Moon,Citadine,Tesla,XX23YY,0,NON RESPONSABLE,AXA
+1133,2015-03-03,Mr.,Jacob Banks,67,Non Cadre,46,Lille,LeMans,927,2003-02-22,2010-08-08,Jason Cook,Berline,Tesla,XX58YY,1,NON RESPONSABLE,AXA
+4309,2020-07-21,Crystal,Rose,92,Non Cadre,18,Lyon,Bordeaux,259,2002-07-20,2008-03-12,Ronald Barnes,Berline,Dacia,XX89YY,1,RESPONSABLE,ALLIANZ
+3548,2006-11-13,Michael,Duran,25,Non Cadre,43,Lyon,LeHavre,102,2000-02-05,2006-08-21,Antonio Williams,Berline,Mazda,XX69YY,1,RESPONSABLE,GROUPAMA
+3809,1995-12-20,Gail,Lopez,59,Non Cadre,81,Paris,LeMans,344,1994-07-30,2011-06-08,Kelly Edwards,Berline,Dacia,XX19YY,1,NON RESPONSABLE,AXA
+4396,2013-03-03,Linda,Williams,18,Cadre,19,Nantes,Clermont,467,2017-12-08,1994-07-06,James Smith,Electrique,Audi,XX28YY,1,NON RESPONSABLE,GROUPAMA
+4315,2003-06-22,Patricia,Taylor,55,Non Cadre,64,Nantes,Bordeaux,258,2018-12-20,1994-07-13,Anthony Fernandez,Electrique,Kia,XX20YY,1,RESPONSABLE,ALLIANZ
+2952,2016-05-27,Lisa,Smith,83,Cadre,30,Lille,Nice,344,2001-11-17,2018-06-17,Jamie Clarke,Berline,Mazda,XX81YY,0,NON RESPONSABLE,GENERALI
+1790,2015-09-08,David,Atkinson,5,Non Cadre,36,Strasbourg,LeHavre,864,1998-09-18,1995-05-21,Brian Bishop,Citadine,Kia,XX57YY,0,NON RESPONSABLE,GENERALI
+4923,2014-06-15,Samuel,Mckenzie,33,Cadre,30,Lille,Marseille,953,2006-11-12,2001-05-18,Holly Walsh,Citadine,Dacia,XX94YY,1,RESPONSABLE,GENERALI
+3822,2014-01-11,Alexandra,Day,46,Cadre,47,Lille,Clermont,972,2021-07-31,1995-11-06,Joseph Mcgee,Citadine,Audi,XX29YY,1,NON RESPONSABLE,GENERALI
+1062,2017-02-02,Wendy,Mcintosh,42,Cadre,42,Amiens,Bordeaux,505,2007-11-25,2013-08-26,Pamela Henson,Electrique,Tesla,XX94YY,1,RESPONSABLE,GROUPAMA
+4631,2014-01-27,Terri,Williamson,7,Cadre,34,Lyon,Nice,784,2005-04-15,1992-02-23,Kristin Thomas,Citadine,Kia,XX13YY,0,NON RESPONSABLE,ALLIANZ
+668,2014-03-07,Beth,Hale,53,Cadre,55,Lille,LeMans,182,2010-01-12,2007-07-29,Casey Chapman,Berline,Tesla,XX64YY,0,NON RESPONSABLE,GENERALI
+4216,2008-02-22,Linda,Duffy,12,Non Cadre,37,Lyon,Marseille,461,2013-11-18,1992-07-09,Cynthia Campbell,Berline,Hyundai,XX11YY,0,NON RESPONSABLE,ALLIANZ
+3979,1994-09-13,Deanna,Hancock,45,Non Cadre,13,Lille,Bordeaux,573,2018-02-06,2007-06-27,Brooke Wong,Citadine,Honda,XX11YY,0,RESPONSABLE,AXA
+4637,2002-06-20,Anthony,Lee,70,Cadre,5,Lyon,Marseille,693,2009-08-14,2014-01-10,Courtney Gordon,Citadine,Kia,XX36YY,1,RESPONSABLE,GROUPAMA
+3572,2017-09-28,Maria,Martinez MD,16,Non Cadre,67,Paris,LeHavre,793,1997-05-17,2014-09-20,James Miller,Berline,Fiat,XX44YY,0,NON RESPONSABLE,GENERALI
+3381,2002-05-04,Mark,Young,96,Cadre,86,Amiens,LeMans,251,1994-02-21,2009-11-16,Justin Walker,Electrique,Hyundai,XX7YY,1,RESPONSABLE,GENERALI
+3087,1998-02-23,Justin,Gentry,33,Cadre,88,Strasbourg,LeMans,40,1992-12-03,2004-04-04,Sara Sparks MD,Berline,Fiat,XX23YY,0,RESPONSABLE,GROUPAMA
+1001,1994-01-08,Jason,Harvey,9,Non Cadre,89,Nantes,Bordeaux,931,2017-03-02,2013-01-31,Deanna Holloway,Electrique,Fiat,XX2YY,1,NON RESPONSABLE,GENERALI
+1877,2010-12-01,Suzanne,Riley,75,Non Cadre,15,Lille,Marseille,862,2007-08-19,1997-08-20,Brian Gould,Citadine,Dacia,XX62YY,0,RESPONSABLE,AXA
+3277,1992-02-17,David,Gonzalez,76,Non Cadre,46,Lille,Clermont,262,2008-12-25,2020-10-28,Amy Griffin,Citadine,Hyundai,XX17YY,1,NON RESPONSABLE,ALLIANZ
+4704,1993-07-12,John,Parsons,81,Cadre,5,Nantes,LeMans,278,2006-05-06,2004-11-03,Janet Fischer,Electrique,Fiat,XX28YY,1,NON RESPONSABLE,AXA
+4065,2011-12-21,Tina,King,97,Cadre,10,Lyon,Clermont,573,2000-05-11,2019-01-17,Teresa Lewis,Electrique,Honda,XX97YY,1,NON RESPONSABLE,GENERALI
+4122,2004-08-23,Jake,Weaver,52,Non Cadre,88,Nantes,Marseille,83,1992-05-02,2006-08-18,David Lopez,Electrique,Kia,XX41YY,0,NON RESPONSABLE,GENERALI
+255,2015-09-02,Joseph,Jackson,8,Non Cadre,45,Paris,Marseille,486,2001-12-01,2020-07-08,Shannon Morgan,Citadine,Audi,XX11YY,0,RESPONSABLE,GROUPAMA
+253,2000-10-23,Kenneth,Baker,94,Non Cadre,85,Nantes,LeHavre,465,2020-08-08,2009-09-11,Michele Williams,Berline,Tesla,XX68YY,0,RESPONSABLE,AXA
+4617,2011-07-05,Candace,Schneider,15,Non Cadre,3,Lille,Marseille,759,2021-06-03,2007-01-02,Alexander Phillips,Citadine,Tesla,XX27YY,0,RESPONSABLE,GENERALI
+994,2002-08-20,Jason,Ward,59,Cadre,62,Lyon,Clermont,705,2015-02-13,2007-07-09,Joseph Leonard,Citadine,Dacia,XX64YY,0,NON RESPONSABLE,GENERALI
+1989,1998-10-19,Melissa,Neal,9,Cadre,41,Paris,Marseille,113,2000-01-01,2008-05-03,Sandra Hunt,Berline,Tesla,XX50YY,1,NON RESPONSABLE,GENERALI
+964,2013-01-10,Diana,Hernandez,47,Non Cadre,53,Lille,LeMans,150,2003-04-09,2005-12-01,Charles Washington,Electrique,Hyundai,XX27YY,1,RESPONSABLE,AXA
+4161,1992-08-08,Sandra,Mendoza,89,Non Cadre,75,Amiens,Marseille,977,2007-10-08,2012-01-17,Daniel Clarke,Berline,Honda,XX16YY,1,RESPONSABLE,GROUPAMA
+3316,2004-06-20,Isaiah,Kline,38,Cadre,71,Lille,Clermont,914,2013-01-15,2012-10-27,Jacob Molina,Citadine,Audi,XX84YY,1,RESPONSABLE,GENERALI
+1902,2017-01-02,Angela,White,63,Non Cadre,84,Lille,Clermont,172,2002-07-03,1993-04-14,Paul Garcia,Electrique,Audi,XX16YY,1,RESPONSABLE,GENERALI
+3731,2013-11-27,Kenneth,Schroeder,7,Non Cadre,51,Nantes,Nice,690,1999-02-25,2004-04-21,Raymond Whitehead,Citadine,Fiat,XX63YY,0,NON RESPONSABLE,AXA
+2315,2006-08-30,Caleb,Gutierrez,16,Cadre,26,Nantes,Bordeaux,74,2006-12-03,2008-01-07,Andrew Alexander,Citadine,Mazda,XX76YY,1,RESPONSABLE,AXA
+2416,1996-04-13,Jennifer,Miller,22,Non Cadre,90,Lille,Marseille,727,2005-07-05,1993-11-26,Jennifer Walton,Electrique,Hyundai,XX7YY,0,RESPONSABLE,GROUPAMA
+4570,2020-09-27,Carol,Davis,30,Non Cadre,26,Strasbourg,LeHavre,552,1996-05-05,2010-12-30,Christopher Prince,Berline,Fiat,XX89YY,0,NON RESPONSABLE,AXA
+3207,2011-11-14,Jordan,Olson,56,Cadre,48,Nantes,Clermont,262,1997-01-02,2019-12-16,Ricky Castillo,Electrique,Mazda,XX19YY,1,NON RESPONSABLE,ALLIANZ
+3338,2009-10-14,Morgan,Collins,54,Non Cadre,88,Nantes,Clermont,616,2008-09-26,1993-11-02,Melissa Cherry,Citadine,Mazda,XX32YY,1,NON RESPONSABLE,GENERALI
+2956,2003-11-28,Rhonda,Aguirre,60,Non Cadre,76,Nantes,Marseille,238,2001-02-16,2000-02-24,Glenn Dunn,Citadine,Dacia,XX38YY,0,RESPONSABLE,GROUPAMA
+1731,2019-10-11,Rachel,Smith,85,Cadre,66,Lyon,Clermont,374,1995-07-16,2003-07-15,Samantha Nash,Citadine,Honda,XX34YY,0,RESPONSABLE,AXA
+1299,2011-05-28,Rebecca,Rivera,11,Non Cadre,96,Nantes,LeMans,481,2010-10-02,2018-02-26,Anthony Harris,Electrique,Honda,XX63YY,0,RESPONSABLE,GENERALI
+3212,2010-03-29,Jessica,Cohen,61,Non Cadre,51,Strasbourg,LeMans,702,1996-08-17,2020-04-20,Stephanie Duran MD,Electrique,Dacia,XX84YY,1,NON RESPONSABLE,AXA
+4787,2003-08-21,Robert,Beasley,94,Non Cadre,56,Paris,LeHavre,707,2006-04-20,2003-03-08,Adam Davis,Citadine,Dacia,XX72YY,1,NON RESPONSABLE,GROUPAMA
+4685,2000-02-23,James,Payne,49,Non Cadre,29,Amiens,Clermont,148,2020-06-28,2008-05-02,Kyle Zamora,Citadine,Audi,XX56YY,0,RESPONSABLE,ALLIANZ
+2945,1999-10-28,Sophia,Woods,50,Non Cadre,93,Amiens,Bordeaux,296,2008-06-07,1992-07-06,Thomas Lucero,Berline,Tesla,XX5YY,1,RESPONSABLE,ALLIANZ
+4360,2012-02-18,Shelley,Valenzuela,58,Cadre,87,Amiens,Marseille,142,2001-09-08,2006-11-27,Karen Martin,Electrique,Honda,XX75YY,1,RESPONSABLE,GENERALI
+2441,2012-04-19,Lisa,House,91,Non Cadre,18,Nantes,Nice,364,2009-06-24,2017-03-26,Katelyn Jones,Berline,Audi,XX19YY,1,NON RESPONSABLE,AXA
+4729,2020-05-14,Erin,Dawson,3,Non Cadre,71,Nantes,Clermont,857,1993-03-09,1995-01-31,Gabriel Oconnor,Citadine,Mazda,XX90YY,0,RESPONSABLE,GENERALI
+2486,1992-10-16,Angela,Johnson,9,Non Cadre,73,Amiens,Marseille,501,2020-09-29,1995-02-03,Anna Johnson,Citadine,Honda,XX85YY,1,RESPONSABLE,GROUPAMA
+1648,2006-11-30,Stephanie,Hudson,51,Non Cadre,80,Lyon,LeHavre,723,2019-06-21,2021-07-14,Robin Barber,Berline,Fiat,XX39YY,0,NON RESPONSABLE,GENERALI
+1649,2007-03-31,David,Lyons,99,Cadre,86,Lille,Marseille,611,2006-12-30,2004-05-11,Ricky Mosley,Electrique,Tesla,XX75YY,1,NON RESPONSABLE,GROUPAMA
+2884,2002-05-01,Peter,Nguyen,22,Non Cadre,8,Strasbourg,Nice,893,2014-12-25,2016-01-30,Andre Boyd,Citadine,Mazda,XX13YY,0,NON RESPONSABLE,ALLIANZ
+1009,2002-11-17,Nicole,Barajas,64,Non Cadre,59,Lyon,Nice,423,2001-12-05,1999-05-15,Crystal Sanders,Berline,Fiat,XX69YY,1,RESPONSABLE,GENERALI
+1858,2004-03-23,Arthur,Lynch,80,Non Cadre,33,Lille,LeMans,963,2010-05-20,2010-01-26,Peter Contreras,Berline,Audi,XX28YY,1,NON RESPONSABLE,AXA
+3055,2006-03-12,Cesar,Nicholson,82,Cadre,81,Nantes,Nice,125,2015-11-19,2005-11-04,Blake Le,Citadine,Audi,XX7YY,1,RESPONSABLE,GENERALI
+3334,2005-06-09,Chelsea,Young,14,Cadre,47,Lyon,Nice,611,2006-02-13,2016-08-08,Daniel Mitchell,Electrique,Tesla,XX34YY,1,RESPONSABLE,ALLIANZ
+2701,2013-09-12,Melanie,Rich,68,Cadre,74,Lille,Nice,423,2001-06-20,1995-02-10,Pamela Mason,Citadine,Mazda,XX84YY,1,RESPONSABLE,AXA
+1141,2008-04-25,Nicholas,Hall MD,50,Cadre,87,Lyon,Bordeaux,143,2004-09-19,2014-08-15,Bruce Figueroa,Berline,Hyundai,XX50YY,1,RESPONSABLE,ALLIANZ
+550,1992-05-11,Deborah,Jenkins,7,Non Cadre,33,Nantes,Bordeaux,875,2013-07-31,2012-11-25,Michael Hall,Berline,Honda,XX87YY,1,RESPONSABLE,AXA
+4506,2007-06-01,Frederick,Morris,85,Cadre,46,Lille,Clermont,165,1992-04-17,2004-09-27,James Brown,Berline,Mazda,XX60YY,1,RESPONSABLE,ALLIANZ
+2968,1992-06-15,Gabrielle,Kennedy,28,Non Cadre,11,Lille,LeHavre,203,2015-04-29,2017-09-12,Katie Johnson,Berline,Audi,XX90YY,1,RESPONSABLE,GENERALI
+2304,1995-02-16,Mr.,Craig Galvan,99,Cadre,62,Amiens,Nice,754,2017-08-25,2021-04-02,Denise Anderson,Citadine,Hyundai,XX98YY,0,NON RESPONSABLE,ALLIANZ
+378,2010-04-24,Daniel,Mckay,44,Non Cadre,66,Paris,LeHavre,301,1995-05-22,1994-07-02,Jack Carroll,Citadine,Kia,XX83YY,1,NON RESPONSABLE,AXA
+330,2009-03-31,Danielle,White,53,Cadre,37,Lyon,Clermont,922,1999-07-18,2001-06-29,Steven Sandoval DVM,Electrique,Kia,XX95YY,0,NON RESPONSABLE,ALLIANZ
+4718,2006-06-26,Melissa,Martin,38,Non Cadre,75,Lyon,Marseille,591,2003-02-03,2019-03-09,Linda Downs,Electrique,Mazda,XX23YY,0,RESPONSABLE,GENERALI
+1746,2000-10-18,Scott,Caldwell,35,Non Cadre,39,Nantes,Nice,784,2019-10-08,1996-05-11,Kari Bradshaw,Berline,Fiat,XX46YY,0,RESPONSABLE,AXA
+556,2015-09-04,Robert,Ayers,78,Non Cadre,21,Lyon,LeMans,30,2002-02-07,1998-07-14,Wendy Sanders,Electrique,Mazda,XX89YY,1,RESPONSABLE,GENERALI
+1116,2007-09-24,Francis,Holmes,70,Cadre,45,Lille,Bordeaux,182,2019-04-28,1994-11-29,William Chen,Citadine,Audi,XX36YY,1,NON RESPONSABLE,ALLIANZ
+3860,2010-05-07,Donna,Murray,70,Cadre,88,Lyon,Clermont,605,2020-03-24,1991-11-28,Stephanie Jenkins,Berline,Hyundai,XX28YY,0,RESPONSABLE,AXA
+537,2015-01-28,Katherine,Johnson,3,Non Cadre,36,Amiens,Bordeaux,846,2011-10-29,2003-04-04,Kevin Jackson,Electrique,Mazda,XX82YY,0,NON RESPONSABLE,ALLIANZ
+1699,2011-03-23,Terry,Levine,46,Cadre,49,Amiens,LeHavre,80,2010-05-01,1995-09-27,John Dyer,Electrique,Hyundai,XX84YY,0,RESPONSABLE,AXA
+461,2009-02-06,Daniel,Martinez,20,Cadre,5,Lille,Marseille,512,2001-07-02,2011-05-12,Samantha Morales,Berline,Audi,XX96YY,1,RESPONSABLE,GENERALI
+4625,2019-05-25,Kelsey,Wilson,93,Cadre,23,Lille,Nice,601,2004-02-20,2021-08-19,Taylor Gibbs,Citadine,Dacia,XX77YY,1,NON RESPONSABLE,GENERALI
+82,2020-07-25,Kevin,Stevenson,33,Cadre,66,Nantes,Clermont,374,1996-02-14,1992-04-06,Jill Willis,Berline,Tesla,XX53YY,0,NON RESPONSABLE,GROUPAMA
+4777,1999-11-17,Joe,Morgan,54,Non Cadre,2,Strasbourg,Nice,39,2011-10-19,2001-10-21,Rebecca Carter,Citadine,Hyundai,XX92YY,0,NON RESPONSABLE,GROUPAMA
+2108,2005-04-28,Jonathan,Strickland,68,Cadre,7,Lyon,Clermont,727,1996-01-25,1997-10-13,Katherine Brown,Electrique,Dacia,XX18YY,1,RESPONSABLE,AXA
+2611,2011-02-09,William,Stevens,41,Cadre,96,Lille,Bordeaux,526,2000-10-05,2004-06-17,Sean Pollard,Berline,Tesla,XX70YY,1,RESPONSABLE,AXA
+399,2005-06-26,Suzanne,Jackson,82,Cadre,8,Strasbourg,Marseille,956,2011-10-17,2004-06-15,Mrs. Danielle Smith,Electrique,Honda,XX0YY,0,NON RESPONSABLE,GROUPAMA
+92,2000-11-02,James,Donovan,4,Cadre,47,Amiens,Clermont,234,1991-11-22,2003-03-31,Amanda Le,Berline,Fiat,XX27YY,0,NON RESPONSABLE,GENERALI
+1615,2000-09-05,Charles,Copeland,8,Cadre,37,Lyon,LeHavre,54,2011-06-15,2001-01-04,Matthew Wilson,Berline,Dacia,XX93YY,0,RESPONSABLE,GENERALI
+673,2002-12-31,Jessica,Pierce,77,Cadre,42,Amiens,LeHavre,636,2019-01-20,1998-08-22,Gwendolyn Hardin,Electrique,Fiat,XX85YY,1,RESPONSABLE,GROUPAMA
+3057,1995-12-10,Amber,Clark,57,Cadre,48,Amiens,LeMans,999,1994-07-18,2001-07-10,Veronica Bullock,Electrique,Dacia,XX37YY,1,NON RESPONSABLE,GROUPAMA
+2499,1993-08-02,Robert,Walton,98,Cadre,8,Nantes,LeMans,917,1996-01-20,1998-03-04,Carol Matthews,Citadine,Audi,XX30YY,0,RESPONSABLE,AXA
+1288,2019-10-30,Amanda,Burch,1,Cadre,56,Paris,Clermont,862,1998-12-20,2014-06-24,Glenn Watson,Electrique,Mazda,XX27YY,1,RESPONSABLE,ALLIANZ
+1026,2015-02-06,Mathew,James,48,Non Cadre,74,Amiens,Clermont,670,2016-05-18,2011-07-25,Kelly Wright,Citadine,Fiat,XX86YY,1,RESPONSABLE,GROUPAMA
+1521,2004-04-10,Clinton,Salazar,42,Cadre,26,Lille,Bordeaux,687,2004-06-20,1993-09-26,Mary Spencer,Citadine,Tesla,XX12YY,1,RESPONSABLE,GENERALI
+1680,2004-01-26,Terri,White,67,Non Cadre,95,Lyon,LeMans,165,1997-08-15,2018-06-19,Michelle Blankenship,Electrique,Dacia,XX99YY,0,RESPONSABLE,GROUPAMA
+3083,2013-12-26,Lucas,Barrera,73,Non Cadre,34,Lille,LeHavre,32,2016-08-12,2011-08-28,Madeline Harmon,Citadine,Tesla,XX59YY,1,NON RESPONSABLE,GROUPAMA
+2079,2006-07-20,Nicole,Bennett,61,Cadre,24,Amiens,LeMans,777,2020-12-25,1996-11-01,Tonya Williams,Electrique,Kia,XX70YY,1,RESPONSABLE,ALLIANZ
+2054,1996-10-23,Denise,Day,89,Cadre,90,Lyon,Clermont,631,1996-08-12,2021-03-11,Jamie Daniels,Berline,Tesla,XX27YY,0,NON RESPONSABLE,GENERALI
+3671,1996-04-03,Thomas,Lucero,28,Non Cadre,59,Amiens,Bordeaux,240,1992-03-14,1998-05-14,Tammie Haynes,Electrique,Tesla,XX42YY,1,RESPONSABLE,ALLIANZ
+1931,2018-02-02,Jessica,Hunt,28,Non Cadre,32,Amiens,Bordeaux,987,2019-08-11,1991-10-04,Cassandra Dougherty,Citadine,Kia,XX40YY,1,NON RESPONSABLE,GROUPAMA
+3138,1992-11-19,Danny,Dennis,24,Cadre,29,Amiens,Clermont,143,1996-10-16,2013-04-05,Elizabeth Wilson,Berline,Hyundai,XX31YY,1,NON RESPONSABLE,AXA
+3748,1996-02-18,Megan,Vang,18,Non Cadre,5,Paris,LeHavre,41,2002-05-28,2005-07-08,Robert Boyd,Berline,Dacia,XX59YY,0,NON RESPONSABLE,AXA
+4105,2020-01-09,John,Brown,15,Non Cadre,14,Paris,Clermont,351,1997-12-13,2008-03-31,Angela Allen,Electrique,Tesla,XX72YY,0,RESPONSABLE,ALLIANZ
+4171,2008-12-11,Cheryl,Harris,12,Non Cadre,35,Lille,LeMans,989,1997-07-22,2017-08-10,Jessica Nguyen,Electrique,Mazda,XX24YY,0,RESPONSABLE,GROUPAMA
+4372,2017-12-16,Joel,Underwood,36,Cadre,42,Paris,Marseille,721,1996-06-19,2013-08-19,Gary Wright,Electrique,Kia,XX3YY,0,RESPONSABLE,GENERALI
+1726,2003-03-21,Marcus,Adams,5,Cadre,84,Lyon,Nice,242,2014-04-10,2007-06-17,Ana Humphrey,Berline,Kia,XX34YY,1,RESPONSABLE,GROUPAMA
+4163,2003-10-06,Robert,King,88,Cadre,30,Nantes,LeMans,391,2011-07-03,1997-01-25,Steven Smith,Citadine,Fiat,XX14YY,0,NON RESPONSABLE,GENERALI
+3093,2012-03-26,Colin,Giles,83,Cadre,70,Lille,Marseille,735,2009-01-18,2014-10-29,Stephanie Case,Electrique,Honda,XX47YY,0,RESPONSABLE,AXA
+60,2008-02-12,Christian,Perkins,79,Non Cadre,67,Nantes,Clermont,713,2019-02-08,2005-03-29,Anthony Tate,Electrique,Kia,XX91YY,1,RESPONSABLE,GROUPAMA
+1723,1994-07-09,Todd,Payne,55,Non Cadre,70,Lille,Nice,786,2000-02-23,2011-08-10,Samantha Smith,Berline,Mazda,XX14YY,1,NON RESPONSABLE,GENERALI
+2840,1992-09-17,Hunter,Campbell,66,Cadre,48,Strasbourg,Bordeaux,676,1997-09-20,2021-08-04,Caleb Morales,Citadine,Honda,XX9YY,1,RESPONSABLE,ALLIANZ
+4032,2016-09-19,Jordan,Foster,87,Non Cadre,21,Strasbourg,Bordeaux,549,2020-05-02,2016-02-19,Christopher Schneider,Citadine,Dacia,XX49YY,1,RESPONSABLE,GENERALI
+1697,2021-04-11,William,Soto,69,Non Cadre,76,Lille,LeHavre,794,1998-06-12,2021-06-28,Albert Norris,Citadine,Dacia,XX83YY,1,RESPONSABLE,GENERALI
+284,2006-09-13,Ethan,Hubbard,14,Non Cadre,81,Amiens,LeHavre,951,2019-01-23,1999-05-15,Carlos Morris,Electrique,Dacia,XX44YY,1,NON RESPONSABLE,GENERALI
+2606,2003-07-22,Michael,Jimenez,48,Cadre,70,Strasbourg,Clermont,268,2011-07-20,1992-10-23,Mark Walker,Electrique,Tesla,XX94YY,1,RESPONSABLE,GENERALI
+16,2014-04-28,John,Terry,42,Cadre,88,Lyon,LeHavre,221,2014-12-13,2011-06-19,Laura Saunders,Electrique,Fiat,XX69YY,1,RESPONSABLE,AXA
+3853,2001-02-19,Jennifer,Swanson,68,Non Cadre,67,Lyon,Clermont,798,2003-07-28,1993-08-10,Michael Jimenez,Citadine,Mazda,XX91YY,0,RESPONSABLE,ALLIANZ
+2832,2002-10-16,Timothy,Allen,38,Cadre,59,Lyon,LeHavre,648,1998-03-22,2004-06-08,Linda Lyons,Citadine,Mazda,XX26YY,1,NON RESPONSABLE,AXA
+694,2004-11-03,Ronald,Moreno,52,Cadre,29,Lille,LeMans,498,2018-04-08,1996-12-14,Justin Davila,Berline,Audi,XX4YY,0,RESPONSABLE,GENERALI
+3051,2012-02-10,Jose,Ellis,33,Cadre,0,Lille,LeHavre,140,1995-11-15,2018-08-25,Marcus Page,Citadine,Dacia,XX32YY,0,NON RESPONSABLE,AXA
+1182,2015-03-18,Shawn,Wallace,91,Non Cadre,84,Amiens,Bordeaux,702,2001-09-22,1995-01-14,Shannon Smith,Electrique,Audi,XX75YY,0,NON RESPONSABLE,GROUPAMA
+746,2009-12-19,Timothy,Stewart,59,Cadre,41,Lyon,Clermont,94,1995-11-12,1996-11-09,Billy Kennedy,Electrique,Kia,XX66YY,1,NON RESPONSABLE,AXA
+2910,2000-09-25,Robert,Davis,80,Non Cadre,55,Amiens,Bordeaux,862,1995-02-02,2020-02-25,Mark Rose,Citadine,Dacia,XX51YY,0,NON RESPONSABLE,ALLIANZ
+4097,2009-05-11,Jennifer,Cox,4,Cadre,75,Lille,LeHavre,251,1995-03-25,1993-03-24,Megan Simpson,Electrique,Hyundai,XX21YY,0,NON RESPONSABLE,AXA
+1243,1999-06-11,Mariah,Stewart,50,Non Cadre,24,Lille,LeMans,483,2011-10-13,2010-01-03,Heather Maxwell,Citadine,Mazda,XX78YY,1,RESPONSABLE,AXA
+2916,2007-03-14,Sarah,Ross,82,Cadre,12,Lyon,Marseille,856,2018-05-30,2016-02-26,Anthony Rodriguez,Citadine,Fiat,XX20YY,1,NON RESPONSABLE,GENERALI
+2176,1999-08-22,Amber,Patton,1,Non Cadre,3,Lille,Marseille,269,2007-04-05,2014-05-09,Daniel Anderson,Citadine,Fiat,XX34YY,1,NON RESPONSABLE,AXA
+2556,2019-09-13,Dr.,Alicia Walters,21,Non Cadre,35,Lyon,LeMans,653,2021-05-01,1997-06-11,Stephanie Beck,Citadine,Honda,XX33YY,1,NON RESPONSABLE,ALLIANZ
+3707,2003-12-27,Zachary,Norton,92,Non Cadre,97,Paris,LeHavre,196,1995-10-02,2011-04-25,Jasmine Boyle,Electrique,Audi,XX6YY,1,NON RESPONSABLE,AXA
+2185,2006-07-31,Phyllis,Jimenez,43,Cadre,16,Lyon,LeMans,925,2015-08-04,2010-01-12,Rebecca Vasquez,Citadine,Kia,XX71YY,1,NON RESPONSABLE,ALLIANZ
+3108,1995-09-24,Joshua,Jefferson,87,Cadre,85,Amiens,LeHavre,263,2002-09-19,2002-11-30,Keith Thomas,Citadine,Dacia,XX92YY,0,RESPONSABLE,GROUPAMA
+4246,2006-12-02,Patricia,Williams,4,Cadre,92,Lille,Clermont,238,2006-03-04,2008-10-12,Alexandra Wright,Berline,Hyundai,XX42YY,0,RESPONSABLE,ALLIANZ
+2485,2015-08-11,Cheryl,Cochran,42,Cadre,34,Amiens,Bordeaux,388,2006-12-25,2020-04-10,David Mitchell,Berline,Honda,XX34YY,0,NON RESPONSABLE,GENERALI
+2363,2018-01-13,Rita,Rivera,47,Cadre,97,Paris,LeHavre,876,2000-08-30,2005-02-23,Evelyn Arias,Citadine,Audi,XX88YY,1,NON RESPONSABLE,GROUPAMA
+3874,2007-11-07,Kenneth,Padilla,85,Non Cadre,31,Strasbourg,LeHavre,780,2018-09-29,2014-06-11,Thomas Harper,Berline,Kia,XX44YY,0,NON RESPONSABLE,GROUPAMA
+2375,2016-04-18,Lynn,Ellison,39,Non Cadre,74,Strasbourg,Marseille,67,2009-02-21,2013-03-20,Debbie Foster,Electrique,Honda,XX60YY,0,NON RESPONSABLE,AXA
+827,1995-03-21,Cheryl,Mccarthy,17,Cadre,11,Lyon,Nice,308,1994-05-18,2007-12-10,Dorothy Jones,Citadine,Dacia,XX99YY,0,RESPONSABLE,ALLIANZ
+2927,2005-07-31,William,Meyer,47,Cadre,25,Amiens,Nice,277,2001-09-24,2012-05-17,Logan Gomez,Electrique,Hyundai,XX49YY,0,NON RESPONSABLE,ALLIANZ
+530,1996-07-25,Juan,Walker Jr.,26,Non Cadre,35,Nantes,LeMans,441,2018-12-10,2013-10-13,Linda Smith,Electrique,Dacia,XX98YY,0,RESPONSABLE,AXA
+3295,1995-09-04,Becky,Huber,32,Cadre,69,Lyon,LeMans,786,2020-03-03,1998-05-01,Sharon Frazier,Berline,Fiat,XX61YY,0,NON RESPONSABLE,AXA
+1836,2020-11-17,Dr.,Danny Williams,42,Non Cadre,66,Lille,LeMans,472,2002-11-13,1999-07-20,Rebekah Baker,Berline,Mazda,XX77YY,1,NON RESPONSABLE,ALLIANZ
+651,2005-03-08,Cynthia,Jones,10,Cadre,2,Lyon,LeMans,254,2010-10-18,2003-02-08,Vanessa Lopez,Berline,Hyundai,XX36YY,1,NON RESPONSABLE,AXA
+239,2005-09-21,Ryan,Campbell,83,Cadre,25,Lyon,Nice,5,2005-12-24,1993-12-24,Aaron Ortiz,Electrique,Fiat,XX7YY,0,NON RESPONSABLE,AXA
+3925,2014-03-12,Frederick,Peterson,89,Cadre,89,Strasbourg,LeHavre,559,2020-01-20,2019-09-04,Kimberly Hernandez,Citadine,Audi,XX94YY,0,NON RESPONSABLE,AXA
+4769,1995-06-25,Dominic,Wells,91,Cadre,69,Nantes,Nice,755,1999-04-09,2013-02-05,Jamie Turner,Electrique,Kia,XX21YY,0,NON RESPONSABLE,GENERALI
+3425,2019-05-21,Hannah,Becker,57,Non Cadre,5,Strasbourg,Clermont,160,2013-10-10,1997-02-08,Paul Nelson,Berline,Fiat,XX18YY,0,NON RESPONSABLE,GENERALI
+4813,2006-05-17,Jenna,Fox,71,Cadre,91,Amiens,LeMans,924,1992-07-01,2009-07-05,Ann Buck,Berline,Audi,XX18YY,0,RESPONSABLE,GENERALI
+2855,1999-04-11,Kimberly,Evans,48,Cadre,70,Strasbourg,Nice,461,2004-02-13,2016-05-13,Jessica Fletcher,Electrique,Mazda,XX0YY,0,NON RESPONSABLE,GENERALI
+2642,2003-05-21,Mitchell,Beltran,44,Cadre,73,Nantes,LeHavre,635,2016-07-15,2016-09-17,Brad Freeman,Citadine,Dacia,XX80YY,0,NON RESPONSABLE,ALLIANZ
+4317,1999-09-24,Tammy,Williams,55,Cadre,55,Amiens,Nice,499,1994-01-25,2006-10-19,Patricia Cox,Berline,Honda,XX39YY,0,RESPONSABLE,ALLIANZ
+2929,1996-10-19,Patricia,Robinson,84,Non Cadre,52,Strasbourg,Nice,146,2015-04-19,2016-03-17,Paul Rodgers,Berline,Hyundai,XX83YY,0,RESPONSABLE,ALLIANZ
+3761,2005-12-13,Eric,Robinson,75,Cadre,76,Lyon,Marseille,345,2016-09-07,2004-08-19,Joseph Petersen,Citadine,Mazda,XX2YY,0,NON RESPONSABLE,GROUPAMA
+3801,1995-09-09,Christopher,Carpenter IV,59,Cadre,89,Strasbourg,LeMans,371,2016-09-13,1996-08-04,Matthew Carr,Berline,Mazda,XX61YY,1,NON RESPONSABLE,AXA
+839,2006-03-13,Reginald,Park,90,Non Cadre,32,Lille,LeMans,456,1998-07-07,2007-11-03,Janet Gardner,Berline,Audi,XX68YY,0,RESPONSABLE,GENERALI
+347,1995-12-30,Anthony,Schroeder,1,Non Cadre,50,Strasbourg,LeHavre,430,1997-03-25,2018-03-21,Debra Baker,Citadine,Hyundai,XX43YY,1,RESPONSABLE,GENERALI
+710,1993-03-07,Dana,Edwards,87,Non Cadre,15,Lyon,Nice,237,2006-04-04,2014-04-16,Lauren Wilson,Berline,Tesla,XX28YY,1,NON RESPONSABLE,GENERALI
+2404,1993-03-21,Brenda,Gonzalez,85,Cadre,86,Nantes,LeHavre,484,2018-10-16,1993-05-29,Brendan Taylor,Electrique,Fiat,XX61YY,0,NON RESPONSABLE,ALLIANZ
+2262,2004-11-29,Kimberly,Johnston,40,Non Cadre,77,Lille,Marseille,285,2015-01-30,2006-08-21,William Horton,Electrique,Kia,XX17YY,0,NON RESPONSABLE,ALLIANZ
+3799,2007-12-02,Douglas,Delgado,47,Non Cadre,33,Strasbourg,Clermont,993,1998-02-10,2017-07-07,Lisa Blanchard,Citadine,Audi,XX15YY,1,RESPONSABLE,GENERALI
+2267,2003-12-23,Christine,Lawson,37,Cadre,9,Lille,Nice,582,1997-11-27,2002-01-23,Ryan Gray,Berline,Mazda,XX54YY,0,RESPONSABLE,AXA
+4647,2013-02-19,Rebecca,Taylor,5,Non Cadre,82,Lyon,Bordeaux,146,1995-08-18,2009-12-25,Paige Nelson,Electrique,Kia,XX25YY,0,NON RESPONSABLE,GROUPAMA
+1670,2012-04-29,Sarah,Arellano,44,Non Cadre,54,Paris,Clermont,703,1998-07-25,2001-07-10,Kathryn Johnson,Citadine,Mazda,XX48YY,0,RESPONSABLE,GROUPAMA
+206,2000-10-16,Kenneth,Glover,12,Cadre,18,Lille,Marseille,333,2007-01-18,1999-08-05,Misty Adams,Electrique,Audi,XX97YY,1,NON RESPONSABLE,GROUPAMA
+4734,1999-01-07,Tiffany,Holmes,42,Non Cadre,18,Paris,Marseille,55,2001-04-12,1999-08-06,Dylan Hensley,Electrique,Fiat,XX30YY,0,NON RESPONSABLE,GENERALI
+3044,2016-05-12,Matthew,Davies,63,Non Cadre,55,Amiens,Bordeaux,274,2009-08-04,2019-05-08,Michael Thomas,Electrique,Hyundai,XX58YY,0,RESPONSABLE,GROUPAMA
+870,2018-04-10,Jerry,Hernandez,96,Cadre,2,Amiens,Clermont,350,2009-07-18,1997-04-21,Jennifer Johnson,Berline,Fiat,XX53YY,1,NON RESPONSABLE,ALLIANZ
+1835,1994-01-22,Jeffrey,Avery,82,Cadre,24,Nantes,LeMans,273,1992-10-25,2021-02-28,Brian Nguyen,Berline,Audi,XX65YY,0,RESPONSABLE,AXA
+1222,2008-01-20,Elizabeth,Marshall,36,Non Cadre,1,Lille,LeHavre,243,1994-03-04,2005-05-24,Kevin Erickson,Citadine,Hyundai,XX41YY,0,NON RESPONSABLE,ALLIANZ
+1863,2017-01-25,William,Martinez,4,Non Cadre,50,Nantes,LeMans,740,1999-12-12,2009-01-24,Nicholas Long,Electrique,Fiat,XX34YY,0,NON RESPONSABLE,GROUPAMA
+138,1995-08-26,Kelly,Davis,9,Cadre,97,Lyon,Clermont,652,1993-12-01,2006-05-29,Jasmine Kim,Berline,Tesla,XX32YY,1,NON RESPONSABLE,AXA
+4028,2017-09-06,Brian,Brooks,88,Cadre,35,Lille,Nice,656,2001-10-26,2020-08-29,Ronald Rodriguez,Berline,Hyundai,XX87YY,1,NON RESPONSABLE,GENERALI
+4917,2001-09-15,Stacy,Crawford,49,Cadre,91,Paris,Bordeaux,686,2017-09-17,2000-01-29,Samuel Perry,Berline,Dacia,XX66YY,0,RESPONSABLE,ALLIANZ
+3869,2017-12-24,Bryan,Cooper,61,Cadre,23,Paris,Bordeaux,948,2014-11-04,2002-05-03,Michael Mitchell,Citadine,Audi,XX55YY,0,NON RESPONSABLE,AXA
+1517,1996-08-23,Greg,Jackson,58,Non Cadre,79,Paris,Bordeaux,254,2015-06-01,2010-09-11,Richard Mcgee,Berline,Tesla,XX69YY,1,NON RESPONSABLE,GENERALI
+3935,2018-12-16,Christopher,Harper,85,Non Cadre,18,Amiens,Nice,634,2009-03-18,2003-11-13,Eric Ward,Berline,Hyundai,XX50YY,0,NON RESPONSABLE,ALLIANZ
+986,2015-05-13,Juan,Schmidt,79,Cadre,72,Strasbourg,LeHavre,223,1992-12-15,1999-10-10,Bradley Vargas,Electrique,Fiat,XX88YY,1,RESPONSABLE,GENERALI
+3650,2010-12-31,Heather,Jones,55,Cadre,88,Paris,Clermont,616,2015-08-06,2020-03-04,Joseph Rivera,Electrique,Honda,XX1YY,1,NON RESPONSABLE,AXA
+2991,2004-06-13,George,Hogan,22,Non Cadre,47,Strasbourg,LeMans,226,2020-03-06,2005-06-06,Amy Olson,Citadine,Tesla,XX35YY,0,NON RESPONSABLE,GENERALI
+4088,1997-06-12,Walter,Hicks,69,Non Cadre,80,Amiens,LeMans,141,1994-07-22,2013-09-17,Mary Merritt,Electrique,Kia,XX56YY,0,RESPONSABLE,ALLIANZ
+2908,2002-07-26,Courtney,Lopez,94,Cadre,85,Paris,LeHavre,297,2012-10-09,2007-06-21,Zoe Morales,Citadine,Kia,XX78YY,0,NON RESPONSABLE,GENERALI
+3300,2013-01-16,Timothy,Bryant,12,Non Cadre,88,Nantes,Nice,919,2013-08-27,2018-12-17,Joseph Burns,Citadine,Audi,XX25YY,0,NON RESPONSABLE,ALLIANZ
+2931,2021-01-24,Selena,Edwards,78,Cadre,65,Lyon,LeHavre,478,1993-04-17,2006-02-05,Elizabeth Armstrong,Electrique,Mazda,XX30YY,0,NON RESPONSABLE,GROUPAMA
+2162,1996-04-11,Ashley,Moore DDS,39,Cadre,9,Amiens,Bordeaux,141,2004-10-17,1996-03-23,John Baker,Citadine,Dacia,XX2YY,1,RESPONSABLE,ALLIANZ
+2674,2013-09-14,Sylvia,Zimmerman,89,Non Cadre,66,Nantes,Nice,427,1991-12-19,1993-09-04,Melanie Abbott,Electrique,Fiat,XX72YY,0,NON RESPONSABLE,GENERALI
+497,2019-04-06,Christian,Wolf,72,Cadre,50,Paris,Nice,531,2005-03-28,1995-06-06,Bob Tran,Berline,Audi,XX2YY,1,NON RESPONSABLE,GROUPAMA
+2627,2008-12-10,Hunter,Woodward,71,Non Cadre,83,Paris,Bordeaux,989,2010-01-08,2021-08-20,James Maxwell MD,Citadine,Tesla,XX95YY,0,NON RESPONSABLE,AXA
+4802,2014-02-05,Stacy,Martin,90,Cadre,24,Nantes,LeHavre,830,1999-12-19,2015-11-11,Christina Morgan,Citadine,Hyundai,XX32YY,0,NON RESPONSABLE,AXA
+4600,2009-04-01,Brandy,Jones,17,Cadre,98,Amiens,Nice,834,2006-06-10,1992-09-16,Linda Flynn,Berline,Audi,XX97YY,1,NON RESPONSABLE,ALLIANZ
+2622,2001-12-29,Michael,Marquez,41,Non Cadre,84,Amiens,Bordeaux,251,2012-06-17,2002-12-17,Katie Harvey,Electrique,Audi,XX16YY,1,NON RESPONSABLE,GROUPAMA
+488,2006-11-26,Tanya,Wallace,9,Non Cadre,33,Strasbourg,LeMans,971,2008-06-15,2006-05-04,Denise Payne,Berline,Dacia,XX94YY,1,NON RESPONSABLE,GROUPAMA
+4076,2004-07-21,Jamie,Hurley,75,Cadre,2,Strasbourg,Bordeaux,697,2017-09-10,1994-11-25,Julie Rivera,Electrique,Fiat,XX31YY,1,RESPONSABLE,GROUPAMA
+1501,2017-07-28,Sean,Wallace,39,Non Cadre,28,Lyon,Bordeaux,43,2006-08-11,2019-02-10,Jordan Miller,Berline,Audi,XX86YY,0,NON RESPONSABLE,ALLIANZ
+1833,1999-01-08,Ronald,Chase,90,Cadre,79,Lyon,Nice,298,1991-12-15,1992-05-05,George Thomas,Berline,Audi,XX74YY,0,RESPONSABLE,ALLIANZ
+3480,1992-04-30,Justin,Hill,73,Cadre,31,Nantes,Marseille,788,2007-05-24,2001-03-04,Jonathan Luna,Electrique,Kia,XX32YY,1,NON RESPONSABLE,GROUPAMA
+3330,2019-09-09,Michelle,Flores,82,Cadre,19,Strasbourg,Clermont,48,1997-05-25,1993-08-08,Kristi Anderson,Electrique,Mazda,XX25YY,0,NON RESPONSABLE,GENERALI
+4925,2002-10-25,Anthony,Taylor,89,Cadre,9,Paris,Bordeaux,239,2009-10-21,2010-08-10,Kayla Martinez,Citadine,Tesla,XX2YY,1,RESPONSABLE,ALLIANZ
+3377,2012-11-26,Jason,Schultz,81,Cadre,30,Strasbourg,LeMans,663,2007-01-17,2004-09-13,Keith Silva,Electrique,Dacia,XX59YY,1,NON RESPONSABLE,AXA
+2681,2008-06-19,Michael,Morales,99,Non Cadre,64,Lille,Marseille,209,2003-04-24,1995-05-01,Michael Donovan,Berline,Fiat,XX82YY,0,NON RESPONSABLE,GROUPAMA
+1023,1993-01-11,Colton,Blair,70,Non Cadre,21,Amiens,Clermont,477,1992-08-21,2010-01-25,Chris Harvey,Electrique,Fiat,XX85YY,0,NON RESPONSABLE,GROUPAMA
+1669,2004-08-17,Michael,Anderson,15,Cadre,42,Strasbourg,LeMans,758,2017-06-13,1995-07-07,Joseph Boone,Electrique,Audi,XX57YY,0,NON RESPONSABLE,AXA
+3339,1995-07-31,Warren,Davis,65,Non Cadre,80,Strasbourg,Nice,846,2005-12-30,2003-06-10,Courtney Meyer,Citadine,Mazda,XX80YY,0,NON RESPONSABLE,AXA
+3583,2007-03-21,Alan,Melendez,4,Cadre,29,Paris,Nice,532,2001-05-23,2002-01-09,Brian Carney,Citadine,Kia,XX9YY,1,NON RESPONSABLE,AXA
+190,1996-09-28,Sherry,Dougherty,74,Cadre,35,Lille,Marseille,819,1994-12-05,2003-07-02,Lori Hawkins DVM,Citadine,Dacia,XX30YY,1,NON RESPONSABLE,GENERALI
+1523,2010-05-04,Christopher,King,14,Cadre,21,Lille,LeMans,442,2009-01-27,2011-01-06,Anita Newman,Citadine,Kia,XX89YY,1,RESPONSABLE,ALLIANZ
+637,1997-07-29,Kari,Horn,28,Cadre,14,Amiens,Bordeaux,328,2018-07-06,1998-10-29,April Wagner,Electrique,Hyundai,XX70YY,0,RESPONSABLE,GROUPAMA
+3239,2007-04-26,Erica,Mcdowell,10,Cadre,42,Lyon,Marseille,303,1992-08-11,2014-12-09,Cassandra Ortiz,Electrique,Dacia,XX67YY,0,RESPONSABLE,GROUPAMA
+2841,2019-12-11,Peter,Nichols,47,Cadre,92,Paris,LeHavre,184,2009-01-16,1998-04-27,Matthew Morris,Berline,Tesla,XX85YY,1,RESPONSABLE,GROUPAMA
+893,1992-01-11,Sean,Smith,52,Cadre,52,Lille,Bordeaux,20,2005-07-29,1998-01-12,Jeffrey Tucker,Berline,Honda,XX38YY,0,NON RESPONSABLE,GROUPAMA
+935,1994-07-09,Cody,Williams,1,Cadre,50,Paris,Clermont,805,2014-06-08,1993-07-19,Terry Miles,Berline,Mazda,XX1YY,1,RESPONSABLE,GENERALI
+4370,2016-07-10,Mary,Harvey,97,Cadre,4,Paris,LeMans,804,2020-12-02,1995-04-23,Tanya Holden,Citadine,Fiat,XX22YY,0,RESPONSABLE,ALLIANZ
+4271,2013-05-29,Tammy,Roach,51,Non Cadre,50,Lille,LeMans,3,1995-02-03,2006-09-02,Courtney Vega,Berline,Kia,XX10YY,0,RESPONSABLE,ALLIANZ
+2878,2015-03-26,Andrew,Gordon,84,Non Cadre,50,Lille,Marseille,38,1999-09-19,2009-04-06,Peter Schroeder,Electrique,Tesla,XX97YY,0,RESPONSABLE,GENERALI
+1289,1993-01-20,Joseph,Gonzales,66,Non Cadre,78,Amiens,Nice,280,1996-02-20,2018-11-23,Stephanie Robinson,Citadine,Hyundai,XX84YY,0,NON RESPONSABLE,GROUPAMA
+2385,2008-02-21,Courtney,Armstrong,96,Cadre,29,Paris,Clermont,812,2001-06-20,1993-05-28,Tiffany Murphy,Berline,Honda,XX58YY,1,RESPONSABLE,ALLIANZ
+4999,1997-12-30,Deborah,Shaffer,91,Non Cadre,76,Lille,Bordeaux,885,2011-02-02,1992-11-26,Monica Johnson,Citadine,Mazda,XX44YY,1,RESPONSABLE,ALLIANZ
+2520,1994-05-08,Ricky,Johnson,14,Non Cadre,24,Nantes,Marseille,119,2002-05-16,2003-03-23,Mary Greene,Citadine,Audi,XX12YY,1,NON RESPONSABLE,AXA
+1594,2020-01-11,Robert,Hall,74,Non Cadre,92,Nantes,LeMans,751,2019-08-30,1996-01-07,Victoria Barajas,Electrique,Fiat,XX23YY,1,RESPONSABLE,ALLIANZ
+538,2007-06-06,Mr.,Antonio Tucker,2,Cadre,31,Amiens,Bordeaux,0,1995-03-03,1999-02-27,Brian Taylor,Berline,Mazda,XX23YY,1,RESPONSABLE,ALLIANZ
+2136,2003-09-09,Amanda,Reed,92,Cadre,25,Strasbourg,Nice,55,1994-02-13,2008-04-07,Ronald Bishop,Electrique,Dacia,XX78YY,0,NON RESPONSABLE,AXA
+573,2017-01-10,Jonathan,Roberts,49,Non Cadre,39,Lille,LeMans,530,2000-06-06,1996-07-09,Mrs. Paula Ramirez,Berline,Dacia,XX97YY,0,NON RESPONSABLE,ALLIANZ
+768,2010-06-27,Cheyenne,Martinez,10,Non Cadre,88,Strasbourg,Marseille,950,2003-02-02,2015-12-02,Michael Hull,Electrique,Tesla,XX67YY,0,RESPONSABLE,GENERALI
+2489,1992-07-03,Rebecca,Hernandez,44,Non Cadre,63,Nantes,LeHavre,221,2004-01-13,1992-04-03,Shelby Hoover,Citadine,Dacia,XX11YY,1,RESPONSABLE,GROUPAMA
+4964,2012-02-01,Vanessa,Keller,31,Cadre,53,Paris,LeMans,80,1996-10-14,2002-12-17,Samuel Mcneil,Citadine,Audi,XX18YY,1,NON RESPONSABLE,GENERALI
+2313,1993-12-25,Dwayne,Booker,21,Non Cadre,69,Paris,LeHavre,931,2006-04-30,2000-07-05,Emily Macias,Berline,Fiat,XX58YY,1,RESPONSABLE,AXA
+193,1993-09-26,Lydia,Garcia,0,Cadre,16,Nantes,LeHavre,211,1995-07-01,2015-08-15,Adam Haynes,Electrique,Kia,XX1YY,0,RESPONSABLE,ALLIANZ
+4621,2005-05-13,Sarah,Williams,83,Non Cadre,0,Lyon,Clermont,28,2013-09-01,2016-10-25,Daniel Herrera,Citadine,Hyundai,XX20YY,1,NON RESPONSABLE,GROUPAMA
+2089,1994-07-18,Savannah,Leach,1,Cadre,64,Nantes,Bordeaux,682,2013-01-06,2012-04-19,Michelle Randall,Berline,Mazda,XX75YY,0,NON RESPONSABLE,ALLIANZ
+2613,2002-08-30,Juan,Olson,35,Non Cadre,97,Strasbourg,Clermont,44,2001-06-18,2013-07-24,Austin Glover,Electrique,Tesla,XX34YY,1,NON RESPONSABLE,GROUPAMA
+2868,2005-05-24,Chad,Henderson,55,Non Cadre,89,Lyon,Bordeaux,578,2016-07-27,2012-10-23,Lindsay Smith,Citadine,Kia,XX68YY,1,RESPONSABLE,ALLIANZ
+1945,2012-04-15,Maxwell,Mcclure,81,Cadre,11,Lyon,Bordeaux,998,1993-12-13,2014-10-17,Traci Murphy,Citadine,Fiat,XX93YY,0,NON RESPONSABLE,AXA
+2528,2009-04-22,Brian,Leonard,62,Cadre,13,Strasbourg,Marseille,506,1998-01-30,2016-12-04,Tara Miller,Citadine,Audi,XX58YY,0,RESPONSABLE,GENERALI
+4987,2014-07-29,Tara,Curry,15,Cadre,62,Amiens,LeHavre,329,1997-10-15,2003-10-18,Meredith Dillon,Citadine,Tesla,XX78YY,1,NON RESPONSABLE,AXA
+4869,1995-06-02,George,Mathis,69,Non Cadre,11,Lyon,Bordeaux,519,2016-01-18,2009-11-29,Hannah Moran,Electrique,Dacia,XX64YY,1,RESPONSABLE,GROUPAMA
+2670,1998-12-20,Anthony,Peters,88,Non Cadre,5,Paris,LeMans,123,2021-06-28,1993-09-14,Tamara Chen,Citadine,Honda,XX76YY,1,NON RESPONSABLE,AXA
+3848,1992-08-28,Christopher,Mckee,8,Non Cadre,4,Amiens,Nice,798,2017-03-26,2002-12-28,Krista Lowe,Citadine,Fiat,XX50YY,1,NON RESPONSABLE,ALLIANZ
+4517,2007-03-04,Sandra,Ramos,85,Cadre,91,Strasbourg,Marseille,483,1995-08-24,2018-10-04,Zachary Watson,Berline,Tesla,XX13YY,0,RESPONSABLE,ALLIANZ
+3662,1993-05-11,Jason,Alexander,44,Cadre,59,Nantes,Bordeaux,716,2006-01-30,2006-03-31,Kayla Scott,Electrique,Dacia,XX84YY,1,NON RESPONSABLE,AXA
+83,2018-04-04,Jessica,Stewart,98,Non Cadre,67,Amiens,Clermont,589,2002-02-22,2008-04-04,Kristen Hall,Berline,Dacia,XX2YY,0,NON RESPONSABLE,GROUPAMA
+2604,1996-11-19,Sonya,Stark,63,Cadre,72,Paris,Marseille,77,2000-09-28,2019-06-05,Ashley Banks,Berline,Kia,XX95YY,0,NON RESPONSABLE,GROUPAMA
+2614,1993-10-11,Yvette,Burke,62,Non Cadre,92,Amiens,Bordeaux,773,1993-08-06,2018-09-24,Amber Jones,Berline,Hyundai,XX99YY,0,RESPONSABLE,ALLIANZ
+339,1999-12-17,Amy,Cook,20,Non Cadre,52,Strasbourg,Nice,657,2014-10-01,2013-09-12,Antonio Harris,Citadine,Mazda,XX14YY,1,NON RESPONSABLE,GROUPAMA
+1766,1998-11-28,David,Young,79,Non Cadre,16,Strasbourg,Bordeaux,653,1993-10-27,2007-12-13,Christopher Moore,Electrique,Dacia,XX40YY,0,RESPONSABLE,GENERALI
+4674,2017-09-14,Thomas,Payne,91,Non Cadre,32,Amiens,LeHavre,367,1996-03-15,2008-01-07,Marc Thompson,Berline,Fiat,XX97YY,1,NON RESPONSABLE,ALLIANZ
+4034,2011-08-10,Mrs.,Susan Cole,1,Cadre,99,Paris,Clermont,3,2012-08-29,1992-10-30,Michael James,Berline,Mazda,XX54YY,1,RESPONSABLE,GENERALI
+1831,2008-10-25,Abigail,Byrd,7,Cadre,81,Paris,Nice,458,1998-11-15,1998-05-28,Karina Robinson,Berline,Hyundai,XX81YY,1,RESPONSABLE,AXA
+355,2014-01-06,Leonard,Hodge,90,Non Cadre,70,Lyon,LeHavre,159,2003-04-30,2014-10-11,Peter Brooks,Berline,Honda,XX22YY,0,RESPONSABLE,GENERALI
+2657,2003-10-22,Ms.,Cindy Cervantes,93,Non Cadre,23,Lyon,LeHavre,633,2003-01-06,2000-12-14,Julie Rich,Electrique,Tesla,XX78YY,0,RESPONSABLE,GROUPAMA
+3187,2021-03-21,Christopher,Calhoun,59,Non Cadre,0,Lille,Nice,450,1998-10-31,2017-09-19,Tammy Shaffer,Citadine,Hyundai,XX63YY,1,RESPONSABLE,GENERALI
+622,1999-10-17,Michelle,Carter,84,Cadre,28,Amiens,Bordeaux,185,1992-12-29,1997-08-27,Jeffrey Contreras,Electrique,Honda,XX86YY,0,NON RESPONSABLE,GENERALI
+4361,2020-10-01,Cameron,Keith,5,Cadre,85,Nantes,LeMans,944,2006-11-14,2003-05-01,Ashley White,Citadine,Hyundai,XX30YY,0,NON RESPONSABLE,AXA
+4090,1999-05-10,Lindsay,Good,14,Non Cadre,24,Paris,Marseille,194,2013-02-26,2015-02-11,Deborah Richardson,Electrique,Hyundai,XX29YY,0,RESPONSABLE,GROUPAMA
+3002,1999-06-08,Shaun,Dennis,82,Cadre,0,Lille,Clermont,255,1995-12-29,2014-12-11,Angela Merritt,Citadine,Tesla,XX64YY,0,RESPONSABLE,GENERALI
+1980,2021-06-29,Jerry,Ponce,31,Cadre,24,Paris,Clermont,330,1998-02-02,1992-03-22,Hailey Harris,Electrique,Kia,XX91YY,0,NON RESPONSABLE,GENERALI
+927,2016-11-10,Caroline,Barnett,47,Cadre,5,Paris,LeMans,706,2002-07-09,2019-10-14,Juan Meyers,Citadine,Hyundai,XX56YY,1,NON RESPONSABLE,GENERALI
+3547,2016-12-23,Dr.,Mary Alvarado MD,40,Cadre,51,Paris,Nice,223,2010-07-27,2009-09-15,Patrick Perry,Electrique,Kia,XX22YY,1,NON RESPONSABLE,GROUPAMA
+4960,1996-06-26,Laura,Newman,79,Non Cadre,50,Nantes,LeHavre,233,1995-04-05,2000-06-07,Kyle Potts,Citadine,Mazda,XX41YY,0,NON RESPONSABLE,GENERALI
+1230,1999-09-14,John,Wilson,31,Non Cadre,82,Nantes,LeMans,39,2020-05-15,1991-10-04,Marcus Hoover,Electrique,Fiat,XX88YY,0,NON RESPONSABLE,ALLIANZ
+2394,1998-08-30,Jasmine,Thompson,25,Cadre,59,Lille,Nice,33,2003-08-05,1999-07-04,Louis Mccarty,Berline,Audi,XX34YY,0,RESPONSABLE,GROUPAMA
+3735,2000-12-25,John,Figueroa,48,Non Cadre,86,Paris,Nice,93,1994-10-05,1993-09-04,Kristi Smith,Citadine,Honda,XX82YY,1,NON RESPONSABLE,AXA
+285,2008-10-24,Amanda,Simpson,17,Cadre,97,Lyon,Marseille,431,2011-02-02,2013-05-31,Sean Smith,Berline,Tesla,XX27YY,0,NON RESPONSABLE,AXA
+2651,2011-11-08,Anthony,Rodriguez,81,Cadre,8,Paris,LeHavre,225,2011-04-17,2002-11-29,Dawn Lopez,Electrique,Honda,XX13YY,0,RESPONSABLE,ALLIANZ
+4553,2010-07-09,Jessica,Oliver,27,Non Cadre,37,Nantes,Clermont,209,2007-10-08,2016-06-20,Cody Sanchez,Electrique,Dacia,XX71YY,0,NON RESPONSABLE,AXA
+1905,2020-10-27,Traci,Richmond MD,19,Cadre,68,Lille,Marseille,233,2003-09-01,1995-11-24,Emma Garcia,Electrique,Tesla,XX1YY,1,NON RESPONSABLE,GENERALI
+2664,1996-04-08,Jamie,Stevens,49,Cadre,86,Lille,Clermont,142,1999-03-27,2000-07-11,Rebecca Harrington,Berline,Fiat,XX27YY,0,RESPONSABLE,GENERALI
+3185,2020-11-24,Briana,Taylor,77,Non Cadre,66,Amiens,Bordeaux,396,1994-08-20,2020-03-03,Monica Becker,Electrique,Tesla,XX43YY,0,RESPONSABLE,GENERALI
+4343,2013-12-30,Patrick,Singleton,77,Non Cadre,44,Lille,Bordeaux,757,1996-06-26,2016-08-12,Derek Banks,Electrique,Hyundai,XX96YY,0,NON RESPONSABLE,GENERALI
+4475,2001-11-05,Jessica,Ellis,50,Cadre,49,Lille,Marseille,537,2015-03-18,2015-10-13,Kristen Sutton,Electrique,Tesla,XX5YY,0,NON RESPONSABLE,GENERALI
+1824,2017-03-25,Andrew,James,41,Non Cadre,10,Strasbourg,LeHavre,460,2014-04-10,1994-06-06,Steven Miller,Berline,Tesla,XX44YY,0,RESPONSABLE,ALLIANZ
+4139,2014-03-11,Joseph,Rasmussen,34,Non Cadre,16,Lyon,Bordeaux,580,2020-04-03,1994-01-20,Kristen Marshall,Berline,Fiat,XX75YY,1,NON RESPONSABLE,GROUPAMA
+3767,1997-05-18,Emily,Benson,74,Cadre,89,Strasbourg,Clermont,630,2020-08-24,2017-07-02,Vicki White,Electrique,Tesla,XX10YY,1,RESPONSABLE,GENERALI
+3410,2000-07-31,John,West,6,Cadre,1,Strasbourg,Marseille,860,2020-03-10,2001-04-19,Sandra Young,Citadine,Dacia,XX47YY,0,RESPONSABLE,ALLIANZ
+262,2018-03-31,Crystal,Marsh,9,Non Cadre,40,Nantes,Nice,566,2020-08-13,2008-10-28,Justin Delgado,Electrique,Kia,XX95YY,1,NON RESPONSABLE,AXA
+2992,2002-01-18,Diane,Finley,92,Cadre,14,Strasbourg,LeMans,856,2016-04-27,2017-12-17,Steven Thomas,Electrique,Honda,XX71YY,0,NON RESPONSABLE,GROUPAMA
+3352,1997-01-03,Terry,Owen,19,Cadre,76,Lyon,Marseille,472,2004-07-14,2020-09-20,Bobby Harris,Citadine,Dacia,XX65YY,1,NON RESPONSABLE,AXA
+1869,1996-10-23,Jaime,Duke,46,Cadre,96,Strasbourg,Clermont,184,2017-01-21,2015-07-31,Daniel Mueller,Electrique,Dacia,XX83YY,0,RESPONSABLE,GROUPAMA
+2430,2003-01-21,David,Solomon,38,Non Cadre,62,Lille,Bordeaux,61,2018-04-16,1993-10-17,Kimberly Powell,Citadine,Hyundai,XX34YY,1,RESPONSABLE,GROUPAMA
+1988,2015-05-12,Antonio,Leon,39,Cadre,96,Nantes,Marseille,717,1991-11-06,2020-10-11,Megan Campbell,Electrique,Kia,XX91YY,1,NON RESPONSABLE,AXA
+2546,1996-02-28,Adam,Harrison,7,Cadre,4,Paris,Bordeaux,929,2016-05-22,2011-08-10,Frank King,Berline,Fiat,XX80YY,0,NON RESPONSABLE,GENERALI
+1804,2013-09-21,David,Moore,16,Non Cadre,80,Lille,Clermont,738,2007-09-17,2001-03-19,Wayne Davis,Berline,Tesla,XX60YY,1,RESPONSABLE,AXA
+4448,2010-05-22,Ruben,Tran,37,Non Cadre,65,Nantes,LeHavre,822,1995-08-20,2007-08-10,Noah Brown,Berline,Hyundai,XX77YY,1,RESPONSABLE,ALLIANZ
+3795,1997-04-22,James,Silva,74,Non Cadre,34,Lyon,Bordeaux,417,2013-02-20,2007-06-19,Matthew Robertson,Citadine,Mazda,XX2YY,0,NON RESPONSABLE,GENERALI
+2238,1995-09-06,John,Miller,83,Cadre,21,Nantes,LeHavre,215,1994-07-12,1994-08-03,William Tran,Citadine,Fiat,XX48YY,0,RESPONSABLE,ALLIANZ
+3119,2015-07-16,Jessica,Gibson,42,Non Cadre,92,Nantes,Clermont,343,1995-05-24,1994-01-12,Michelle Edwards,Electrique,Tesla,XX97YY,0,NON RESPONSABLE,ALLIANZ
+4715,2006-01-28,Scott,Lopez,43,Cadre,24,Lyon,Nice,224,1995-12-18,2020-12-21,Ann Bradford,Berline,Kia,XX89YY,0,NON RESPONSABLE,AXA
+2073,2015-10-09,Zachary,Wilson,52,Cadre,84,Amiens,LeHavre,115,1997-01-06,1994-04-18,Mark Burke,Berline,Mazda,XX50YY,1,NON RESPONSABLE,AXA
+4711,1995-06-06,James,Hall,28,Non Cadre,32,Amiens,Nice,609,2003-09-16,1991-11-09,Christine Moon,Electrique,Audi,XX53YY,1,RESPONSABLE,ALLIANZ
+307,2006-12-04,Robin,Sanders MD,31,Cadre,2,Amiens,Marseille,289,2017-07-01,2002-10-09,Joshua Woods,Berline,Kia,XX94YY,1,RESPONSABLE,GROUPAMA
+2842,2012-06-30,Mitchell,Brown,83,Cadre,96,Paris,Nice,136,2013-02-04,2009-07-01,Danielle Ayala,Berline,Tesla,XX70YY,0,NON RESPONSABLE,GENERALI
+1387,1996-08-04,Brett,Reeves,62,Cadre,43,Amiens,Bordeaux,986,2007-03-17,2004-12-29,Daniel Copeland,Electrique,Honda,XX4YY,0,RESPONSABLE,AXA
+1042,2014-05-29,Denise,Miller,77,Non Cadre,63,Lille,Nice,649,2014-01-22,2014-02-11,Caleb Thomas,Electrique,Fiat,XX19YY,1,RESPONSABLE,GROUPAMA
+1100,2018-06-04,Sherry,Mendoza,70,Cadre,82,Nantes,LeMans,725,1997-06-29,2002-01-01,Bruce Newman,Berline,Fiat,XX40YY,1,NON RESPONSABLE,GROUPAMA
+467,2018-09-16,Ryan,Howard,21,Non Cadre,40,Lille,LeHavre,533,2008-11-04,2006-08-06,Caroline Myers DDS,Berline,Kia,XX20YY,0,RESPONSABLE,GROUPAMA
+1092,2015-04-23,Jessica,Castaneda,84,Cadre,46,Strasbourg,LeMans,391,2008-12-23,2012-04-26,Kenneth Mitchell,Berline,Dacia,XX27YY,0,RESPONSABLE,AXA
+1710,2005-07-10,Melissa,Gilbert,11,Non Cadre,37,Paris,LeMans,141,1993-10-14,2002-04-11,Steven Ferguson,Citadine,Tesla,XX58YY,1,RESPONSABLE,GENERALI
+492,2013-12-08,David,Tran,49,Non Cadre,63,Lille,Marseille,267,2011-08-09,2016-03-13,Kenneth Tran,Electrique,Tesla,XX30YY,1,RESPONSABLE,ALLIANZ
+4119,1998-03-06,Suzanne,Aguirre,75,Cadre,42,Nantes,Marseille,91,2009-02-02,2002-10-11,Courtney Brown,Electrique,Dacia,XX22YY,1,RESPONSABLE,ALLIANZ
+1553,2014-09-12,Brian,Welch,94,Cadre,29,Amiens,Nice,969,2019-04-19,2005-12-25,Ashley Gonzalez,Electrique,Tesla,XX15YY,1,RESPONSABLE,GROUPAMA
+1811,2014-06-18,John,Smith,60,Non Cadre,13,Lille,LeMans,753,2005-10-04,2018-12-21,Jillian Williams,Citadine,Honda,XX67YY,0,RESPONSABLE,AXA
+121,2001-10-20,Clinton,Clark,6,Cadre,22,Paris,Bordeaux,705,2009-01-03,2021-03-21,Patricia Ward,Berline,Tesla,XX7YY,1,NON RESPONSABLE,GENERALI
+4004,1998-03-07,William,King,5,Cadre,33,Lyon,Nice,377,2004-10-03,2018-02-17,Andrea Navarro,Berline,Audi,XX21YY,0,NON RESPONSABLE,GROUPAMA
+3716,2007-01-04,Mark,Collier,54,Non Cadre,30,Lyon,Clermont,902,2017-04-10,2007-11-13,Kimberly Mccarty,Berline,Honda,XX93YY,0,RESPONSABLE,ALLIANZ
+4965,2019-04-22,David,Macdonald,17,Non Cadre,37,Amiens,Bordeaux,739,1999-11-07,2008-03-09,Jennifer Davenport,Citadine,Kia,XX67YY,0,RESPONSABLE,GENERALI
+2358,1997-04-24,Timothy,Johnson,33,Non Cadre,19,Lille,LeMans,183,2005-03-13,2009-12-07,Maurice Lee,Citadine,Dacia,XX94YY,1,NON RESPONSABLE,GENERALI
+455,2005-05-06,Yvette,Jenkins,5,Non Cadre,35,Paris,Bordeaux,943,1995-03-20,1996-02-07,Kristen Parker,Electrique,Dacia,XX63YY,1,RESPONSABLE,GENERALI
+660,2006-05-14,Andrea,Singleton,37,Non Cadre,50,Strasbourg,LeHavre,67,2011-01-16,2003-06-07,Steve Bryan,Berline,Kia,XX88YY,1,NON RESPONSABLE,GROUPAMA
+1408,1993-05-07,Alexander,Hunter,3,Non Cadre,58,Lyon,Nice,365,2021-08-26,2004-10-03,Debra Hughes,Berline,Audi,XX96YY,1,RESPONSABLE,GROUPAMA
+1939,2016-11-05,Cindy,Brock,46,Cadre,11,Lille,Bordeaux,942,1999-04-19,2000-04-22,Katherine Morse,Citadine,Mazda,XX91YY,1,RESPONSABLE,ALLIANZ
+2067,1993-02-28,Bobby,Davidson,37,Cadre,92,Amiens,Marseille,584,2019-09-12,1999-04-10,Sandra Lewis,Electrique,Fiat,XX31YY,0,NON RESPONSABLE,GENERALI
+1526,1998-01-30,Tammy,David,8,Non Cadre,28,Lyon,Bordeaux,810,2011-12-25,1996-11-23,Kimberly Harris,Electrique,Mazda,XX40YY,0,NON RESPONSABLE,ALLIANZ
+3465,2003-11-27,Nancy,Acevedo,90,Non Cadre,11,Amiens,Nice,15,1999-08-08,1996-11-20,Thomas Cruz,Berline,Mazda,XX53YY,0,NON RESPONSABLE,GENERALI
+2030,2003-06-09,Willie,Ross,49,Cadre,75,Lille,Bordeaux,516,1996-06-02,2005-12-17,Taylor Gonzalez,Citadine,Audi,XX74YY,0,NON RESPONSABLE,AXA
+1053,2003-09-19,Denise,Strong,69,Non Cadre,23,Strasbourg,LeHavre,602,1999-05-01,1998-06-14,Kimberly White,Electrique,Kia,XX7YY,0,RESPONSABLE,AXA
+2891,2010-01-16,Dawn,Fields,53,Cadre,46,Amiens,LeHavre,254,2007-03-31,2013-11-15,Jackson Webster,Citadine,Fiat,XX77YY,0,RESPONSABLE,GROUPAMA
+4774,2008-11-15,Krista,Hammond,74,Cadre,10,Lille,LeMans,851,2012-03-24,2002-11-10,Tiffany King,Electrique,Fiat,XX70YY,1,NON RESPONSABLE,GENERALI
+2673,2018-09-10,Rose,Williamson,63,Non Cadre,82,Amiens,LeMans,584,2000-05-02,2011-04-18,Eddie Valenzuela,Berline,Kia,XX33YY,0,NON RESPONSABLE,AXA
+2172,2014-07-08,Elizabeth,Moses,4,Cadre,15,Strasbourg,Marseille,436,2016-07-28,2007-02-14,Paul Ruiz,Citadine,Dacia,XX5YY,1,NON RESPONSABLE,AXA
+1019,2010-08-21,Emily,Reyes,24,Non Cadre,12,Lille,Nice,487,2016-12-19,2009-01-25,David Mays,Citadine,Kia,XX90YY,0,RESPONSABLE,GENERALI
+265,2018-09-26,Gwendolyn,Frazier,83,Non Cadre,93,Strasbourg,Nice,23,2020-10-04,2012-04-03,Jennifer Yoder,Citadine,Tesla,XX59YY,1,RESPONSABLE,GROUPAMA
+2066,1995-11-02,Michelle,Harris,11,Cadre,63,Strasbourg,LeHavre,864,2007-11-07,2019-11-12,Mitchell Snyder,Electrique,Tesla,XX86YY,1,RESPONSABLE,GENERALI
+3575,2005-06-19,Carrie,Ortiz,83,Cadre,68,Lille,LeMans,890,2000-09-19,2013-08-11,Amanda Burns,Berline,Mazda,XX81YY,0,NON RESPONSABLE,GENERALI
+3645,1995-07-01,David,Lee,46,Non Cadre,96,Nantes,Marseille,575,2004-05-19,2005-03-29,Jasmine Brooks,Berline,Dacia,XX2YY,1,RESPONSABLE,ALLIANZ
+1810,2009-03-03,Lori,Mercado,11,Cadre,2,Nantes,Nice,606,2004-08-31,2002-02-19,Heather Bruce,Citadine,Tesla,XX7YY,1,RESPONSABLE,GROUPAMA
+2368,1992-07-08,Andrea,Weber,78,Cadre,54,Paris,LeHavre,56,2020-03-16,2015-02-18,Kathy Blackwell,Berline,Hyundai,XX64YY,1,RESPONSABLE,GROUPAMA
+4528,2016-12-22,John,Thompson,4,Cadre,1,Nantes,Nice,392,2006-02-24,2010-06-29,Jacqueline Williams,Berline,Fiat,XX80YY,1,NON RESPONSABLE,GROUPAMA
+3088,2007-03-19,Dennis,Miller,58,Cadre,31,Paris,Clermont,351,1994-12-20,2015-01-11,Daniel Jackson,Citadine,Dacia,XX91YY,0,RESPONSABLE,GROUPAMA
+3348,2005-07-20,Erika,Kemp,81,Cadre,6,Lyon,LeHavre,433,2013-10-15,1993-05-30,Charles Mcintosh,Electrique,Audi,XX88YY,0,NON RESPONSABLE,AXA
+2221,1995-05-03,Thomas,Maynard,13,Cadre,26,Nantes,Nice,977,1999-12-18,2001-03-20,Shannon Burgess,Berline,Hyundai,XX30YY,0,RESPONSABLE,ALLIANZ
+4070,2003-03-24,Jean,Alexander,97,Non Cadre,58,Lyon,Marseille,525,2014-05-01,2014-07-25,Megan Sims,Berline,Hyundai,XX66YY,1,NON RESPONSABLE,ALLIANZ
+979,2006-10-11,Crystal,Bailey,39,Cadre,0,Lille,Clermont,558,2020-12-10,2018-10-25,Brandon Cooper,Citadine,Dacia,XX97YY,1,RESPONSABLE,GROUPAMA
+1412,1996-12-05,Nancy,Meyer,49,Non Cadre,8,Lille,LeHavre,843,2002-01-29,2014-04-04,Jason Buchanan,Berline,Mazda,XX79YY,1,RESPONSABLE,GENERALI
+3469,2010-03-09,Alexander,Powell,23,Non Cadre,92,Paris,Nice,223,2019-08-27,2014-09-24,Benjamin Dixon,Berline,Kia,XX87YY,1,NON RESPONSABLE,GENERALI
+4503,1997-05-25,Wayne,Edwards,60,Cadre,89,Lille,Bordeaux,629,1998-05-12,2011-03-14,Ashley Kim,Berline,Hyundai,XX13YY,0,NON RESPONSABLE,GROUPAMA
+3985,2015-09-19,Derek,Miller,13,Non Cadre,58,Lyon,Nice,339,2020-06-08,2020-06-23,Laura Wallace,Citadine,Dacia,XX50YY,1,NON RESPONSABLE,GROUPAMA
+3545,2007-01-26,Joanna,Manning,97,Cadre,94,Paris,Clermont,774,1995-08-23,1996-10-10,Cathy Cox,Electrique,Hyundai,XX82YY,0,RESPONSABLE,ALLIANZ
+359,1996-12-30,Matthew,Patel,69,Cadre,82,Amiens,Bordeaux,587,1992-07-30,2005-11-19,Amanda Lopez,Citadine,Hyundai,XX99YY,0,RESPONSABLE,GENERALI
+3692,2010-03-07,Tara,Wilson,70,Non Cadre,95,Paris,Clermont,612,2002-05-04,2004-11-16,Katherine Jimenez,Electrique,Fiat,XX25YY,0,NON RESPONSABLE,AXA
+4451,2004-04-22,Belinda,Moreno,3,Cadre,40,Lyon,LeHavre,432,2005-07-17,1997-12-10,Terry Moran,Electrique,Tesla,XX16YY,0,NON RESPONSABLE,AXA
+2380,1999-10-15,Mr.,Derrick Daugherty,8,Cadre,26,Amiens,Clermont,997,2005-05-03,2002-01-10,Megan Garcia,Berline,Hyundai,XX78YY,1,NON RESPONSABLE,ALLIANZ
+4000,1992-05-18,Nicholas,Stewart,82,Non Cadre,93,Amiens,Nice,997,1994-10-21,2013-07-17,Tina Parks,Citadine,Audi,XX21YY,0,RESPONSABLE,GENERALI
+2990,2001-09-12,Tiffany,Williams,9,Cadre,59,Lyon,Nice,405,2019-10-26,2005-04-10,Rachel Myers,Citadine,Dacia,XX51YY,0,RESPONSABLE,AXA
+2434,1999-04-13,Anthony,Taylor,80,Non Cadre,76,Paris,LeHavre,445,1991-09-14,1998-05-01,Martin Braun,Electrique,Mazda,XX20YY,1,RESPONSABLE,GROUPAMA
+3141,1999-07-08,Eric,Jordan,83,Cadre,28,Lille,Bordeaux,287,2007-12-17,1999-05-07,Lisa Wilson MD,Electrique,Hyundai,XX61YY,1,NON RESPONSABLE,GROUPAMA
+594,2006-09-13,Maria,Flores,36,Non Cadre,9,Nantes,Nice,603,2003-05-30,1993-10-25,Krystal Murphy,Citadine,Mazda,XX4YY,0,RESPONSABLE,AXA
+1496,2021-01-21,Richard,Byrd,52,Cadre,1,Lille,Bordeaux,490,2011-07-04,1999-01-13,Loretta Russell,Electrique,Audi,XX9YY,0,RESPONSABLE,GENERALI
+32,2000-06-26,Eric,Carter,36,Cadre,31,Lille,Clermont,395,1998-07-20,1999-11-05,Benjamin Haney,Citadine,Dacia,XX46YY,1,RESPONSABLE,GROUPAMA
+1090,2020-04-26,Amanda,Lopez,70,Non Cadre,68,Strasbourg,Clermont,684,2011-08-16,1999-09-11,Robin Carroll,Citadine,Honda,XX97YY,0,RESPONSABLE,ALLIANZ
+2848,1998-06-17,Caitlin,Reynolds,58,Cadre,64,Lyon,Bordeaux,882,2002-05-19,2020-12-15,Joseph Mcneil,Electrique,Audi,XX95YY,1,NON RESPONSABLE,GROUPAMA
+1671,2014-12-21,Sandra,Lara,38,Non Cadre,13,Strasbourg,Nice,720,1992-10-19,2010-04-01,Keith Duncan,Electrique,Honda,XX74YY,1,NON RESPONSABLE,GROUPAMA
+1689,1994-10-16,Brian,Brown,45,Cadre,21,Paris,LeMans,813,1994-11-21,1993-10-31,Richard Ramirez,Citadine,Hyundai,XX91YY,0,NON RESPONSABLE,ALLIANZ
+1739,2012-10-14,Jessica,Rivera,32,Cadre,91,Paris,Bordeaux,742,2011-05-26,2003-08-23,Gabriella Phillips,Citadine,Kia,XX69YY,1,RESPONSABLE,ALLIANZ
+2196,1994-08-15,Jose,Smith,94,Non Cadre,31,Lille,Bordeaux,767,2003-05-01,2002-07-04,Timothy Smith MD,Citadine,Dacia,XX52YY,0,NON RESPONSABLE,GROUPAMA
+864,2008-12-08,Sydney,Byrd,45,Non Cadre,26,Lyon,Marseille,262,1996-08-21,2020-05-24,Kenneth Wright,Berline,Fiat,XX82YY,0,RESPONSABLE,ALLIANZ
+3566,2002-07-09,Frank,Hunter,20,Cadre,90,Strasbourg,Nice,172,2016-01-08,2012-10-04,Erin Holmes,Citadine,Fiat,XX20YY,1,NON RESPONSABLE,AXA
+1942,2015-12-17,William,Holt,57,Cadre,67,Lyon,Bordeaux,395,1999-06-29,2013-01-03,Nancy Allen,Citadine,Honda,XX94YY,1,NON RESPONSABLE,GENERALI
+1444,1995-01-08,Erin,Frederick,87,Cadre,16,Amiens,LeMans,1,2018-08-17,2012-02-28,Angela English,Citadine,Dacia,XX73YY,1,NON RESPONSABLE,AXA
+2705,2021-08-23,John,Hanson,65,Cadre,78,Amiens,Clermont,103,2001-01-13,1995-06-22,Stephen Guzman,Electrique,Honda,XX20YY,1,NON RESPONSABLE,GENERALI
+1756,2009-11-17,Tristan,Robinson,20,Cadre,44,Paris,LeHavre,232,1995-12-01,2010-08-02,Robert Rangel,Citadine,Hyundai,XX41YY,0,NON RESPONSABLE,GENERALI
+1568,1998-11-10,Eduardo,Smith,22,Non Cadre,26,Lille,Bordeaux,938,1995-10-20,2012-07-16,Richard Marshall,Citadine,Dacia,XX38YY,1,RESPONSABLE,ALLIANZ
+3153,1999-04-15,Amy,Martin,60,Non Cadre,75,Lille,Clermont,354,2006-01-17,2004-12-26,Ebony Holland,Berline,Mazda,XX55YY,1,NON RESPONSABLE,GROUPAMA
+3728,2016-01-05,Jeffrey,Mills,6,Non Cadre,99,Lille,Clermont,412,2001-01-07,1993-07-19,Scott Ross,Citadine,Honda,XX79YY,0,RESPONSABLE,AXA
+2659,2017-05-29,Carol,Thomas,98,Cadre,83,Lyon,LeMans,884,2010-01-28,1993-09-18,Brittany Elliott,Citadine,Tesla,XX29YY,1,RESPONSABLE,GENERALI
+171,1992-12-09,Thomas,Tyler,64,Cadre,91,Amiens,Nice,889,2005-11-03,1991-10-08,Jesus Bryan,Berline,Tesla,XX1YY,0,RESPONSABLE,GROUPAMA
+2584,2005-12-03,Jenna,Young,52,Cadre,11,Amiens,LeMans,390,2017-11-16,2007-10-12,Steven Scott,Citadine,Dacia,XX24YY,1,NON RESPONSABLE,GENERALI
+4460,1997-12-23,Sara,Freeman,21,Non Cadre,43,Strasbourg,LeHavre,890,2010-01-29,2011-12-25,Rebekah Parker,Citadine,Fiat,XX40YY,0,NON RESPONSABLE,ALLIANZ
+2519,1993-07-10,Melissa,Fields,44,Non Cadre,95,Amiens,Nice,388,2001-06-13,1995-04-16,Mary Giles,Berline,Fiat,XX3YY,1,NON RESPONSABLE,GROUPAMA
+4583,2000-10-09,Jacqueline,Humphrey,39,Non Cadre,69,Lyon,Bordeaux,855,1998-11-22,2001-12-10,Anthony Gonzalez,Citadine,Mazda,XX89YY,1,RESPONSABLE,GENERALI
+4669,1995-05-14,Sarah,Hart,90,Non Cadre,67,Nantes,LeMans,196,2006-10-24,2001-09-10,Kelly Nunez,Electrique,Dacia,XX92YY,1,RESPONSABLE,ALLIANZ
+1582,1994-03-27,Douglas,Rhodes,67,Non Cadre,19,Amiens,LeHavre,204,2015-04-17,2003-12-02,Melissa Marsh,Electrique,Fiat,XX28YY,1,RESPONSABLE,GENERALI
+771,2013-04-12,Christopher,Lindsey,16,Non Cadre,61,Amiens,LeHavre,471,2012-03-04,2002-01-15,Tanya Taylor,Electrique,Tesla,XX13YY,0,NON RESPONSABLE,ALLIANZ
+1875,2009-08-25,Thomas,Owens,40,Non Cadre,71,Lyon,Nice,44,2001-01-04,2011-09-23,David Cantu,Citadine,Honda,XX39YY,1,NON RESPONSABLE,GENERALI
+617,2013-12-11,Brian,Wright,30,Non Cadre,21,Paris,Nice,313,2003-08-14,2014-03-13,Jamie Warren,Berline,Kia,XX83YY,0,RESPONSABLE,AXA
+2872,1993-01-20,Michelle,Williams,34,Non Cadre,24,Paris,Clermont,469,2006-05-07,2009-06-29,Cassidy Page,Electrique,Honda,XX20YY,0,NON RESPONSABLE,GENERALI
+2335,2020-08-15,Kristin,Yates,43,Non Cadre,16,Lyon,LeMans,462,2017-10-23,1995-04-29,Tracy Nguyen,Berline,Kia,XX35YY,1,NON RESPONSABLE,ALLIANZ
+695,2000-07-01,Steven,Hogan,98,Cadre,78,Lille,Marseille,787,2007-01-26,1994-12-19,Jeremy Solomon,Berline,Tesla,XX27YY,0,NON RESPONSABLE,ALLIANZ
+3895,2008-10-07,Vickie,Fernandez,3,Cadre,79,Paris,Marseille,176,1994-03-23,2011-08-28,Cameron Taylor,Citadine,Dacia,XX35YY,1,NON RESPONSABLE,GENERALI
+1518,1996-06-08,Lauren,Russell,15,Cadre,47,Amiens,LeHavre,14,2003-11-14,2003-03-07,Anthony Williams,Electrique,Tesla,XX27YY,0,NON RESPONSABLE,GENERALI
+4761,2002-06-11,Anna,Montgomery,36,Non Cadre,64,Lille,Clermont,490,2016-09-18,2006-05-30,Lisa Hernandez,Electrique,Kia,XX27YY,0,RESPONSABLE,GENERALI
+3855,2014-01-10,Monica,Williams,11,Cadre,42,Strasbourg,Marseille,925,2015-10-10,2009-11-13,Todd Lindsey,Berline,Audi,XX64YY,0,NON RESPONSABLE,ALLIANZ
+2886,1994-09-17,Christine,Dean,49,Cadre,92,Nantes,LeMans,428,1999-11-27,1997-04-02,Lisa Miles,Citadine,Tesla,XX77YY,0,RESPONSABLE,GENERALI
+4534,2014-07-03,Kimberly,Dunn,2,Non Cadre,46,Strasbourg,Marseille,774,2006-07-11,2003-11-14,Jessica Parker,Electrique,Dacia,XX20YY,0,NON RESPONSABLE,GENERALI
+2571,1998-08-22,Monica,Jones,2,Cadre,91,Paris,LeHavre,782,2020-09-15,2007-05-22,Lisa Vasquez,Berline,Tesla,XX13YY,0,RESPONSABLE,ALLIANZ
+1541,2003-06-14,John,Spears,64,Cadre,98,Strasbourg,Clermont,780,2021-03-17,2000-02-17,Steve Conley,Berline,Hyundai,XX51YY,0,RESPONSABLE,GROUPAMA
+1429,2002-12-27,Matthew,Cameron,1,Cadre,93,Lyon,LeHavre,160,2005-11-26,1998-11-19,William Hunter,Citadine,Fiat,XX5YY,1,NON RESPONSABLE,GROUPAMA
+1151,2012-07-09,Brittany,Shepard,58,Cadre,60,Nantes,Marseille,774,2003-12-27,2005-04-20,Erin Peters,Berline,Audi,XX56YY,0,NON RESPONSABLE,AXA
+243,2018-01-22,Jennifer,Davenport,94,Non Cadre,70,Lyon,Marseille,931,1993-02-25,2019-09-29,Briana Simmons,Berline,Audi,XX65YY,1,NON RESPONSABLE,GENERALI
+1081,1998-04-13,John,Yates,81,Cadre,1,Amiens,LeHavre,707,1993-07-22,2015-10-04,Andrea Velasquez,Electrique,Kia,XX15YY,1,RESPONSABLE,GROUPAMA
+3932,2019-11-21,Michael,Jones DVM,5,Non Cadre,30,Amiens,Bordeaux,896,2011-11-15,2009-07-22,Nicholas Harrison,Berline,Kia,XX76YY,1,NON RESPONSABLE,ALLIANZ
+2285,1994-11-10,Calvin,Wood,23,Non Cadre,70,Nantes,Marseille,762,2007-11-01,1993-11-08,Steve Stanley,Citadine,Mazda,XX4YY,0,RESPONSABLE,ALLIANZ
+3156,2017-12-30,Jason,Paul,14,Cadre,8,Paris,LeMans,262,1994-05-03,1992-03-02,Traci Nunez,Berline,Tesla,XX2YY,0,NON RESPONSABLE,GENERALI
+579,1994-11-18,Michael,Benson,26,Non Cadre,19,Lyon,LeHavre,879,1999-06-17,2000-07-11,Mark Luna,Berline,Mazda,XX68YY,1,NON RESPONSABLE,ALLIANZ
+2850,2012-12-24,Joseph,French,63,Non Cadre,55,Nantes,Marseille,51,2020-11-27,1993-05-29,Donald Gill,Electrique,Kia,XX43YY,1,RESPONSABLE,ALLIANZ
+922,1991-09-22,Beth,Morales,22,Cadre,99,Strasbourg,Nice,283,2020-08-14,1998-08-21,Stacy Lawson,Berline,Fiat,XX58YY,1,NON RESPONSABLE,ALLIANZ
+24,1994-08-16,Dr.,Sandy Strickland,71,Cadre,35,Lyon,LeMans,546,2013-04-18,2003-03-23,Richard Martin,Electrique,Fiat,XX17YY,0,RESPONSABLE,GROUPAMA
+1619,2010-04-01,Adrian,Kaufman,45,Non Cadre,53,Lyon,Nice,508,1996-10-06,2013-10-21,Mary Carpenter,Berline,Tesla,XX22YY,0,RESPONSABLE,AXA
+3353,2019-03-31,Brian,Soto,95,Cadre,39,Amiens,Bordeaux,134,2021-06-10,1995-05-09,Steven Pena,Citadine,Tesla,XX55YY,1,NON RESPONSABLE,ALLIANZ
+68,2020-05-31,Joseph,Adams,36,Cadre,2,Paris,Marseille,177,2017-12-15,2000-03-23,Julie Lee,Berline,Honda,XX47YY,0,RESPONSABLE,GROUPAMA
+4025,2020-04-08,Dana,Nelson,88,Cadre,48,Lyon,Bordeaux,785,2007-04-19,2010-08-29,Kent Olsen,Citadine,Dacia,XX6YY,1,RESPONSABLE,ALLIANZ
+4809,2019-02-05,Steven,Martin,41,Cadre,92,Nantes,Clermont,761,2016-01-10,2014-03-06,Jared Warner,Citadine,Mazda,XX67YY,0,RESPONSABLE,GROUPAMA
+954,1992-08-11,Monica,Smith,27,Non Cadre,6,Lille,Marseille,164,2007-11-13,1998-04-26,Marissa Jennings,Electrique,Tesla,XX46YY,1,RESPONSABLE,GENERALI
+4733,2019-08-21,Kristen,Sherman DDS,80,Cadre,75,Paris,LeHavre,684,2010-08-10,2019-05-21,Samuel Hicks,Berline,Kia,XX47YY,0,RESPONSABLE,GENERALI
+2479,1997-12-25,Sheila,Brown,1,Non Cadre,1,Strasbourg,LeHavre,683,2011-05-16,2015-08-06,Matthew Avila,Citadine,Kia,XX1YY,1,RESPONSABLE,GENERALI
+4794,2010-04-06,Deborah,Owen,25,Non Cadre,57,Nantes,LeHavre,147,2003-02-13,1997-02-10,Carmen Sullivan,Berline,Mazda,XX60YY,1,RESPONSABLE,GENERALI
+656,2006-01-03,Julie,Cox,58,Cadre,23,Lyon,Marseille,270,2002-08-13,2004-12-04,Nathan Harris,Citadine,Dacia,XX8YY,1,RESPONSABLE,ALLIANZ
+1183,2016-01-19,Carol,Wiggins,64,Cadre,17,Nantes,LeHavre,651,2014-02-17,2003-09-14,Steven Moore,Electrique,Honda,XX7YY,1,RESPONSABLE,GENERALI
+2817,2020-05-26,Jack,Garza,2,Non Cadre,18,Strasbourg,LeMans,97,2014-09-17,2014-07-30,Christopher Moore,Citadine,Fiat,XX5YY,1,NON RESPONSABLE,GROUPAMA
+2264,2011-10-03,Adam,Foster,63,Cadre,21,Nantes,LeMans,651,2002-11-22,2011-12-22,Beth Novak,Electrique,Dacia,XX12YY,0,RESPONSABLE,GROUPAMA
+2732,2004-12-27,Robin,Baker,33,Cadre,28,Nantes,Clermont,595,2006-04-28,1998-01-01,Jeanne Robinson,Citadine,Mazda,XX5YY,1,NON RESPONSABLE,GENERALI
+368,2006-03-19,Michael,James,21,Cadre,76,Amiens,Nice,859,2016-10-02,2016-11-28,Dana Leblanc,Citadine,Hyundai,XX44YY,0,NON RESPONSABLE,ALLIANZ
+2078,2009-09-24,Martin,Davidson,20,Non Cadre,84,Amiens,Nice,251,1992-10-05,2004-01-17,Charles Edwards,Electrique,Dacia,XX0YY,1,RESPONSABLE,GENERALI
+2498,1993-01-18,Lisa,Petersen,89,Non Cadre,54,Strasbourg,Clermont,94,2018-05-07,1999-05-15,Theodore Smith,Citadine,Fiat,XX59YY,0,RESPONSABLE,ALLIANZ
+3112,2010-05-03,Kathy,Chambers,56,Non Cadre,14,Paris,LeMans,184,2014-09-23,2012-05-14,Catherine Jones,Berline,Audi,XX42YY,0,RESPONSABLE,ALLIANZ
+3396,1993-05-07,Heidi,Lopez,64,Non Cadre,86,Strasbourg,Nice,932,2010-10-27,1997-01-10,Kristen Smith,Berline,Audi,XX55YY,1,NON RESPONSABLE,ALLIANZ
+2422,2015-08-07,Barbara,Elliott,34,Cadre,56,Lyon,Clermont,353,2020-12-05,2016-10-18,Todd Schultz,Berline,Mazda,XX48YY,0,RESPONSABLE,GROUPAMA
+168,1996-07-23,Amy,Evans,67,Non Cadre,53,Nantes,Marseille,675,2000-12-03,2007-08-27,Anthony Andersen,Electrique,Honda,XX92YY,0,RESPONSABLE,ALLIANZ
+2102,1997-09-01,Steven,Vasquez,98,Non Cadre,15,Lille,Marseille,668,1999-03-26,1993-04-02,Kimberly Atkins,Citadine,Fiat,XX64YY,0,RESPONSABLE,GENERALI
+96,2009-06-08,John,May,80,Non Cadre,43,Lille,LeMans,177,2009-12-15,2003-02-24,Vanessa Bell,Berline,Kia,XX89YY,0,RESPONSABLE,GROUPAMA
+3231,1991-12-09,Kenneth,Brown,20,Non Cadre,94,Nantes,LeHavre,614,2000-04-01,2021-05-22,Carrie Calderon,Berline,Tesla,XX79YY,1,NON RESPONSABLE,AXA
+3,2004-09-12,Gary,Stevens,21,Non Cadre,12,Strasbourg,Marseille,264,1999-06-27,1995-07-19,Candace Moore,Citadine,Fiat,XX84YY,0,NON RESPONSABLE,ALLIANZ
+2696,2018-10-08,William,Cox,85,Cadre,42,Paris,LeMans,112,2019-10-27,2006-02-14,Lisa Lloyd,Citadine,Audi,XX34YY,0,RESPONSABLE,AXA
+3774,2003-01-24,Scott,Baker,20,Cadre,78,Lyon,LeMans,978,2000-03-13,1996-06-02,James Bruce,Electrique,Fiat,XX40YY,0,NON RESPONSABLE,ALLIANZ
+2926,2007-04-02,Maria,Osborne,12,Cadre,78,Amiens,Clermont,925,1993-08-13,1996-09-21,Kelly Chen,Electrique,Tesla,XX94YY,1,RESPONSABLE,GROUPAMA
+834,2002-06-07,Laura,Jackson,59,Non Cadre,48,Paris,Clermont,874,2008-06-16,1999-03-24,Annette Hampton,Berline,Hyundai,XX5YY,1,NON RESPONSABLE,GROUPAMA
+629,1993-01-30,Nicole,Turner,95,Non Cadre,6,Strasbourg,LeHavre,205,2014-05-29,2017-09-12,Michele Moore DDS,Berline,Dacia,XX30YY,1,NON RESPONSABLE,ALLIANZ
+2059,2003-04-16,Kristin,Hall,36,Cadre,87,Lyon,LeHavre,953,1994-09-03,2004-04-07,Gina Palmer,Berline,Hyundai,XX27YY,0,RESPONSABLE,GENERALI
+3615,1997-02-27,John,Booth,30,Non Cadre,84,Nantes,Marseille,763,2009-05-17,2001-06-27,Jack Taylor,Electrique,Dacia,XX99YY,0,RESPONSABLE,GENERALI
+2748,1994-10-11,Erin,Owens,89,Cadre,78,Lille,Clermont,352,2008-01-25,2013-06-27,Benjamin Rogers,Citadine,Honda,XX55YY,1,RESPONSABLE,ALLIANZ
+1519,1994-02-10,Melissa,Huber,3,Cadre,15,Amiens,Bordeaux,559,2005-05-21,2018-01-07,Hannah Smith,Citadine,Audi,XX86YY,1,RESPONSABLE,GROUPAMA
+2940,2020-02-27,Lauren,Tucker,57,Cadre,93,Nantes,Clermont,394,1994-05-17,1999-10-03,Rachel Ruiz,Electrique,Honda,XX60YY,1,NON RESPONSABLE,GENERALI
+4402,2007-07-24,Ryan,Harris,26,Cadre,78,Nantes,Marseille,695,1994-09-13,2016-07-12,Kathleen Richardson,Berline,Hyundai,XX12YY,1,RESPONSABLE,GENERALI
+31,1993-02-15,Cynthia,Velasquez,31,Non Cadre,47,Paris,Bordeaux,840,1993-01-22,2017-12-05,Kathleen Peterson,Berline,Audi,XX53YY,1,NON RESPONSABLE,GROUPAMA
+3430,1992-12-10,Brandon,Ayala,85,Non Cadre,95,Nantes,Nice,133,2018-06-26,2005-03-13,Heather Steele,Berline,Kia,XX51YY,0,NON RESPONSABLE,ALLIANZ
+3015,2019-07-04,Robin,Proctor,99,Cadre,76,Strasbourg,LeMans,33,2019-07-24,1994-12-12,Annette Wright,Electrique,Honda,XX53YY,0,RESPONSABLE,GROUPAMA
+3358,2014-05-08,Aaron,Paul,93,Non Cadre,5,Amiens,Bordeaux,93,1994-11-02,1999-09-01,Connie Murphy,Electrique,Dacia,XX7YY,1,NON RESPONSABLE,GROUPAMA
+2226,1996-01-22,Emily,Fitzgerald,42,Cadre,67,Lyon,Nice,146,2006-05-24,2012-02-16,Jose Jones,Berline,Dacia,XX28YY,0,NON RESPONSABLE,GENERALI
+1236,2016-08-17,Mark,Turner,22,Cadre,53,Lille,LeHavre,123,1992-01-14,2020-02-25,Steven Buchanan,Electrique,Tesla,XX0YY,1,NON RESPONSABLE,AXA
+2306,2014-03-10,Timothy,Rhodes,59,Non Cadre,28,Lille,LeHavre,91,1993-04-18,2018-07-19,Trevor Roberts,Electrique,Tesla,XX45YY,0,RESPONSABLE,GROUPAMA
+1399,2003-07-16,Stephen,Zimmerman,23,Cadre,53,Amiens,Bordeaux,969,2017-07-01,1994-05-26,John Rodriguez,Berline,Fiat,XX3YY,1,NON RESPONSABLE,GENERALI
+3459,2003-09-21,Jodi,Smith,36,Non Cadre,96,Paris,LeMans,610,1999-08-06,2006-04-30,Hannah Lee,Berline,Dacia,XX81YY,0,RESPONSABLE,AXA
+1679,2019-10-25,Trevor,Sullivan,56,Cadre,17,Paris,Nice,965,2021-04-16,2020-05-05,Courtney Spencer,Electrique,Dacia,XX43YY,0,RESPONSABLE,GENERALI
+3077,2000-03-07,Cathy,Diaz,4,Cadre,90,Lyon,Nice,867,2001-05-30,1997-01-23,Robert Gray,Electrique,Dacia,XX55YY,1,NON RESPONSABLE,GENERALI
+4668,1996-04-25,Thomas,Lawson,51,Cadre,4,Strasbourg,LeMans,114,2006-10-07,2020-08-20,Carol Lamb,Electrique,Mazda,XX69YY,1,RESPONSABLE,AXA
+4276,2000-07-27,Cesar,Gilbert,14,Non Cadre,1,Lyon,Marseille,647,1994-11-26,2013-01-26,Cassidy Jordan,Citadine,Audi,XX47YY,0,RESPONSABLE,GENERALI
+2182,2005-12-07,Vanessa,Williams,18,Non Cadre,97,Strasbourg,LeHavre,463,2014-01-16,2003-09-20,Brandon Hawkins,Electrique,Mazda,XX79YY,1,NON RESPONSABLE,ALLIANZ
+4054,2013-01-16,Susan,Mcgrath,58,Cadre,54,Lyon,LeMans,781,2021-08-11,2021-01-24,Christina Hill,Citadine,Tesla,XX10YY,0,NON RESPONSABLE,ALLIANZ
+4478,2013-04-13,Bradley,Garner,86,Cadre,34,Lille,Marseille,261,2008-08-25,1993-02-19,Matthew Rivera,Electrique,Fiat,XX66YY,1,RESPONSABLE,GENERALI
+2189,1999-07-14,James,Hall,36,Non Cadre,52,Amiens,Bordeaux,678,2020-10-23,2014-12-23,Lori Andrews,Citadine,Hyundai,XX65YY,0,RESPONSABLE,GENERALI
+2,2015-06-02,Jessica,Warren,24,Non Cadre,3,Amiens,Nice,713,1993-01-21,2010-09-02,Matthew Collins,Citadine,Honda,XX1YY,1,NON RESPONSABLE,GROUPAMA
+3343,2015-10-24,Donna,Park,59,Non Cadre,77,Strasbourg,LeHavre,161,2014-12-18,2010-04-23,Eric Gibson,Electrique,Kia,XX51YY,0,NON RESPONSABLE,GROUPAMA
+2216,2004-10-25,Kimberly,Smith,61,Cadre,17,Strasbourg,Nice,63,2009-10-21,2019-05-15,Robert Davis,Berline,Honda,XX63YY,0,NON RESPONSABLE,AXA
+3110,2005-08-09,Michele,Roberts,37,Non Cadre,39,Paris,Bordeaux,232,2011-07-27,1993-12-31,Daniel Johnson,Berline,Honda,XX60YY,1,NON RESPONSABLE,GENERALI
+2693,2009-07-20,Kevin,Alvarez,30,Cadre,79,Nantes,Marseille,147,1995-12-02,2007-04-26,Robert Miller,Berline,Tesla,XX8YY,0,RESPONSABLE,AXA
+1940,2013-12-27,Steven,Baird,18,Cadre,41,Amiens,Clermont,84,1996-11-04,1999-12-17,Ms. Patricia Wheeler,Berline,Kia,XX98YY,0,NON RESPONSABLE,GROUPAMA
+509,2011-04-04,Jennifer,Wilkinson,14,Cadre,82,Lyon,Nice,913,1996-12-24,2004-06-19,Joel Gray,Berline,Audi,XX16YY,1,RESPONSABLE,GENERALI
+4313,2018-01-24,Kathryn,Romero,32,Cadre,89,Paris,Nice,68,2001-10-28,2000-08-01,Eric Payne,Electrique,Dacia,XX39YY,1,NON RESPONSABLE,ALLIANZ
+2847,2012-12-21,Kelly,Salazar,9,Non Cadre,11,Paris,Clermont,585,2018-10-03,1998-12-14,Courtney Kim,Berline,Mazda,XX87YY,0,RESPONSABLE,AXA
+983,2013-11-03,Keith,Kennedy,18,Cadre,38,Lille,Bordeaux,586,1998-02-23,2002-12-14,Adam Moore,Berline,Tesla,XX35YY,0,NON RESPONSABLE,GENERALI
+853,2005-05-21,Monica,Mitchell,71,Cadre,0,Amiens,Marseille,897,2021-08-11,2006-10-14,Bryce Wilson,Citadine,Dacia,XX87YY,1,RESPONSABLE,ALLIANZ
+4957,2009-12-03,Melissa,Harvey,59,Cadre,41,Amiens,Nice,928,1997-05-16,2020-05-26,Melissa Johnson,Electrique,Audi,XX2YY,0,NON RESPONSABLE,ALLIANZ
+625,2001-08-26,Jessica,Webster,29,Non Cadre,39,Lille,Marseille,579,2002-11-24,2010-04-21,Joseph Morales,Citadine,Honda,XX8YY,1,NON RESPONSABLE,AXA
+4714,2004-07-25,Susan,Martin,88,Non Cadre,39,Nantes,LeMans,377,1995-04-16,2005-11-18,Jasmine Rodriguez,Electrique,Kia,XX37YY,1,NON RESPONSABLE,AXA
+2031,2007-10-03,Jennifer,Thompson,30,Non Cadre,59,Nantes,LeHavre,359,1998-05-06,2018-03-07,Shannon Elliott,Citadine,Kia,XX24YY,1,RESPONSABLE,ALLIANZ
+3082,2018-10-23,Edward,Erickson,37,Non Cadre,30,Nantes,Bordeaux,498,2013-04-02,2001-01-22,Nathan Martinez,Citadine,Honda,XX99YY,0,NON RESPONSABLE,GENERALI
+3603,2018-07-28,Janet,Wilcox,24,Non Cadre,80,Paris,Clermont,980,2007-11-15,2005-08-21,William Moore,Citadine,Mazda,XX82YY,0,NON RESPONSABLE,ALLIANZ
+1841,2019-04-06,Charles,Gill,4,Non Cadre,26,Lille,LeMans,42,2004-07-09,2009-02-17,Katherine Little,Electrique,Hyundai,XX80YY,1,NON RESPONSABLE,GROUPAMA
+3398,1992-11-15,Ann,Stephens,4,Cadre,28,Nantes,LeHavre,890,2008-12-28,2004-02-12,Stephanie Scott,Berline,Tesla,XX4YY,0,NON RESPONSABLE,ALLIANZ
+4636,2019-09-24,Emily,Taylor DVM,40,Cadre,43,Nantes,Nice,527,2005-01-11,2007-09-22,Rachel Ruiz,Berline,Kia,XX23YY,0,NON RESPONSABLE,ALLIANZ
+2750,2015-10-25,Danny,Rose,6,Cadre,70,Paris,LeHavre,148,2002-12-13,2002-07-14,Adam Hill,Citadine,Tesla,XX28YY,0,RESPONSABLE,GENERALI
+4950,1995-09-28,Michael,Rice,17,Cadre,84,Amiens,Clermont,353,2010-09-07,2021-06-26,Nicole Jackson,Citadine,Mazda,XX6YY,1,NON RESPONSABLE,AXA
+3450,1998-01-07,Tammy,Hayes,84,Cadre,84,Lille,Nice,390,2015-02-03,2002-03-15,Jason Carr,Berline,Tesla,XX14YY,0,RESPONSABLE,ALLIANZ
+2508,1992-10-28,Courtney,Peterson,91,Non Cadre,97,Lyon,LeMans,386,2007-05-12,2004-11-19,Amanda Smith,Berline,Kia,XX12YY,1,NON RESPONSABLE,AXA
+3690,1992-06-16,Gregory,Baker,82,Cadre,2,Strasbourg,LeHavre,555,2005-01-05,2013-03-18,Christine Cook,Electrique,Dacia,XX52YY,0,RESPONSABLE,AXA
+4947,2021-04-07,Drew,Gibson,88,Non Cadre,49,Nantes,Nice,888,1995-03-25,2021-07-13,William Miranda,Electrique,Hyundai,XX31YY,1,RESPONSABLE,GENERALI
+4341,2014-06-10,Dawn,Williamson,99,Cadre,22,Paris,Marseille,869,1992-01-19,1999-10-10,Chelsea Henderson,Citadine,Tesla,XX31YY,0,RESPONSABLE,AXA
+3289,1999-01-18,Billy,Scott,0,Non Cadre,39,Nantes,Nice,920,2011-12-22,2013-03-03,Scott Anderson,Berline,Dacia,XX93YY,0,RESPONSABLE,ALLIANZ
+1524,2007-11-09,Erin,Cross,26,Cadre,3,Amiens,Bordeaux,373,1993-12-01,2009-06-05,Briana Garcia,Electrique,Fiat,XX82YY,0,NON RESPONSABLE,ALLIANZ
+2607,1998-04-17,Jeffrey,Whitney,87,Cadre,4,Lyon,Marseille,959,2021-03-31,2021-03-24,Charles Wheeler PhD,Citadine,Tesla,XX57YY,1,RESPONSABLE,GENERALI
+1606,2008-06-06,Joshua,Anderson,49,Cadre,30,Nantes,Clermont,437,1995-10-23,2018-09-12,Amber Jones,Berline,Fiat,XX26YY,0,RESPONSABLE,GENERALI
+3274,2014-11-17,Jacob,Goodman,66,Cadre,61,Strasbourg,Nice,251,2021-05-15,2002-09-12,Tanya Davis,Citadine,Tesla,XX59YY,1,NON RESPONSABLE,GROUPAMA
+748,2001-04-27,Meghan,Adams,77,Cadre,12,Amiens,Marseille,879,2007-05-11,2015-04-10,Joe Brown,Citadine,Tesla,XX94YY,1,RESPONSABLE,GENERALI
+2781,2008-06-29,Thomas,Rogers,9,Cadre,45,Nantes,LeHavre,327,2020-04-10,1999-02-28,Scott Morgan,Citadine,Honda,XX2YY,0,NON RESPONSABLE,GROUPAMA
+3751,1995-09-26,Lauren,Wells,66,Non Cadre,96,Lyon,LeMans,581,2005-08-10,2010-06-15,Caroline Smith,Citadine,Mazda,XX44YY,1,RESPONSABLE,ALLIANZ
+4295,2005-07-19,Kathleen,Thomas,76,Cadre,79,Amiens,Bordeaux,71,2015-10-22,2017-03-20,Christopher Coleman,Citadine,Hyundai,XX40YY,1,NON RESPONSABLE,AXA
+391,2003-02-13,Michael,Garcia,12,Cadre,90,Nantes,Nice,579,2006-02-25,1997-04-28,Devin Bowers,Electrique,Mazda,XX99YY,0,RESPONSABLE,GENERALI
+4189,2001-12-01,Heidi,Hart,22,Non Cadre,50,Lyon,Clermont,90,1994-03-31,2002-09-01,Nathan Banks,Berline,Dacia,XX0YY,1,NON RESPONSABLE,AXA
+1854,2007-02-08,Elizabeth,Buchanan,62,Cadre,27,Nantes,Marseille,736,2012-12-13,1999-03-04,Rebecca Walker,Electrique,Audi,XX47YY,1,NON RESPONSABLE,AXA
+42,2018-02-06,Alexis,Evans,90,Cadre,37,Amiens,Marseille,413,1994-05-16,2002-05-29,Joseph Hoffman,Citadine,Dacia,XX70YY,0,NON RESPONSABLE,ALLIANZ
+2669,1996-12-28,Brianna,Carter,89,Cadre,57,Strasbourg,Marseille,631,1994-03-07,2013-01-19,Cory Hanna MD,Electrique,Kia,XX24YY,1,RESPONSABLE,GROUPAMA
+312,1999-05-16,Gregory,Caldwell,96,Cadre,31,Nantes,Nice,598,1997-06-03,1994-02-10,Elizabeth Johnson,Citadine,Fiat,XX80YY,1,RESPONSABLE,ALLIANZ
+1112,1994-07-16,Michael,Martin,85,Non Cadre,90,Amiens,LeMans,756,1998-10-09,1998-07-26,Jennifer Jones,Electrique,Mazda,XX78YY,1,RESPONSABLE,GENERALI
+2612,2002-08-26,Kenneth,Smith MD,59,Cadre,94,Nantes,Marseille,952,2020-10-20,1995-10-09,Joseph Powers,Citadine,Kia,XX33YY,0,RESPONSABLE,GROUPAMA
+1462,1992-11-13,Laura,Bates,47,Non Cadre,70,Paris,LeHavre,831,2020-04-05,1996-11-02,Adriana Scott,Citadine,Dacia,XX35YY,1,RESPONSABLE,AXA
+1260,1999-12-30,Crystal,Mcdonald,77,Non Cadre,2,Lyon,LeHavre,479,1993-10-22,2003-11-13,Sarah Woods,Citadine,Kia,XX98YY,0,NON RESPONSABLE,AXA
+3713,1999-07-17,Melinda,Elliott,55,Non Cadre,61,Lyon,Clermont,358,2014-10-15,2002-03-15,Darlene Barnett,Electrique,Dacia,XX86YY,1,NON RESPONSABLE,AXA
+849,2003-08-30,Jason,Roberson,39,Non Cadre,94,Paris,LeHavre,694,2003-03-15,2013-09-18,Samuel Collins,Berline,Mazda,XX1YY,1,RESPONSABLE,AXA
+3075,2021-07-26,Lisa,Martinez,21,Cadre,7,Strasbourg,LeMans,697,1998-10-10,2009-11-20,Laura Ray,Berline,Tesla,XX66YY,0,RESPONSABLE,AXA
+3151,2008-01-06,Elizabeth,Johnson,50,Cadre,37,Lyon,Marseille,229,2012-11-14,1991-10-30,Angela Jones,Electrique,Mazda,XX8YY,1,RESPONSABLE,GROUPAMA
+205,2020-12-11,Stacy,Gay,95,Non Cadre,51,Strasbourg,LeHavre,718,2003-05-25,2013-03-04,Derrick Arias,Berline,Kia,XX14YY,1,NON RESPONSABLE,AXA
+3824,1997-02-07,Sarah,Wright,11,Cadre,0,Amiens,Bordeaux,693,2000-07-05,2006-01-19,Rebecca Harris,Electrique,Mazda,XX29YY,0,RESPONSABLE,GROUPAMA
+4645,2006-03-01,Mary,Mann,74,Non Cadre,11,Lyon,Nice,448,2012-01-29,2007-04-01,Derek Tate,Berline,Hyundai,XX94YY,0,RESPONSABLE,GROUPAMA
+862,2019-05-23,Dr.,Tonya Lutz,57,Cadre,20,Lyon,Nice,693,2011-08-17,2008-08-07,Gregory Phillips,Citadine,Hyundai,XX51YY,0,NON RESPONSABLE,AXA
+2918,2004-04-14,Brenda,Fields,39,Non Cadre,27,Amiens,Marseille,785,2005-07-28,2020-01-06,Amanda Sellers,Electrique,Kia,XX79YY,0,RESPONSABLE,GROUPAMA
+1348,2020-05-02,Christopher,Yang,21,Non Cadre,29,Amiens,LeHavre,584,2018-03-28,2002-09-21,Amanda Jackson,Citadine,Hyundai,XX80YY,1,NON RESPONSABLE,GENERALI
+2475,1998-07-29,Andrew,Fitzgerald,49,Non Cadre,3,Strasbourg,LeMans,348,2005-07-04,2005-10-23,Cynthia Stevens,Citadine,Kia,XX46YY,0,NON RESPONSABLE,AXA
+167,1995-08-16,Lawrence,Carroll,99,Cadre,77,Lille,Bordeaux,389,2005-05-24,2015-06-30,Amy Lewis,Citadine,Honda,XX74YY,0,NON RESPONSABLE,GENERALI
+3188,2016-03-21,Shawna,Garcia,86,Cadre,69,Amiens,Bordeaux,211,2003-05-28,2020-11-28,Joshua Kirby,Citadine,Dacia,XX29YY,0,RESPONSABLE,AXA
+1552,2016-02-19,Frank,Wise,83,Non Cadre,18,Lille,Marseille,68,2015-01-09,1996-02-20,Cindy Davis,Electrique,Hyundai,XX2YY,1,NON RESPONSABLE,GENERALI
+534,2010-07-07,Mrs.,Sophia Mullins,15,Non Cadre,44,Lyon,LeHavre,95,1995-02-16,2002-09-10,Kristopher Rogers,Berline,Dacia,XX43YY,0,RESPONSABLE,GROUPAMA
+4142,2012-11-16,Juan,Lynch,95,Cadre,56,Strasbourg,Marseille,305,2020-08-28,1994-08-07,Julie Hill,Berline,Tesla,XX35YY,1,RESPONSABLE,ALLIANZ
+3641,2011-08-30,Joseph,Reyes,69,Cadre,18,Lille,Bordeaux,102,1992-08-02,1992-02-28,Gerald Clark,Citadine,Fiat,XX52YY,0,RESPONSABLE,ALLIANZ
+4680,2005-08-20,Jonathan,Wolfe,62,Cadre,25,Paris,Clermont,236,2005-07-01,2013-06-12,Joseph Kent,Electrique,Audi,XX60YY,0,NON RESPONSABLE,GENERALI
+4736,1999-09-20,Jennifer,Cruz,23,Cadre,20,Lyon,Clermont,227,2007-11-04,2012-07-18,Cheryl Cordova,Electrique,Audi,XX87YY,1,NON RESPONSABLE,GENERALI
+1882,2021-08-19,David,Johnson,40,Cadre,98,Lille,LeHavre,347,1998-03-16,2014-03-27,Kelsey Johnson,Berline,Tesla,XX86YY,0,RESPONSABLE,AXA
+770,1993-04-12,Brooke,Solomon,54,Cadre,21,Paris,LeMans,596,2004-06-20,2007-05-08,Joseph Morales,Berline,Fiat,XX22YY,0,RESPONSABLE,GROUPAMA
+3881,2014-08-29,Philip,Sullivan,27,Cadre,33,Strasbourg,Marseille,661,2015-04-17,2009-07-20,Howard Hampton,Electrique,Kia,XX12YY,1,NON RESPONSABLE,GENERALI
+1721,2000-09-02,Rhonda,Fuller,91,Non Cadre,88,Lyon,Marseille,340,1996-04-26,2005-02-08,Vincent Chandler,Electrique,Kia,XX85YY,0,RESPONSABLE,AXA
+3597,1995-08-31,Matthew,Faulkner Jr.,13,Non Cadre,76,Amiens,Bordeaux,489,2002-11-22,2012-02-07,Mason Wilson,Electrique,Audi,XX57YY,0,NON RESPONSABLE,GENERALI
+2452,2005-09-03,Roy,Cooke,71,Non Cadre,1,Amiens,LeMans,903,1997-01-23,2007-05-20,Gerald Smith,Citadine,Tesla,XX31YY,1,RESPONSABLE,AXA
+2205,2019-10-25,Peggy,Dickerson,69,Cadre,44,Paris,LeMans,549,1992-05-15,1996-12-01,Sarah Beck,Electrique,Dacia,XX70YY,0,NON RESPONSABLE,AXA
+4545,2007-08-08,David,Crane,97,Cadre,45,Paris,Bordeaux,866,2005-05-05,2016-11-05,Michael Carson,Berline,Audi,XX42YY,0,NON RESPONSABLE,ALLIANZ
+1479,2007-04-24,Mrs.,Christina Chavez,22,Non Cadre,82,Lille,LeMans,893,2008-06-25,1995-12-04,Patricia Ruiz,Electrique,Mazda,XX83YY,1,RESPONSABLE,AXA
+116,1991-12-12,Rebecca,Jones,21,Non Cadre,59,Nantes,LeMans,197,2010-09-26,1993-07-17,Joan Cain,Citadine,Tesla,XX14YY,0,RESPONSABLE,GROUPAMA
+1735,2009-04-01,Alyssa,Duran,83,Cadre,48,Lyon,Clermont,660,2010-05-05,2019-01-27,Edward Hill,Citadine,Hyundai,XX15YY,0,RESPONSABLE,GENERALI
+1322,2004-06-24,Mr.,Aaron Roberts,26,Non Cadre,63,Amiens,Clermont,185,1993-07-13,2011-03-01,Malik Trevino,Berline,Hyundai,XX43YY,1,NON RESPONSABLE,AXA
+4020,2009-11-02,Rachel,Fox,14,Non Cadre,97,Paris,LeMans,777,1999-10-26,2021-08-21,Deborah Gallegos,Electrique,Mazda,XX86YY,1,RESPONSABLE,AXA
+4408,2012-06-04,Melissa,Cannon,12,Non Cadre,12,Nantes,Clermont,181,1998-06-19,1996-06-20,Hannah Finley,Electrique,Tesla,XX20YY,0,RESPONSABLE,GENERALI
+4753,2000-02-19,Rachel,Moreno,24,Cadre,7,Nantes,Nice,379,2017-06-04,1999-11-09,Ronald Oconnor,Citadine,Dacia,XX73YY,1,NON RESPONSABLE,AXA
+40,2015-10-09,Devin,Green,8,Non Cadre,5,Nantes,Bordeaux,26,2015-08-22,2006-06-03,Kimberly Moss,Electrique,Mazda,XX71YY,0,RESPONSABLE,GENERALI
+4880,2016-04-12,Susan,Thompson,87,Cadre,63,Lyon,Marseille,958,2004-02-14,2019-06-09,Susan King,Electrique,Fiat,XX72YY,0,NON RESPONSABLE,ALLIANZ
+4453,2008-06-30,James,Mcclure,28,Cadre,14,Amiens,LeMans,377,1992-05-11,2004-06-14,Linda Ferguson,Citadine,Hyundai,XX92YY,0,RESPONSABLE,GROUPAMA
+3101,2001-11-28,Kara,Clark,34,Cadre,21,Lille,Bordeaux,514,2005-06-27,2000-06-01,Marie Mitchell,Electrique,Hyundai,XX11YY,0,NON RESPONSABLE,AXA
+2874,2001-07-22,Sandra,Martin,77,Non Cadre,76,Paris,LeHavre,65,2002-04-09,2002-07-11,Jose Williams,Electrique,Audi,XX9YY,0,NON RESPONSABLE,GROUPAMA
+1155,2005-04-19,Mary,Brown,40,Cadre,4,Paris,LeHavre,501,2001-01-01,2010-04-08,Sarah Patton,Citadine,Audi,XX4YY,0,RESPONSABLE,GENERALI
+4466,2000-12-29,Jessica,Price,46,Non Cadre,38,Lyon,Clermont,889,2008-04-03,2017-02-07,Christie White,Electrique,Dacia,XX79YY,1,NON RESPONSABLE,GROUPAMA
+4021,1996-03-31,Theresa,Donovan,68,Non Cadre,37,Strasbourg,Marseille,763,2018-07-26,2015-05-06,Michael Graham,Electrique,Honda,XX29YY,0,NON RESPONSABLE,AXA
+2279,2002-06-14,William,Martin,15,Cadre,82,Amiens,LeMans,547,2004-01-15,1995-12-13,Jessica Tanner,Berline,Tesla,XX45YY,1,RESPONSABLE,ALLIANZ
+3971,2006-09-09,Scott,Smith,90,Non Cadre,49,Nantes,Marseille,328,2010-04-21,1995-02-28,Joshua Richardson,Citadine,Kia,XX78YY,0,NON RESPONSABLE,GROUPAMA
+95,2009-07-17,Jorge,James,62,Non Cadre,64,Lille,Marseille,503,2005-09-13,1991-10-19,Charles Sanford,Berline,Kia,XX1YY,0,RESPONSABLE,GENERALI
+854,2010-07-18,Alexandra,Velez,28,Non Cadre,52,Amiens,Marseille,751,2000-08-13,1992-10-23,Ronnie Diaz,Berline,Dacia,XX40YY,0,NON RESPONSABLE,AXA
+180,2004-01-13,Brittany,Franklin,26,Non Cadre,95,Lyon,LeHavre,805,2010-02-16,1994-09-29,Christopher Thornton DDS,Electrique,Fiat,XX14YY,0,NON RESPONSABLE,ALLIANZ
+752,2003-01-01,Gloria,Stewart,74,Non Cadre,32,Paris,Bordeaux,394,2000-08-04,2010-07-24,Courtney Crawford,Berline,Dacia,XX42YY,0,NON RESPONSABLE,AXA
+2687,2006-11-18,Jeff,Brown,77,Cadre,71,Lyon,LeHavre,552,1996-09-14,2005-05-29,Roger Coleman,Citadine,Dacia,XX57YY,0,NON RESPONSABLE,ALLIANZ
+2461,1997-02-10,Warren,Snyder,11,Cadre,66,Strasbourg,Clermont,642,2007-10-30,2000-11-19,Adam Miller,Citadine,Kia,XX57YY,0,NON RESPONSABLE,ALLIANZ
+692,1999-01-01,Austin,Wright,20,Cadre,61,Paris,Marseille,96,2014-09-03,1992-04-11,Patricia Smith,Citadine,Tesla,XX16YY,0,RESPONSABLE,ALLIANZ
+1329,2007-04-30,Kelly,Hicks,3,Cadre,43,Paris,LeMans,257,1999-07-13,2005-03-27,Erik Blackwell,Berline,Hyundai,XX32YY,0,NON RESPONSABLE,GROUPAMA
+1730,2021-08-09,Robert,Kelley,78,Cadre,12,Paris,Nice,876,2020-05-12,1993-02-03,Miss Patricia Benson,Citadine,Dacia,XX91YY,0,RESPONSABLE,GROUPAMA
+4757,2009-11-25,Jackie,Long,52,Cadre,55,Nantes,LeHavre,698,2003-01-25,2014-12-21,Phillip Hall,Berline,Audi,XX39YY,0,NON RESPONSABLE,ALLIANZ
+898,2005-11-02,Jennifer,Mccarthy,17,Cadre,54,Lille,LeMans,441,2001-03-14,2015-09-26,Vincent Miranda,Berline,Mazda,XX29YY,1,NON RESPONSABLE,GROUPAMA
+2222,1997-07-14,Richard,Nichols,9,Cadre,35,Strasbourg,Clermont,528,2011-10-25,1993-05-01,Lee Murphy,Citadine,Tesla,XX74YY,0,RESPONSABLE,GENERALI
+3807,2007-02-05,Ryan,Morrow,21,Cadre,40,Lyon,Nice,855,1999-05-15,1998-03-31,Brandon Hutchinson,Citadine,Hyundai,XX1YY,0,NON RESPONSABLE,GENERALI
+4049,2004-03-19,Glenn,Young,41,Cadre,68,Nantes,LeHavre,183,2004-04-10,2005-01-07,Curtis Johnson,Berline,Fiat,XX47YY,1,RESPONSABLE,ALLIANZ
+2780,2004-06-22,Miguel,Newman,48,Cadre,98,Nantes,Clermont,408,2004-06-06,2011-11-16,Melissa Palmer,Berline,Hyundai,XX29YY,0,NON RESPONSABLE,GENERALI
+3266,2021-06-11,Julia,Nguyen,88,Cadre,82,Nantes,Bordeaux,880,2013-09-27,1993-12-22,Michael Glover,Citadine,Honda,XX88YY,1,NON RESPONSABLE,AXA
+2545,2004-06-30,Christopher,Williams PhD,85,Cadre,15,Lille,Clermont,828,2002-09-07,2006-07-23,Isaac Brown,Berline,Dacia,XX90YY,1,RESPONSABLE,GROUPAMA
+938,1992-11-20,Whitney,Santos,50,Cadre,29,Lyon,Clermont,767,2020-10-29,1994-10-24,Jennifer Howard,Electrique,Tesla,XX96YY,1,RESPONSABLE,AXA
+558,2011-07-17,Nicole,Sanchez,50,Cadre,4,Lille,LeHavre,818,1997-09-01,2006-02-23,Pamela Lopez,Berline,Mazda,XX87YY,0,RESPONSABLE,GROUPAMA
+4149,2001-11-24,Michael,Miller,28,Cadre,72,Paris,Marseille,214,1996-08-30,2008-06-14,Kathleen Brown,Berline,Fiat,XX46YY,0,RESPONSABLE,GROUPAMA
+1123,1994-10-25,Nicole,Martinez,9,Non Cadre,34,Lyon,Clermont,182,2016-02-26,1997-10-02,Matthew Glenn,Berline,Dacia,XX79YY,0,RESPONSABLE,AXA
+4259,1997-03-13,Henry,Thomas,66,Cadre,9,Lyon,Bordeaux,552,2007-08-19,1992-02-17,Sandra Smith,Berline,Tesla,XX9YY,0,NON RESPONSABLE,AXA
+619,2002-12-28,Elizabeth,Larson,28,Non Cadre,80,Lyon,Nice,120,2016-11-23,2004-05-20,Dr. Janice Krueger,Berline,Mazda,XX63YY,1,RESPONSABLE,GROUPAMA
+3157,1997-10-02,Jose,Simpson,47,Cadre,81,Nantes,Nice,995,2015-12-21,2016-12-20,Michelle Lawrence,Citadine,Dacia,XX29YY,1,NON RESPONSABLE,GENERALI
+630,2015-02-07,William,Lopez,70,Non Cadre,10,Strasbourg,Clermont,306,2012-01-23,2000-01-31,Cristina Berry,Electrique,Hyundai,XX93YY,0,RESPONSABLE,GENERALI
+583,2005-05-09,Olivia,Baker,95,Cadre,57,Lyon,LeHavre,565,2006-02-18,1996-01-06,Matthew Stephens,Citadine,Tesla,XX82YY,1,RESPONSABLE,ALLIANZ
+3961,2015-09-28,Christopher,Duke,96,Non Cadre,86,Paris,Bordeaux,784,2017-12-17,1995-02-11,Alexis Washington,Citadine,Kia,XX93YY,1,NON RESPONSABLE,AXA
+3589,2018-05-25,Becky,Gray,42,Cadre,45,Lyon,Clermont,541,2002-05-15,1999-11-19,Nicholas Flowers,Electrique,Mazda,XX90YY,1,RESPONSABLE,GROUPAMA
+1579,2010-03-23,William,Cortez,95,Non Cadre,75,Paris,Marseille,428,2017-10-05,1993-08-13,Brandy Rivera,Citadine,Mazda,XX49YY,0,RESPONSABLE,ALLIANZ
+384,2021-06-05,Javier,Wilson,69,Cadre,67,Nantes,LeHavre,267,2009-02-26,1998-05-23,David Larson,Berline,Tesla,XX90YY,1,NON RESPONSABLE,AXA
+4549,2003-02-21,Michael,Reynolds,26,Cadre,67,Amiens,Bordeaux,981,2004-06-23,2013-04-08,Dylan Gonzalez,Berline,Mazda,XX82YY,0,NON RESPONSABLE,AXA
+3189,2003-06-17,Ryan,Warren,74,Non Cadre,21,Lyon,LeHavre,384,1999-12-06,2020-12-23,Michelle Reyes,Berline,Tesla,XX58YY,0,RESPONSABLE,ALLIANZ
+4921,1993-07-07,Steven,Simmons,17,Cadre,91,Amiens,Clermont,596,2016-11-16,1998-03-20,Brandon Russell,Citadine,Hyundai,XX32YY,0,NON RESPONSABLE,AXA
+797,2018-07-21,Michael,Kelley,51,Cadre,52,Lille,Clermont,542,2017-08-30,2003-12-15,Nicole West,Electrique,Tesla,XX93YY,1,NON RESPONSABLE,GENERALI
+78,2005-10-07,Carla,Davis,82,Cadre,22,Nantes,Bordeaux,762,1998-11-10,2012-11-28,Lori Cooley,Berline,Honda,XX74YY,1,NON RESPONSABLE,GENERALI
+4125,2010-01-27,Julie,Mckenzie,20,Non Cadre,11,Nantes,Bordeaux,810,2012-03-18,1997-05-22,Gary Johnson,Berline,Hyundai,XX41YY,0,NON RESPONSABLE,GROUPAMA
+4403,2009-01-23,Sherry,Williams,85,Non Cadre,1,Paris,Bordeaux,151,2021-02-26,2003-05-24,Jacob Cannon,Citadine,Tesla,XX27YY,1,RESPONSABLE,GROUPAMA
+4793,2021-01-07,Calvin,Mason,14,Non Cadre,21,Strasbourg,LeHavre,441,2017-05-25,2014-05-08,Sharon Hall,Citadine,Hyundai,XX25YY,0,RESPONSABLE,ALLIANZ
+4864,2021-07-17,Denise,Le,31,Non Cadre,7,Nantes,LeHavre,897,1995-02-28,2010-03-08,Philip Diaz,Electrique,Audi,XX42YY,0,RESPONSABLE,GENERALI
+3677,1999-11-03,Diana,Wilkins,69,Non Cadre,10,Nantes,Marseille,257,2016-05-24,1999-06-27,Benjamin Wood,Citadine,Audi,XX20YY,0,NON RESPONSABLE,AXA
+2557,2019-09-24,Cathy,Valdez,4,Non Cadre,55,Nantes,Bordeaux,883,2005-01-27,2020-02-02,Bryan Martin,Electrique,Honda,XX12YY,1,NON RESPONSABLE,GROUPAMA
+2942,1999-01-17,Michele,Jefferson,82,Cadre,38,Nantes,Nice,860,1994-07-05,2001-08-12,Steven Smith,Berline,Dacia,XX70YY,1,NON RESPONSABLE,GROUPAMA
+2838,2004-10-13,Brian,Goodman,93,Cadre,96,Strasbourg,Clermont,408,2018-10-01,2004-04-05,Logan Blake,Electrique,Mazda,XX64YY,1,RESPONSABLE,GROUPAMA
+3578,2010-09-04,Danielle,Davis,67,Cadre,87,Paris,Marseille,524,2005-05-06,2020-01-31,Sharon Anderson,Citadine,Honda,XX51YY,1,RESPONSABLE,GENERALI
+1685,2016-07-26,Krystal,Torres,87,Non Cadre,49,Strasbourg,LeHavre,911,1995-06-26,2015-10-05,Mrs. Kristen Kelly MD,Berline,Honda,XX63YY,0,RESPONSABLE,GENERALI
+555,2004-08-22,Dr.,Crystal Crane,46,Non Cadre,93,Amiens,Marseille,642,1993-09-22,2010-05-02,Caitlin Rodriguez,Electrique,Hyundai,XX17YY,1,RESPONSABLE,GENERALI
+3146,1994-12-19,Amy,Shelton,88,Non Cadre,34,Nantes,Marseille,147,2008-01-21,2015-08-13,Jessica Brown,Electrique,Hyundai,XX56YY,1,NON RESPONSABLE,GROUPAMA
+2040,2000-01-09,William,Hill,32,Non Cadre,86,Paris,Nice,779,2010-10-24,2013-06-08,Marissa Thomas,Citadine,Kia,XX8YY,1,NON RESPONSABLE,AXA
+2379,2001-10-10,John,Hughes,53,Cadre,90,Nantes,LeMans,678,1995-10-05,1994-11-07,Jill Ryan MD,Electrique,Dacia,XX1YY,0,RESPONSABLE,GROUPAMA
+3927,2011-01-18,Benjamin,Morris,17,Non Cadre,42,Paris,LeMans,597,2008-07-22,1997-08-11,Jordan Lopez,Electrique,Fiat,XX29YY,1,NON RESPONSABLE,AXA
+3551,2019-05-23,Katie,Nichols,61,Cadre,14,Strasbourg,Bordeaux,743,2002-10-13,2020-02-29,Elizabeth Hughes,Citadine,Dacia,XX39YY,1,RESPONSABLE,ALLIANZ
+286,2008-04-03,Jake,Gross,30,Cadre,85,Amiens,Bordeaux,771,2010-06-01,2018-07-29,Joshua Tate,Electrique,Tesla,XX18YY,0,RESPONSABLE,GROUPAMA
+2958,2019-02-26,John,Kelly Jr.,93,Cadre,13,Amiens,Nice,397,2000-09-26,2002-02-25,Emily Shepard,Berline,Audi,XX50YY,1,RESPONSABLE,AXA
+2307,2012-05-20,Clinton,Reynolds,19,Cadre,43,Lille,Bordeaux,966,2021-06-24,2010-07-15,Christine Green,Citadine,Mazda,XX64YY,0,RESPONSABLE,GENERALI
+169,1996-02-10,Charles,Lee,10,Cadre,35,Strasbourg,Clermont,932,2003-08-21,1997-10-19,Jimmy Chapman,Electrique,Hyundai,XX22YY,0,RESPONSABLE,GROUPAMA
+3540,2014-03-02,Robert,Kelly,0,Cadre,66,Amiens,Bordeaux,326,2005-07-12,2004-01-30,Michelle Welch,Citadine,Audi,XX70YY,0,NON RESPONSABLE,GENERALI
+2312,1995-12-19,Matthew,Hoffman,63,Non Cadre,45,Paris,Marseille,9,2016-12-08,2012-09-21,Daniel Brennan,Citadine,Honda,XX68YY,1,NON RESPONSABLE,GENERALI
+2259,2020-02-03,Laurie,Weber,23,Cadre,51,Paris,Bordeaux,903,2010-08-12,1997-12-06,Robert Roy,Citadine,Honda,XX56YY,1,NON RESPONSABLE,ALLIANZ
+2802,2010-07-23,Mrs.,Michelle Peterson MD,2,Non Cadre,94,Amiens,Nice,769,2009-08-23,2018-08-31,Walter Osborne,Electrique,Hyundai,XX94YY,1,RESPONSABLE,AXA
+3213,2021-01-02,Jacob,Gregory,93,Cadre,14,Strasbourg,Marseille,165,2009-01-21,2013-04-30,Michael Burnett,Berline,Fiat,XX70YY,1,NON RESPONSABLE,ALLIANZ
+2353,1999-01-25,Matthew,Luna,56,Non Cadre,99,Nantes,LeMans,145,2010-07-26,2010-11-20,Dr. Christopher Johnson,Electrique,Fiat,XX28YY,0,RESPONSABLE,GROUPAMA
+3754,2018-12-17,Katherine,Monroe,46,Non Cadre,48,Strasbourg,Marseille,332,2009-09-14,2000-05-27,Tracy Freeman,Citadine,Audi,XX15YY,1,NON RESPONSABLE,GENERALI
+4752,1996-02-06,Nicholas,Stone,2,Non Cadre,41,Nantes,Nice,836,1998-08-04,1996-05-05,Jeffrey Deleon,Berline,Mazda,XX66YY,0,RESPONSABLE,AXA
+4286,2003-08-30,Elizabeth,Castaneda,89,Non Cadre,93,Paris,Bordeaux,489,2005-01-07,1995-07-08,Andres Lopez,Citadine,Hyundai,XX88YY,1,NON RESPONSABLE,GENERALI
+2035,2009-10-12,Lance,Gomez,90,Cadre,16,Nantes,LeMans,36,1992-12-21,2020-05-22,Mario Roberts,Berline,Audi,XX13YY,0,NON RESPONSABLE,GROUPAMA
+632,2006-01-22,Tammy,Vance,17,Non Cadre,31,Lyon,Clermont,146,2016-07-12,2004-06-25,Shannon Garcia,Electrique,Honda,XX71YY,0,RESPONSABLE,GENERALI
+4586,2005-01-25,Brandon,Harris,76,Non Cadre,23,Nantes,LeMans,548,2016-11-24,2004-07-02,Troy Kennedy,Electrique,Fiat,XX53YY,1,NON RESPONSABLE,ALLIANZ
+107,2013-07-16,Bobby,Nielsen,28,Non Cadre,15,Lille,Marseille,862,2006-10-10,2008-01-08,Leon Daniel,Electrique,Kia,XX73YY,1,RESPONSABLE,GENERALI
+777,2015-11-11,Jennifer,Turner DVM,35,Cadre,53,Lille,LeMans,437,2014-05-26,2014-03-12,Phillip Herrera,Electrique,Mazda,XX71YY,0,RESPONSABLE,GROUPAMA
+1190,2000-11-13,Amanda,Andrews,0,Cadre,57,Lyon,Marseille,417,2000-03-09,2013-10-26,Kenneth Griffin,Berline,Dacia,XX5YY,1,RESPONSABLE,ALLIANZ
+3588,1993-12-20,Eric,Nguyen,91,Cadre,87,Lyon,Nice,152,1993-02-23,2004-04-22,Jordan Townsend,Citadine,Fiat,XX41YY,0,NON RESPONSABLE,AXA
+2741,1996-07-19,Robert,Steele,57,Cadre,78,Amiens,Marseille,363,2002-12-18,1991-09-28,Chelsea Hudson,Electrique,Kia,XX28YY,1,RESPONSABLE,AXA
+3969,2008-06-23,Jimmy,Thompson,27,Cadre,30,Strasbourg,LeHavre,603,2006-10-07,2006-10-05,Michael Stafford,Berline,Dacia,XX47YY,0,RESPONSABLE,ALLIANZ
+3327,2020-08-19,Alexandra,Carter,43,Cadre,29,Lille,LeMans,504,2008-08-07,2001-08-12,Raymond Vasquez,Citadine,Tesla,XX19YY,1,NON RESPONSABLE,GROUPAMA
+1295,2018-11-04,Lisa,Taylor,80,Non Cadre,34,Strasbourg,LeMans,25,2016-07-10,1997-09-23,Patricia Holmes,Electrique,Audi,XX11YY,1,RESPONSABLE,GENERALI
+3336,1998-05-20,Eric,Bell,91,Cadre,75,Strasbourg,Bordeaux,317,2006-03-06,2009-01-11,Emily Peck,Citadine,Hyundai,XX81YY,1,RESPONSABLE,GROUPAMA
+1857,2000-04-24,Joshua,Robinson,86,Non Cadre,49,Strasbourg,Nice,410,2018-05-09,2005-04-15,Christopher Phillips MD,Electrique,Hyundai,XX83YY,1,RESPONSABLE,ALLIANZ
+2436,2011-03-30,Mark,Hale,88,Non Cadre,25,Amiens,Nice,185,2008-05-01,2004-02-12,Justin Smith PhD,Berline,Kia,XX70YY,1,RESPONSABLE,GROUPAMA
+3362,1994-03-10,Erika,Elliott,14,Cadre,77,Nantes,Nice,687,2018-09-29,2002-04-26,David Butler,Citadine,Tesla,XX2YY,1,NON RESPONSABLE,ALLIANZ
+2215,2017-04-04,Micheal,Spencer,71,Non Cadre,4,Strasbourg,Bordeaux,214,2018-06-08,1992-10-03,Michael Hernandez,Citadine,Fiat,XX92YY,0,RESPONSABLE,GENERALI
+3309,1998-09-07,Chelsea,Brown,48,Non Cadre,68,Lyon,LeMans,339,1994-09-07,2001-06-05,Jessica Smith,Electrique,Tesla,XX65YY,0,RESPONSABLE,GROUPAMA
+2097,2006-04-22,Selena,Curry,84,Non Cadre,70,Nantes,Bordeaux,917,2006-04-10,2008-08-02,Denise Armstrong,Berline,Mazda,XX83YY,1,RESPONSABLE,AXA
