@@ -10,11 +10,11 @@
  
 ```How to install Mito**:
   - First open a new terminal or command prompt. Then download the mito installer
-  - <strong> python -m pip install mitoinstaller </strong>
+  - python -m pip install mitoinstaller
   - Then run the installer. This comman may take a few moments to run
-  - <strong> python -m mitoinstaller instal </strong>
+  - python -m mitoinstaller instal
   - Finally launch jupyterlab:
-  - <srtong> python -m jupyter lab </strong>
+  - python -m jupyter lab
   ```
   
   ### 5 Tools for Data Sicence
@@ -35,6 +35,6 @@
   <li> <strong> df.isnull().sum() (find all the null values of the data)</strong> </li>
   <li> <strong> df.replace(np.nan,"0",inplace= True) </strong></li>
   <li> <strong> df1 = df[df["nom_colonne"]>100]</strong> </li>
-  <li> <strong< df.boxplot() or df['nom_colonne'].boxplot() </strong> </li>
+  <li> <strong> df.boxplot() or df['nom_colonne'].boxplot() </strong> </li>
   <li><srtong> sdf.corr() </strong> </li>
   </ol>
